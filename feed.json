@@ -110,6 +110,33 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "3 ago",
+    "titolo": "Interdittiva antimafia: rapporti tra il giudizio cautelare penale e il procedimento amministrativo prefettizio",
+    "sintesi": "Consiglio di giustizia amministrativa per la Regione Siciliana, 3 agosto 2026, n. 548 – Pres. de Francisco, Est. Lo Presti",
+    "speech": "TAR. Interdittiva antimafia: rapporti tra il giudizio cautelare penale e il procedimento amministrativo prefettizio. Consiglio di giustizia amministrativa per la Regione Siciliana, 3 agosto 2026, n. 548 – Pres. de Francisco, Est. Lo Presti."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "",
+    "titolo": "Sui limiti del giudizio di ottemperanza relativamente ad una sentenza in materia di accesso agli atti di gara",
+    "sintesi": "Consiglio di Stato, sezione V, 1° luglio 2026, n. 5217 - Pres. Caringella, Est. Urso",
+    "speech": "Consiglio di Stato ha deciso: Sui limiti del giudizio di ottemperanza relativamente ad una sentenza in materia di accesso agli atti di gara."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per la Sicilia",
+    "data": "11 lug",
+    "titolo": "Legittima la sospensione della licenza di pubblico esercizio se il titolare omette di verificare l’età dei soggetti ammessi al consumo di alcolici",
+    "sintesi": "T.a.r. per la Sicilia, Catania, sezione I, ordinanza 11 luglio 2026, n. 255 - Pres. Savasta, Est. Commandatore",
+    "speech": "T.a.r. per la Sicilia ha deciso: Legittima la sospensione della licenza di pubblico esercizio se il titolare omette di verificare l’età dei soggetti ammessi al consumo di alcolici."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "9 set",
     "titolo": "Rito super-accelerato in materia di accesso agli atti di gara: vis espansiva dell'art. 116 c.p.a. e configurabilità del provvedimento implicito di oscuramento",
@@ -117,40 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: Rito super-accelerato in materia di accesso agli atti di gara: vis espansiva dell'art. 116 c.p.a. e configurabilità del provvedimento implicito di oscuramento."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Lombardia",
     "data": "2 set",
     "titolo": "Deposito extra PAT di file in formato video per caratteristiche tecniche o per dimensioni non versabile in atti mediante il sistema telematico",
     "sintesi": "T.a.r. per la Lombardia, Brescia, sezione II, decreto 2 settembre 2026, n. 79 - Pres. ed Est. Pedron",
     "speech": "T.a.r. per la Lombardia ha deciso: Deposito extra PAT di file in formato video per caratteristiche tecniche o per dimensioni non versabile in atti mediante il sistema telematico."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Calabria",
-    "data": "16 giu",
-    "titolo": "L'accesso all'offerta tecnica dell'aggiudicatario non richiede un interesse a specifici motivi di censura",
-    "sintesi": "T.a.r. per la Calabria, Reggio Calabria, 16 giugno 2026, n. 464 – Pres. Criscenti, Est. Gaglioti",
-    "speech": "T.a.r. per la Calabria ha deciso: L'accesso all'offerta tecnica dell'aggiudicatario non richiede un interesse a specifici motivi di censura."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "26 giu",
-    "titolo": "Casa funeraria e sala del commiato: la necessaria integrazione nella Regione Veneto non viola la concorrenza",
-    "sintesi": "Consiglio di Stato, sezione VII, 26 giugno 2026, n. 5134 – Pres. ed Est. Lipari",
-    "speech": "Consiglio di Stato ha deciso: Casa funeraria e sala del commiato: la necessaria integrazione nella Regione Veneto non viola la concorrenza."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "17 lug",
-    "titolo": "Guardia di finanza: legittima la sospensione del giudizio di avanzamento per pendenza di procedimento penale e imputazione della successiva promozione al primo",
-    "sintesi": "Consiglio di Stato, sezione II, 17 luglio 2026, n. 5883 - Pres. Poli, Est. Filippini",
-    "speech": "Consiglio di Stato ha deciso: Guardia di finanza: legittima la sospensione del giudizio di avanzamento per pendenza di procedimento penale e imputazione della successiva promozione al primo."
   },
   {
     "id": 18,
