@@ -1,0 +1,13 @@
+{
+  "name": "rassegna-giuridica",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetcher di aggiornamenti giuridici per l'app Rassegna",
+  "main": "fetch-feeds.js",
+  "scripts": {
+    "fetch": "node fetch-feeds.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

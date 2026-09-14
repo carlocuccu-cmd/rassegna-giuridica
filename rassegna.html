@@ -1,0 +1,445 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rassegna — prototipo</title>
+<style>
+  :root{
+    --paper:#F5F4F0;
+    --ink:#1C2530;
+    --rule:#D8D4C8;
+    --accent:#7A2E2E;
+    --accent-soft:#F1E4E0;
+    --muted:#6B7280;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .app{
+    max-width:520px;
+    margin:0 auto;
+    min-height:100vh;
+    padding-bottom:110px;
+    position:relative;
+  }
+  header.masthead{
+    padding:28px 20px 16px;
+    border-bottom:1px solid var(--rule);
+  }
+  .masthead .kicker{
+    font-size:12px;
+    color:var(--muted);
+    letter-spacing:0.02em;
+  }
+  .masthead h1{
+    font-family:Georgia,"Source Serif Pro",serif;
+    font-weight:600;
+    font-size:32px;
+    margin:2px 0 14px;
+    letter-spacing:-0.01em;
+  }
+  .listen-btn{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    background:var(--ink);
+    color:var(--paper);
+    border:none;
+    border-radius:3px;
+    padding:12px 16px;
+    font-size:15px;
+    font-weight:600;
+    cursor:pointer;
+    width:100%;
+  }
+  .listen-btn:active{ opacity:0.85; }
+  .listen-btn .dot{
+    width:8px;height:8px;border-radius:50%;
+    background:var(--accent);
+  }
+  .beta-tag{
+    font-size:10.5px;
+    color:var(--muted);
+    border:1px solid var(--rule);
+    border-radius:2px;
+    padding:1px 6px;
+    margin-left:auto;
+  }
+
+  nav.filters{
+    display:flex;
+    gap:18px;
+    padding:14px 20px 0;
+    overflow-x:auto;
+    border-bottom:1px solid var(--rule);
+  }
+  nav.filters button{
+    background:none;
+    border:none;
+    font-size:14px;
+    color:var(--muted);
+    padding:0 0 12px;
+    white-space:nowrap;
+    border-bottom:2px solid transparent;
+    cursor:pointer;
+  }
+  nav.filters button.active{
+    color:var(--ink);
+    border-bottom:2px solid var(--accent);
+    font-weight:600;
+  }
+
+  main{ padding:4px 20px 0; }
+  .card{
+    padding:18px 0;
+    border-bottom:1px solid var(--rule);
+    cursor:pointer;
+    transition:background 0.15s ease;
+  }
+  .card.playing{
+    background:var(--accent-soft);
+    margin:0 -20px;
+    padding:18px 20px;
+  }
+  .card .meta{
+    font-size:12.5px;
+    color:var(--muted);
+    margin-bottom:6px;
+  }
+  .card h2{
+    font-family:Georgia,"Source Serif Pro",serif;
+    font-size:18px;
+    font-weight:600;
+    margin:0 0 6px;
+    line-height:1.3;
+  }
+  .card p{
+    font-size:14px;
+    line-height:1.5;
+    color:var(--ink);
+    margin:0 0 8px;
+    opacity:0.85;
+  }
+  .card .tag{
+    display:inline-block;
+    font-size:11.5px;
+    color:var(--accent);
+    border:1px solid var(--accent);
+    border-radius:2px;
+    padding:1px 7px;
+  }
+
+  .demo-note{
+    font-size:12px;
+    color:var(--muted);
+    padding:14px 20px 0;
+    line-height:1.5;
+  }
+
+  .player{
+    position:fixed;
+    bottom:0; left:0; right:0;
+    max-width:520px;
+    margin:0 auto;
+    background:var(--ink);
+    color:var(--paper);
+    padding:14px 18px 18px;
+    transform:translateY(110%);
+    transition:transform 0.25s ease;
+  }
+  .player.open{ transform:translateY(0); }
+  .player .now{
+    font-size:11.5px;
+    color:#C9CDD3;
+    margin-bottom:2px;
+  }
+  .player .title{
+    font-family:Georgia,serif;
+    font-size:15px;
+    margin-bottom:12px;
+    line-height:1.3;
+  }
+  .player .controls{
+    display:flex;
+    align-items:center;
+    gap:18px;
+  }
+  .player button{
+    background:none;
+    border:none;
+    color:var(--paper);
+    cursor:pointer;
+    padding:4px;
+  }
+  .player .play-pause{
+    width:38px;height:38px;
+    border-radius:50%;
+    background:var(--accent);
+    display:flex;align-items:center;justify-content:center;
+  }
+  .player .speed{
+    margin-left:auto;
+    font-size:13px;
+    color:#C9CDD3;
+    background:none;
+    border:1px solid #444C58;
+    border-radius:3px;
+    padding:4px 8px;
+  }
+  .player .progress{
+    height:2px;
+    background:#3A4351;
+    margin-top:12px;
+    border-radius:2px;
+    overflow:hidden;
+  }
+  .player .progress-fill{
+    height:100%;
+    background:var(--accent);
+    width:0%;
+    transition:width 0.2s linear;
+  }
+  svg{ display:block; }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <header class="masthead">
+    <div class="kicker" id="kicker">Caricamento…</div>
+    <h1>Rassegna</h1>
+    <button class="listen-btn" id="listenBtn">
+      <span class="dot"></span>
+      <span id="listenLabel">Ascolta la rassegna</span>
+      <span class="beta-tag">beta</span>
+    </button>
+  </header>
+
+  <nav class="filters" id="filters">
+    <button data-tag="tutti" class="active">Tutti</button>
+    <button data-tag="amministrativo">Amministrativo</button>
+    <button data-tag="civile">Civile</button>
+    <button data-tag="ue">UE</button>
+    <button data-tag="fiscale">Fiscale</button>
+  </nav>
+
+  <main id="feed"></main>
+
+  <p class="demo-note">Prototipo dimostrativo: le schede sono esempi, non aggiornamenti reali. La lettura vocale usa la sintesi vocale del browser (gratuita); qualità e voce disponibile variano a seconda del dispositivo.</p>
+
+  <div class="player" id="player">
+    <div class="now">In riproduzione</div>
+    <div class="title" id="playerTitle">—</div>
+    <div class="controls">
+      <button id="prevBtn" title="Precedente">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6 6h2v12H6zm3.5 6L18 6v12z"/></svg>
+      </button>
+      <button class="play-pause" id="playPauseBtn" title="Pausa/Riprendi">
+        <svg id="ppIcon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+      </button>
+      <button id="nextBtn" title="Successivo">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M16 6h2v12h-2zM6 6l8.5 6L6 18z"/></svg>
+      </button>
+      <button class="speed" id="speedBtn">1×</button>
+    </div>
+    <div class="progress"><div class="progress-fill" id="progressFill"></div></div>
+  </div>
+
+</div>
+
+<script>
+let items = [];
+
+const feedEl = document.getElementById('feed');
+const loadingNote = document.createElement('p');
+loadingNote.className = 'demo-note';
+loadingNote.textContent = 'Caricamento aggiornamenti…';
+feedEl.appendChild(loadingNote);
+
+const kickerEl = document.getElementById('kicker');
+function aggiornaKicker(){
+  const oggi = new Date().toLocaleDateString('it-IT', { weekday: 'long', day: 'numeric', month: 'long' });
+  const oggiCap = oggi.charAt(0).toUpperCase() + oggi.slice(1);
+  kickerEl.textContent = `${oggiCap} · ${items.length} aggiornamenti`;
+}
+
+fetch('feed.json')
+  .then(r => { if (!r.ok) throw new Error('feed.json non trovato'); return r.json(); })
+  .then(data => { items = data; render(); aggiornaKicker(); })
+  .catch(err => {
+    console.warn('Impossibile caricare feed.json, uso dati di scorta:', err);
+    items = FALLBACK_ITEMS;
+    render();
+    aggiornaKicker();
+  });
+
+// Dati di scorta: usati solo se feed.json non è raggiungibile (es. apertura diretta del file senza server locale)
+const FALLBACK_ITEMS = [
+  { id:1, tag:"amministrativo", fonte:"Consiglio di Stato", data:"12 set", titolo:"Sez. V, obbligo di motivazione rafforzata nei dinieghi di contributi", sintesi:"La sezione chiarisce l'onere motivazionale della PA quando rigetta domande di contributo per carenza di requisiti formali.", speech:"Consiglio di Stato, sezione quinta. Obbligo di motivazione rafforzata nei dinieghi di contributi." },
+  { id:2, tag:"civile", fonte:"Corte di Cassazione", data:"11 set", titolo:"Sez. II, sulla responsabilità del professionista per omessa informativa", sintesi:"La Cassazione ribadisce i confini della responsabilità contrattuale in caso di mancata informativa preventiva al cliente.", speech:"Corte di Cassazione, sezione seconda. Sulla responsabilità del professionista per omessa informativa." }
+];
+const filtersEl = document.getElementById('filters');
+let activeTag = 'tutti';
+let playIndex = -1;
+let queue = [];
+let speaking = false;
+let rate = 1;
+
+function render(){
+  feedEl.innerHTML = '';
+  const list = activeTag === 'tutti' ? items : items.filter(i => i.tag === activeTag);
+  list.forEach(item => {
+    const card = document.createElement('div');
+    card.className = 'card' + (queue[playIndex] && queue[playIndex].id === item.id ? ' playing' : '');
+    card.innerHTML = `
+      <div class="meta">${item.fonte} · ${item.data}</div>
+      <h2>${item.titolo}</h2>
+      <p>${item.sintesi}</p>
+      <span class="tag">${item.tag}</span>
+    `;
+    card.addEventListener('click', () => {
+      queue = list;
+      playIndex = list.indexOf(item);
+      startPlayback();
+    });
+    feedEl.appendChild(card);
+  });
+}
+
+filtersEl.querySelectorAll('button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    filtersEl.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeTag = btn.dataset.tag;
+    render();
+  });
+});
+
+// --- Player / TTS ---
+const player = document.getElementById('player');
+const playerTitle = document.getElementById('playerTitle');
+const listenBtn = document.getElementById('listenBtn');
+const listenLabel = document.getElementById('listenLabel');
+const playPauseBtn = document.getElementById('playPauseBtn');
+const ppIcon = document.getElementById('ppIcon');
+const progressFill = document.getElementById('progressFill');
+const speedBtn = document.getElementById('speedBtn');
+
+const synth = window.speechSynthesis;
+let itVoice = null;
+function pickVoice(){
+  const voices = synth.getVoices();
+  itVoice = voices.find(v => v.lang && v.lang.toLowerCase().startsWith('it')) || null;
+}
+if (synth) {
+  pickVoice();
+  synth.onvoiceschanged = pickVoice;
+}
+
+function speakCurrent(){
+  if (!synth) {
+    playerTitle.textContent = 'Sintesi vocale non disponibile su questo browser';
+    return;
+  }
+  synth.cancel();
+  const item = queue[playIndex];
+  if (!item) { closePlayer(); return; }
+  playerTitle.textContent = item.titolo;
+  render();
+  const utter = new SpeechSynthesisUtterance(item.speech);
+  utter.lang = 'it-IT';
+  if (itVoice) utter.voice = itVoice;
+  utter.rate = rate;
+  utter.onstart = () => { speaking = true; setPlayIcon(true); animateProgress(utter); };
+  utter.onend = () => {
+    speaking = false;
+    if (playIndex < queue.length - 1) {
+      playIndex++;
+      speakCurrent();
+    } else {
+      closePlayer();
+    }
+  };
+  synth.speak(utter);
+}
+
+function animateProgress(utter){
+  progressFill.style.width = '0%';
+  const estMs = Math.max(2000, utter.text.length * 55 / rate);
+  const start = Date.now();
+  const tick = () => {
+    if (!speaking) return;
+    const pct = Math.min(100, ((Date.now() - start) / estMs) * 100);
+    progressFill.style.width = pct + '%';
+    if (pct < 100 && speaking) requestAnimationFrame(tick);
+  };
+  requestAnimationFrame(tick);
+}
+
+function setPlayIcon(isPlaying){
+  ppIcon.innerHTML = isPlaying
+    ? '<path d="M6 5h4v14H6zm8 0h4v14h-4z"/>'
+    : '<path d="M8 5v14l11-7z"/>';
+}
+
+function startPlayback(){
+  if (!queue.length) { queue = items; playIndex = 0; }
+  player.classList.add('open');
+  listenLabel.textContent = 'In ascolto…';
+  speakCurrent();
+}
+
+function closePlayer(){
+  player.classList.remove('open');
+  listenLabel.textContent = 'Ascolta la rassegna';
+  speaking = false;
+  playIndex = -1;
+  render();
+}
+
+listenBtn.addEventListener('click', () => {
+  if (player.classList.contains('open')) {
+    synth && synth.cancel();
+    closePlayer();
+  } else {
+    queue = activeTag === 'tutti' ? items : items.filter(i => i.tag === activeTag);
+    playIndex = 0;
+    startPlayback();
+  }
+});
+
+playPauseBtn.addEventListener('click', () => {
+  if (!synth) return;
+  if (synth.speaking && !synth.paused) {
+    synth.pause();
+    speaking = false;
+    setPlayIcon(false);
+  } else if (synth.paused) {
+    synth.resume();
+    speaking = true;
+    setPlayIcon(true);
+  }
+});
+
+document.getElementById('nextBtn').addEventListener('click', () => {
+  if (playIndex < queue.length - 1) { playIndex++; speakCurrent(); } else { closePlayer(); }
+});
+document.getElementById('prevBtn').addEventListener('click', () => {
+  if (playIndex > 0) { playIndex--; speakCurrent(); }
+});
+speedBtn.addEventListener('click', () => {
+  rate = rate === 1 ? 1.25 : rate === 1.25 ? 0.85 : 1;
+  speedBtn.textContent = rate + '×';
+  if (synth && synth.speaking) speakCurrent();
+});
+
+render();
+</script>
+</body>
+</html>
