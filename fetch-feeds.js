@@ -210,6 +210,83 @@ async function scrapeEurLex() {
   return risultati.slice(0, 8);
 }
 
+// --- Riscrittura discorsiva (due modalità: LLM oppure template gratuito) ---
+
+// Modalità gratuita: rende le massime (elenchi di parole chiave separate da trattini)
+// leggermente più scorrevoli da ascoltare. Non è una vera riscrittura discorsiva:
+// il contenuto resta un elenco, solo con un'introduzione e punteggiatura più naturali.
+// Serve da confronto/fallback quando non è impostata ANTHROPIC_API_KEY.
+function applicaTemplateDiscorsivo(item) {
+  let speech = item.speech;
+
+  if (item.fonte === 'Corte di Cassazione') {
+    const sezione = item.titolo.split('—')[0].trim().toLowerCase();
+    const corpo = item.sintesi.replace(/\s-\s/g, ', ').replace(/[.…]+$/, '');
+    speech = `La Corte di Cassazione, ${sezione}, si è pronunciata su questi punti: ${corpo}.`;
+  } else if (/consiglio di stato|t\.a\.r\./i.test(item.fonte)) {
+    speech = `${item.fonte} ha deciso: ${item.titolo}.`;
+  } else if (item.fonte === 'Gazzetta Ufficiale') {
+    speech = `Gazzetta Ufficiale. ${item.titolo}. Riferimento normativo: ${item.sintesi}.`;
+  } else if (item.fonte === 'EUR-Lex') {
+    speech = `EUR-Lex. ${item.titolo}.`;
+  }
+
+  return { ...item, speech };
+}
+
+// Modalità con LLM: chiede a Claude di riscrivere ogni voce in italiano discorsivo,
+// come se lo stesse raccontando a voce ("la Cassazione ha stabilito che..."), in un'unica
+// chiamata per tutti gli item (più economico di una chiamata per ciascuno).
+// Richiede la variabile d'ambiente ANTHROPIC_API_KEY. Se assente o se la chiamata fallisce,
+// il chiamante deve ricadere su applicaTemplateDiscorsivo.
+async function riscriviConLLM(items) {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) return null;
+
+  const input = items.map(it => ({ id: it.id, fonte: it.fonte, titolo: it.titolo, sintesi: it.sintesi }));
+
+  const prompt = `Sei un giornalista giuridico che prepara una rassegna da ascoltare in auto. Per ciascuna voce dell'elenco JSON, riscrivi il contenuto in italiano discorsivo e naturale, come se lo stessi raccontando a voce a un collega avvocato. Non limitarti a incollare le parole chiave separate da trattini nel testo originale: spiega davvero il principio, la decisione o la novità in una o due frasi di senso compiuto, mantenendo tutti i fatti rilevanti (numero di sentenza o norma se presente, oggetto, conclusione). Esempi di registro: "La Cassazione ha stabilito che nel pignoramento presso terzi...", "Il TAR ha annullato il diniego perché...", "È stato pubblicato un decreto che proroga...".
+
+Rispondi SOLO con un array JSON valido, stessa lunghezza e stesso ordine dell'input, con oggetti nella forma:
+{"id": <id>, "titolo": "<titolo breve naturale, max 12 parole>", "sintesi": "<1-2 frasi discorsive, max 280 caratteri, per la lettura a schermo>", "speech": "<stesso contenuto della sintesi ma ottimizzato per la sintesi vocale: niente abbreviazioni come 'art.' o 'n.', scrivile per esteso ('articolo', 'numero')>"}
+
+Input:
+${JSON.stringify(input)}`;
+
+  const res = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+      'x-api-key': apiKey,
+      'anthropic-version': '2023-06-01'
+    },
+    body: JSON.stringify({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 4096,
+      messages: [{ role: 'user', content: prompt }]
+    })
+  });
+
+  if (!res.ok) throw new Error(`Anthropic API -> HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  const data = await res.json();
+  const testo = (data.content || []).map(b => b.text || '').join('');
+  const match = testo.match(/\[[\s\S]*\]/);
+  if (!match) throw new Error('Risposta del modello non in formato JSON atteso');
+  const riscritti = JSON.parse(match[0]);
+
+  const perId = new Map(riscritti.map(r => [r.id, r]));
+  return items.map(it => {
+    const r = perId.get(it.id);
+    if (!r) return it;
+    return {
+      ...it,
+      titolo: r.titolo || it.titolo,
+      sintesi: r.sintesi || it.sintesi,
+      speech: r.speech || it.speech
+    };
+  });
+}
+
 const FONTI = [
   { nome: 'Corte di Cassazione', fn: scrapeCassazione },
   { nome: 'TAR / Consiglio di Stato', fn: scrapeTarConsiglioDiStato },
@@ -232,8 +309,21 @@ async function main() {
 
   results.forEach((item, i) => { item.id = i + 1; });
 
-  fs.writeFileSync('feed.json', JSON.stringify(results, null, 2), 'utf-8');
-  console.log(`\nScritti ${results.length} aggiornamenti in feed.json`);
+  let riscritti = null;
+  if (process.env.ANTHROPIC_API_KEY) {
+    try {
+      riscritti = await riscriviConLLM(results);
+      console.log('Testi riscritti in modo discorsivo con Claude (LLM).');
+    } catch (err) {
+      console.error('Riscrittura con LLM fallita, uso la versione a template:', err.message);
+    }
+  } else {
+    console.log('ANTHROPIC_API_KEY non impostata: uso la riscrittura a template (gratuita, qualità limitata).');
+  }
+  const finale = riscritti || results.map(applicaTemplateDiscorsivo);
+
+  fs.writeFileSync('feed.json', JSON.stringify(finale, null, 2), 'utf-8');
+  console.log(`\nScritti ${finale.length} aggiornamenti in feed.json`);
 }
 
 main();
