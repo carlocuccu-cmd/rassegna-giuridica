@@ -1,5 +1,8 @@
 # Rassegna — sistema funzionante
 
+🌐 **App online:** https://carlocuccu-cmd.github.io/rassegna-giuridica/rassegna.html
+📦 **Repository:** https://github.com/carlocuccu-cmd/rassegna-giuridica
+
 Web app personale per seguire gli aggiornamenti giuridici (Cassazione, TAR, Consiglio di Stato,
 Gazzetta Ufficiale, EUR-Lex) con feed leggibile e lettura vocale, pensata per essere ascoltata in auto.
 
@@ -25,24 +28,27 @@ node fetch-feeds.js      # aggiorna feed.json con dati reali
 node server.js            # serve l'app su http://localhost:8080
 ```
 
-## Esecuzione periodica
+## Esecuzione periodica e pubblicazione
 È attiva un'attività di Task Scheduler di Windows chiamata **RassegnaGiuridica-FetchFeeds**:
-esegue `node fetch-feeds.js` ogni 3 ore e scrive l'esito in `fetch-log.txt` (creato/aggiornato
-a ogni run). Gira solo quando l'utente è loggato (nessuna password salvata). Per gestirla:
+ogni 3 ore esegue `update-and-publish.ps1`, che genera `feed.json` con dati reali e, se è
+cambiato qualcosa rispetto all'ultima pubblicazione, fa commit + push su GitHub — questo
+aggiorna automaticamente anche la versione online (GitHub Pages). L'esito di ogni run è in
+`fetch-log.txt`. Il task gira solo quando l'utente è loggato (nessuna password salvata; il push
+usa le credenziali configurate da `gh auth login` / `gh auth setup-git`). Per gestirlo:
 ```
 Get-ScheduledTask -TaskName "RassegnaGiuridica-FetchFeeds" | Get-ScheduledTaskInfo   # stato/ultimo esito
 Start-ScheduledTask -TaskName "RassegnaGiuridica-FetchFeeds"                          # esegui subito
 Disable-ScheduledTask -TaskName "RassegnaGiuridica-FetchFeeds"                        # sospendi
 Unregister-ScheduledTask -TaskName "RassegnaGiuridica-FetchFeeds"                     # rimuovi
 ```
-Nota: il task gira solo mentre il PC è acceso e l'utente ha fatto login (non a schermo spento/spento).
-Se serve aggiornamenti anche a computer spento, va spostato su un servizio esterno come GitHub Actions.
+Nota: gira solo mentre il PC è acceso e l'utente ha fatto login (non a schermo spento/spento).
+Se serve aggiornamenti anche a computer spento, va spostato su un servizio esterno come GitHub Actions
+(il sito online resterebbe comunque raggiungibile nel frattempo, solo con dati non aggiornati).
 
 ## Passi successivi (facoltativi)
 1. **EUR-Lex**: se serve davvero, va riscritto con Playwright per superare l'anti-bot.
-2. **Hosting**: pubblicare `rassegna.html` + `feed.json` su hosting statico gratuito
-   (GitHub Pages, Netlify) per raggiungerlo dal telefono in auto — utile insieme a GitHub Actions
-   per aggiornamenti anche a computer spento.
+2. **Aggiornamenti a computer spento**: spostare `fetch-feeds.js` su GitHub Actions con uno
+   schedule cron, così il sito resta aggiornato anche senza questo PC acceso.
 
 ## Criterio di validazione (da tenere a mente)
 Prima di espandere fonti o raffinare il tagging: usalo per due settimane reali, in auto, con la
