@@ -3,13 +3,22 @@
     "id": 1,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
+    "data": "14 set",
+    "titolo": "Terza sezione — Giudizio civile e penale",
+    "sintesi": "60. ESECUZIONE FORZATA. - Processo penale - Spese di costituzione di parte civile ex art. 541, comma 1, c.p.p. - Mancata previsione della provvisoria esecutività - Contrasto con gli artt. 3 e 24 Cost. - Questione di…",
+    "speech": "La Corte di Cassazione, terza sezione, si è pronunciata su questi punti: 60. ESECUZIONE FORZATA., Processo penale, Spese di costituzione di parte civile ex art. 541, comma 1, c.p.p., Mancata previsione della provvisoria esecutività, Contrasto con gli artt. 3 e 24 Cost., Questione di."
+  },
+  {
+    "id": 2,
+    "tag": "civile",
+    "fonte": "Corte di Cassazione",
     "data": "11 set",
     "titolo": "Prima sezione — Giudizio civile e penale",
     "sintesi": "Giudizio civile di rinvio ex art. 622 c.p.p. - Competenza territoriale - Individuazione - Conseguenze processuali ricollegabili all’erronea individuazione - Art. 50 c.p.c. - Applicabilità - Sussistenza.",
     "speech": "La Corte di Cassazione, prima sezione, si è pronunciata su questi punti: Giudizio civile di rinvio ex art. 622 c.p.p., Competenza territoriale, Individuazione, Conseguenze processuali ricollegabili all’erronea individuazione, Art. 50 c.p.c., Applicabilità, Sussistenza."
   },
   {
-    "id": 2,
+    "id": 3,
     "tag": "fiscale",
     "fonte": "Corte di Cassazione",
     "data": "2 set",
@@ -18,7 +27,7 @@
     "speech": "La Corte di Cassazione, quinta sezione tributaria, si è pronunciata su questi punti: Innalzamento del limite annuo di compensabilità orizzontale, Violazione, Condotta sanzionata e misura della sanzione immutate, \"Ius superveniens\", Applicabilità del principio del \"favor rei\", Mero fenomeno di."
   },
   {
-    "id": 3,
+    "id": 4,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "28 ago",
@@ -27,7 +36,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: CONCORRENZA., CONTRATTI BANCARI., Fideiussioni ordinarie pattuite tra la banca e il cliente, Clausole di reviviscenza, di sopravvenienza e di deroga all’art. 1957 c.c. riproduttive dello schema ABI, Rilascio delle."
   },
   {
-    "id": 4,
+    "id": 5,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "29 ago",
@@ -36,7 +45,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 114. PROCESSO CIVILE., Giudizio di accertamento dell'obbligo di un terzo, Artt. 548 e 549 c.p.c., nella versione risultante dalle modifiche apportate dalla l. n. 228 del 2012, dal d.l. n. 132 del 2014 (conv. con."
   },
   {
-    "id": 5,
+    "id": 6,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "18 ago",
@@ -45,7 +54,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: RISARCIMENTO DANNI, Spese giudiziali civili, Spese sostenute per consulenza tecnica di parte, Condanna del soccombente alla rifusione, Liquidazione officiosa, Sussistenza, Differenze con la consulenza di parte."
   },
   {
-    "id": 6,
+    "id": 7,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "10 ago",
@@ -54,7 +63,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: RISARCIMENTO DEI DANNI, Fatto dannoso costituente reato, Diritto al risarcimento del danno, Prescrizione, Costituzione di parte civile nel processo penale, Cause di interruzione e di sospensione della prescrizione."
   },
   {
-    "id": 7,
+    "id": 8,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "5 ago",
@@ -63,7 +72,7 @@
     "speech": "La Corte di Cassazione, seconda sezione, si è pronunciata su questi punti: Accettazione di eredità con beneficio di inventario, Termine assegnato ex art. 500 c.c., Applicabilità alla liquidazione individuale, Esclusione, Fondamento, Conseguenze."
   },
   {
-    "id": 8,
+    "id": 9,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "31 lug",
@@ -72,7 +81,7 @@
     "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Docente a tempo determinato, Orario di lavoro a tempo parziale inferiore al 50% dell’orario complessivo settimanale, Carta elettronica del docente, Art. 1, comma 121, della l. n. 107 del 2015 nella versione anteriore."
   },
   {
-    "id": 9,
+    "id": 10,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "26 lug",
@@ -81,7 +90,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: STRANIERI, RAPPORTI INTERNAZIONALI, Minori ucraini temporaneamente presenti in Italia, Attribuzione dello status di minori rifugiati, Protezione nazionale del paese di origine, Cedevolezza rispetto alla protezione."
   },
   {
-    "id": 10,
+    "id": 11,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "26 lug",
@@ -90,7 +99,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: CITTADINANZA, Cittadinanza, Minore bipolide, ab origine italiano per ius sanguinis e cittadino di un’altra nazione per ius soli, Perdita della cittadinanza italiana da parte del genitore, Conservazione della."
   },
   {
-    "id": 11,
+    "id": 12,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "18 lug",
@@ -99,58 +108,49 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: Giudice onorario di tribunale (GOT), Servizio prestato ante l. n. 247 del 2012, Trattamento economico percepito, Assoggettamento a contribuzione per la Cassa nazionale di previdenza, Esclusione, Fondamento."
   },
   {
-    "id": 12,
-    "tag": "civile",
-    "fonte": "Corte di Cassazione",
-    "data": "18 lug",
-    "titolo": "Sezioni unite — Lavoro",
-    "sintesi": "PRESCRIZIONE E DECADENZA - Declaratoria di illegittimità costituzionale dell’art. 6, comma 1, della l. n. 604 del 1966 - Conseguenze - Comunicazione del licenziamento - Incapacità naturale del destinatario - Onere della…",
-    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: PRESCRIZIONE E DECADENZA, Declaratoria di illegittimità costituzionale dell’art. 6, comma 1, della l. n. 604 del 1966, Conseguenze, Comunicazione del licenziamento, Incapacità naturale del destinatario, Onere della."
-  },
-  {
     "id": 13,
     "tag": "amministrativo",
-    "fonte": "TAR",
-    "data": "3 ago",
-    "titolo": "Interdittiva antimafia: rapporti tra il giudizio cautelare penale e il procedimento amministrativo prefettizio",
-    "sintesi": "Consiglio di giustizia amministrativa per la Regione Siciliana, 3 agosto 2026, n. 548 – Pres. de Francisco, Est. Lo Presti",
-    "speech": "TAR. Interdittiva antimafia: rapporti tra il giudizio cautelare penale e il procedimento amministrativo prefettizio. Consiglio di giustizia amministrativa per la Regione Siciliana, 3 agosto 2026, n. 548 – Pres. de Francisco, Est. Lo Presti."
+    "fonte": "Consiglio di Stato",
+    "data": "6 lug",
+    "titolo": "Ricorso avverso il silenzio: inammissibile l'azione diretta a ottenere l'adozione di un regolamento regionale",
+    "sintesi": "Consiglio di Stato, sezione III, 6 luglio 2026, n. 5403 – Pres. Greco, Est. Prossomariti",
+    "speech": "Consiglio di Stato ha deciso: Ricorso avverso il silenzio: inammissibile l'azione diretta a ottenere l'adozione di un regolamento regionale."
   },
   {
     "id": 14,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
-    "data": "",
-    "titolo": "Sui limiti del giudizio di ottemperanza relativamente ad una sentenza in materia di accesso agli atti di gara",
-    "sintesi": "Consiglio di Stato, sezione V, 1° luglio 2026, n. 5217 - Pres. Caringella, Est. Urso",
-    "speech": "Consiglio di Stato ha deciso: Sui limiti del giudizio di ottemperanza relativamente ad una sentenza in materia di accesso agli atti di gara."
+    "data": "5 giu",
+    "titolo": "Procedimento di annullamento delle ricette irregolari: l'attività vincolata della commissione farmaceutica esclude l'avviso di avvio del procedimento",
+    "sintesi": "Consiglio di Stato, sezione III, 5 giugno 2026, n. 4552 – Pres. Greco, Est. Di Raimondo",
+    "speech": "Consiglio di Stato ha deciso: Procedimento di annullamento delle ricette irregolari: l'attività vincolata della commissione farmaceutica esclude l'avviso di avvio del procedimento."
   },
   {
     "id": 15,
     "tag": "amministrativo",
-    "fonte": "T.a.r. per la Sicilia",
-    "data": "11 lug",
-    "titolo": "Legittima la sospensione della licenza di pubblico esercizio se il titolare omette di verificare l’età dei soggetti ammessi al consumo di alcolici",
-    "sintesi": "T.a.r. per la Sicilia, Catania, sezione I, ordinanza 11 luglio 2026, n. 255 - Pres. Savasta, Est. Commandatore",
-    "speech": "T.a.r. per la Sicilia ha deciso: Legittima la sospensione della licenza di pubblico esercizio se il titolare omette di verificare l’età dei soggetti ammessi al consumo di alcolici."
+    "fonte": "T.a.r. per il Piemonte",
+    "data": "23 lug",
+    "titolo": "Malfunzionamento della piattaforma di e-procurement: diritto alla sospensione dei termini di partecipazione alla procedura a favore del concorrente diligente",
+    "sintesi": "T.a.r. per il Piemonte, sezione II, 23 luglio 2026, n. 1713 – Pres. ed Est. Malanetto",
+    "speech": "T.a.r. per il Piemonte ha deciso: Malfunzionamento della piattaforma di e-procurement: diritto alla sospensione dei termini di partecipazione alla procedura a favore del concorrente diligente."
   },
   {
     "id": 16,
     "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "9 set",
-    "titolo": "Rito super-accelerato in materia di accesso agli atti di gara: vis espansiva dell'art. 116 c.p.a. e configurabilità del provvedimento implicito di oscuramento",
-    "sintesi": "Consiglio di Stato, Adunanza plenaria, 9 settembre 2026, n. 8 - Pres. Maruotti, Est. Caringella",
-    "speech": "Consiglio di Stato ha deciso: Rito super-accelerato in materia di accesso agli atti di gara: vis espansiva dell'art. 116 c.p.a. e configurabilità del provvedimento implicito di oscuramento."
+    "fonte": "T.a.r. per la Calabria",
+    "data": "28 lug",
+    "titolo": "Specifiche in materia di applicazione della normativa fallimentare all'esercizio provvisorio della sede farmaceutica",
+    "sintesi": "T.a.r. per la Calabria, sezione II, 28 luglio 2026, n. 1503 - Pres. Correale, Est. Tallaro",
+    "speech": "T.a.r. per la Calabria ha deciso: Specifiche in materia di applicazione della normativa fallimentare all'esercizio provvisorio della sede farmaceutica."
   },
   {
     "id": 17,
     "tag": "amministrativo",
-    "fonte": "T.a.r. per la Lombardia",
-    "data": "2 set",
-    "titolo": "Deposito extra PAT di file in formato video per caratteristiche tecniche o per dimensioni non versabile in atti mediante il sistema telematico",
-    "sintesi": "T.a.r. per la Lombardia, Brescia, sezione II, decreto 2 settembre 2026, n. 79 - Pres. ed Est. Pedron",
-    "speech": "T.a.r. per la Lombardia ha deciso: Deposito extra PAT di file in formato video per caratteristiche tecniche o per dimensioni non versabile in atti mediante il sistema telematico."
+    "fonte": "Consiglio di Stato",
+    "data": "10 lug",
+    "titolo": "Sulla necessità della consultazione preventiva in fase di adozione dello schema di regolamento e sull'istanza di interpello quale diritto del contribuente",
+    "sintesi": "Consiglio di Stato, sezione atti normativi, 10 luglio 2026, n. 1204 - Pres. Chieppa, Est. Grasso",
+    "speech": "Consiglio di Stato ha deciso: Sulla necessità della consultazione preventiva in fase di adozione dello schema di regolamento e sull'istanza di interpello quale diritto del contribuente."
   },
   {
     "id": 18,
