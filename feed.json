@@ -156,13 +156,22 @@
     "id": 18,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
+    "data": "16 set",
+    "titolo": "Sorveglianza e controlli sulle apparecchiature radio - modifiche",
+    "sintesi": "Decreto 21 luglio 2026, n. 161",
+    "speech": "Gazzetta Ufficiale. Sorveglianza e controlli sulle apparecchiature radio - modifiche. Riferimento normativo: Decreto 21 luglio 2026, n. 161."
+  },
+  {
+    "id": 19,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
     "data": "15 set",
     "titolo": "Intelligenza artificiale - attivita' di polizia e responsabilita' civile e penale",
     "sintesi": "D.Lgs. 9 settembre 2026, n. 160",
     "speech": "Gazzetta Ufficiale. Intelligenza artificiale - attivita' di polizia e responsabilita' civile e penale. Riferimento normativo: D.Lgs. 9 settembre 2026, n. 160."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "11 set",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. «isola di capri» - istituzione dell'area marina protetta. Riferimento normativo: L. 1° settembre 2026, n. 158."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "10 set",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - disposizioni urgenti. Riferimento normativo: D.L. 10 settembre 2026, n. 157."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "3 set",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Sistema nazionale di allerta rapida per le droghe - regolamento. Riferimento normativo: D.P.C.M. 7 luglio 2026, n. 156."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "31 ago",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Autorita' di sistema portuale del mare di sicilia orientale - regolamento di modifica. Riferimento normativo: D.P.R. 19 giugno 2026, n. 155."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 ago",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Impianti di interesse strategico nazionale - misure urgenti. Riferimento normativo: D.L.  28 agosto 2026, n. 154."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "26 ago",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - disposizioni urgenti. Riferimento normativo: D.L. 26 agosto 2026, n. 153."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "20 ago",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. Interventi infrastrutturali e attuazione pnrr - conversione d.l. 107/2026. Riferimento normativo: L. 7 agosto 2026, n. 152."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "12 ago",
     "titolo": "Settore florovivaistico - valorizzazione e sviluppo della filiera",
     "sintesi": "D.Lgs. 30 luglio 2026, n. 151",
     "speech": "Gazzetta Ufficiale. Settore florovivaistico - valorizzazione e sviluppo della filiera. Riferimento normativo: D.Lgs. 30 luglio 2026, n. 151."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "11 ago",
-    "titolo": "Tributi regionali e locali e federalismo fiscale - disposizioni",
-    "sintesi": "D.Lgs. 7 agosto 2026, n. 147",
-    "speech": "Gazzetta Ufficiale. Tributi regionali e locali e federalismo fiscale - disposizioni. Riferimento normativo: D.Lgs. 7 agosto 2026, n. 147."
   }
 ]
