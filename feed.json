@@ -111,13 +111,40 @@
     "id": 13,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
+    "data": "3 ago",
+    "titolo": "Trasformazione abusiva di garage condonato in vano abitabile: silenzio-rigetto sulla sanatoria, necessità del permesso di costruire e insindacabilità della demo",
+    "sintesi": "Consiglio di Stato, sezione II, 3 agosto 2026, n. 6212 – Pres. Poli, Est. Basilico",
+    "speech": "Consiglio di Stato ha deciso: Trasformazione abusiva di garage condonato in vano abitabile: silenzio-rigetto sulla sanatoria, necessità del permesso di costruire e insindacabilità della demo."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "8 lug",
+    "titolo": "Discarica comunale affidata in gestione: quando il Comune risponde dell'inquinamento",
+    "sintesi": "Consiglio di Stato, sezione IV, 8 luglio 2026, n. 5475 – Pres. Neri, Est. Martino",
+    "speech": "Consiglio di Stato ha deciso: Discarica comunale affidata in gestione: quando il Comune risponde dell'inquinamento."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "31 lug",
+    "titolo": "News UM n. 83/2026. L’Adunanza plenaria si pronuncia sugli effetti della sospensione cautelare giudiziale dell’ordine di demolizione di un abuso edilizio",
+    "sintesi": "Consiglio di Stato, Adunanza plenaria, sentenza non definitiva, 31 luglio 2026, n. 7 – Pres. Maruotti, Est. Tarantino",
+    "speech": "Consiglio di Stato ha deciso: News UM n. 83/2026. L’Adunanza plenaria si pronuncia sugli effetti della sospensione cautelare giudiziale dell’ordine di demolizione di un abuso edilizio."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
     "data": "6 lug",
     "titolo": "Ricorso avverso il silenzio: inammissibile l'azione diretta a ottenere l'adozione di un regolamento regionale",
     "sintesi": "Consiglio di Stato, sezione III, 6 luglio 2026, n. 5403 – Pres. Greco, Est. Prossomariti",
     "speech": "Consiglio di Stato ha deciso: Ricorso avverso il silenzio: inammissibile l'azione diretta a ottenere l'adozione di un regolamento regionale."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "5 giu",
@@ -126,34 +153,16 @@
     "speech": "Consiglio di Stato ha deciso: Procedimento di annullamento delle ricette irregolari: l'attività vincolata della commissione farmaceutica esclude l'avviso di avvio del procedimento."
   },
   {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Piemonte",
-    "data": "23 lug",
-    "titolo": "Malfunzionamento della piattaforma di e-procurement: diritto alla sospensione dei termini di partecipazione alla procedura a favore del concorrente diligente",
-    "sintesi": "T.a.r. per il Piemonte, sezione II, 23 luglio 2026, n. 1713 – Pres. ed Est. Malanetto",
-    "speech": "T.a.r. per il Piemonte ha deciso: Malfunzionamento della piattaforma di e-procurement: diritto alla sospensione dei termini di partecipazione alla procedura a favore del concorrente diligente."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Calabria",
-    "data": "28 lug",
-    "titolo": "Specifiche in materia di applicazione della normativa fallimentare all'esercizio provvisorio della sede farmaceutica",
-    "sintesi": "T.a.r. per la Calabria, sezione II, 28 luglio 2026, n. 1503 - Pres. Correale, Est. Tallaro",
-    "speech": "T.a.r. per la Calabria ha deciso: Specifiche in materia di applicazione della normativa fallimentare all'esercizio provvisorio della sede farmaceutica."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "10 lug",
-    "titolo": "Sulla necessità della consultazione preventiva in fase di adozione dello schema di regolamento e sull'istanza di interpello quale diritto del contribuente",
-    "sintesi": "Consiglio di Stato, sezione atti normativi, 10 luglio 2026, n. 1204 - Pres. Chieppa, Est. Grasso",
-    "speech": "Consiglio di Stato ha deciso: Sulla necessità della consultazione preventiva in fase di adozione dello schema di regolamento e sull'istanza di interpello quale diritto del contribuente."
-  },
-  {
     "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "15 set",
+    "titolo": "Intelligenza artificiale - attivita' di polizia e responsabilita' civile e penale",
+    "sintesi": "D.Lgs. 9 settembre 2026, n. 160",
+    "speech": "Gazzetta Ufficiale. Intelligenza artificiale - attivita' di polizia e responsabilita' civile e penale. Riferimento normativo: D.Lgs. 9 settembre 2026, n. 160."
+  },
+  {
+    "id": 19,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "11 set",
@@ -162,7 +171,7 @@
     "speech": "Gazzetta Ufficiale. «isola di capri» - istituzione dell'area marina protetta. Riferimento normativo: L. 1° settembre 2026, n. 158."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "10 set",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - disposizioni urgenti. Riferimento normativo: D.L. 10 settembre 2026, n. 157."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "3 set",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Sistema nazionale di allerta rapida per le droghe - regolamento. Riferimento normativo: D.P.C.M. 7 luglio 2026, n. 156."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "31 ago",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Autorita' di sistema portuale del mare di sicilia orientale - regolamento di modifica. Riferimento normativo: D.P.R. 19 giugno 2026, n. 155."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 ago",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Impianti di interesse strategico nazionale - misure urgenti. Riferimento normativo: D.L.  28 agosto 2026, n. 154."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "26 ago",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - disposizioni urgenti. Riferimento normativo: D.L. 26 agosto 2026, n. 153."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "20 ago",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Interventi infrastrutturali e attuazione pnrr - conversione d.l. 107/2026. Riferimento normativo: L. 7 agosto 2026, n. 152."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "12 ago",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. Settore florovivaistico - valorizzazione e sviluppo della filiera. Riferimento normativo: D.Lgs. 30 luglio 2026, n. 151."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "11 ago",
     "titolo": "Tributi regionali e locali e federalismo fiscale - disposizioni",
     "sintesi": "D.Lgs. 7 agosto 2026, n. 147",
     "speech": "Gazzetta Ufficiale. Tributi regionali e locali e federalismo fiscale - disposizioni. Riferimento normativo: D.Lgs. 7 agosto 2026, n. 147."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "11 ago",
-    "titolo": "Disposizioni integrative e correttive in materia fiscale",
-    "sintesi": "D.Lgs. 7 agosto 2026, n. 148",
-    "speech": "Gazzetta Ufficiale. Disposizioni integrative e correttive in materia fiscale. Riferimento normativo: D.Lgs. 7 agosto 2026, n. 148."
   }
 ]
