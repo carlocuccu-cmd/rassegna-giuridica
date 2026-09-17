@@ -112,12 +112,30 @@
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "3 ago",
+    "titolo": "Circolari amministrative e onere di impugnazione: legittima la quantificazione dell'indennità di rischio giornaliera della Guardia di finanza",
+    "sintesi": "Consiglio di Stato, sezione II, 3 agosto 2026, n. 6262 – Pres. Taormina, Est. Frigida",
+    "speech": "Consiglio di Stato ha deciso: Circolari amministrative e onere di impugnazione: legittima la quantificazione dell'indennità di rischio giornaliera della Guardia di finanza."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "9 lug",
+    "titolo": "Sul rapporto tra zonizzazione del territorio, mutamento della destinazione ed esercizio della libertà di culto",
+    "sintesi": "Consiglio di Stato, sezione IV, 9 luglio 2026, n. 5534 - Pres.Neri, Est. Furno",
+    "speech": "Consiglio di Stato ha deciso: Sul rapporto tra zonizzazione del territorio, mutamento della destinazione ed esercizio della libertà di culto."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "3 ago",
     "titolo": "Trasformazione abusiva di garage condonato in vano abitabile: silenzio-rigetto sulla sanatoria, necessità del permesso di costruire e insindacabilità della demo",
     "sintesi": "Consiglio di Stato, sezione II, 3 agosto 2026, n. 6212 – Pres. Poli, Est. Basilico",
     "speech": "Consiglio di Stato ha deciso: Trasformazione abusiva di garage condonato in vano abitabile: silenzio-rigetto sulla sanatoria, necessità del permesso di costruire e insindacabilità della demo."
   },
   {
-    "id": 14,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "8 lug",
@@ -126,31 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: Discarica comunale affidata in gestione: quando il Comune risponde dell'inquinamento."
   },
   {
-    "id": 15,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "31 lug",
     "titolo": "News UM n. 83/2026. L’Adunanza plenaria si pronuncia sugli effetti della sospensione cautelare giudiziale dell’ordine di demolizione di un abuso edilizio",
     "sintesi": "Consiglio di Stato, Adunanza plenaria, sentenza non definitiva, 31 luglio 2026, n. 7 – Pres. Maruotti, Est. Tarantino",
     "speech": "Consiglio di Stato ha deciso: News UM n. 83/2026. L’Adunanza plenaria si pronuncia sugli effetti della sospensione cautelare giudiziale dell’ordine di demolizione di un abuso edilizio."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "6 lug",
-    "titolo": "Ricorso avverso il silenzio: inammissibile l'azione diretta a ottenere l'adozione di un regolamento regionale",
-    "sintesi": "Consiglio di Stato, sezione III, 6 luglio 2026, n. 5403 – Pres. Greco, Est. Prossomariti",
-    "speech": "Consiglio di Stato ha deciso: Ricorso avverso il silenzio: inammissibile l'azione diretta a ottenere l'adozione di un regolamento regionale."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "5 giu",
-    "titolo": "Procedimento di annullamento delle ricette irregolari: l'attività vincolata della commissione farmaceutica esclude l'avviso di avvio del procedimento",
-    "sintesi": "Consiglio di Stato, sezione III, 5 giugno 2026, n. 4552 – Pres. Greco, Est. Di Raimondo",
-    "speech": "Consiglio di Stato ha deciso: Procedimento di annullamento delle ricette irregolari: l'attività vincolata della commissione farmaceutica esclude l'avviso di avvio del procedimento."
   },
   {
     "id": 18,
@@ -241,5 +241,32 @@
     "titolo": "Settore florovivaistico - valorizzazione e sviluppo della filiera",
     "sintesi": "D.Lgs. 30 luglio 2026, n. 151",
     "speech": "Gazzetta Ufficiale. Settore florovivaistico - valorizzazione e sviluppo della filiera. Riferimento normativo: D.Lgs. 30 luglio 2026, n. 151."
+  },
+  {
+    "id": 28,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "14 lug",
+    "titolo": "2026/2065 — Decisione (UE) 2026/2065 del Consiglio, del 14 luglio 2026, relativa alla firma e all’applicazione provvisoria dell’accordo tra l’Unione europea, da una parte, e il governo del Giappone, dall’altra, sulla partecipazione del governo del Giappone ai programmi dell’Unione",
+    "sintesi": "Decisione (UE) 2026/2065 del Consiglio, del 14 luglio 2026, relativa alla firma e all’applicazione provvisoria dell’accordo tra l’Unione europea, da una parte, e il governo del Giappone, dall’altra, sulla partecipazione del governo del Giappone ai programmi de",
+    "speech": "EUR-Lex. 2026/2065 — Decisione (UE) 2026/2065 del Consiglio, del 14 luglio 2026, relativa alla firma e all’applicazione provvisoria dell’accordo tra l’Unione europea, da una parte, e il governo del Giappone, dall’altra, sulla partecipazione del governo del Giappone ai programmi dell’Unione."
+  },
+  {
+    "id": 29,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "",
+    "titolo": "2026/2066 — Accordo tra l’Unione europea, da una parte, e il governo del Giappone, dall’altra, sulla partecipazione del governo del Giappone ai programmi dell’Unione",
+    "sintesi": "Accordo tra l’Unione europea, da una parte, e il governo del Giappone, dall’altra, sulla partecipazione del governo del Giappone ai programmi dell’Unione",
+    "speech": "EUR-Lex. 2026/2066 — Accordo tra l’Unione europea, da una parte, e il governo del Giappone, dall’altra, sulla partecipazione del governo del Giappone ai programmi dell’Unione."
+  },
+  {
+    "id": 30,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "13 lug",
+    "titolo": "2026/2102 — Regolamento delegato (UE) 2026/2102 della Commissione, del 13 luglio 2026, che modifica il regolamento (UE) 2023/1115 del Parlamento europeo e del Consiglio per quanto riguarda l’elenco delle materie prime interessate e dei prodotti interessati",
+    "sintesi": "Regolamento delegato (UE) 2026/2102 della Commissione, del 13 luglio 2026, che modifica il regolamento (UE) 2023/1115 del Parlamento europeo e del Consiglio per quanto riguarda l’elenco delle materie prime interessate e dei prodotti interessati",
+    "speech": "EUR-Lex. 2026/2102 — Regolamento delegato (UE) 2026/2102 della Commissione, del 13 luglio 2026, che modifica il regolamento (UE) 2023/1115 del Parlamento europeo e del Consiglio per quanto riguarda l’elenco delle materie prime interessate e dei prodotti interessati."
   }
 ]
