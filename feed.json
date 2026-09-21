@@ -110,6 +110,33 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "2 settebre 2026",
+    "titolo": "Omessa notifica del ricorso al controinteressato entro il termine decadenziale: rimessa alla Corte costituzionale la q.l.c. degli artt. 41 e 49 c.p.a.",
+    "sintesi": "T.a.r. per il Lazio, sezione III-quater, ordinanza 2 settebre 2026, n. 14560 - Pres. Stanizzi, Est. Rossi",
+    "speech": "T.a.r. per il Lazio ha deciso: Omessa notifica del ricorso al controinteressato entro il termine decadenziale: rimessa alla Corte costituzionale la q.l.c. degli artt. 41 e 49 c.p.a.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "24 lug",
+    "titolo": "News UM n. 85/2026. Ricorso straordinario e sezione autonoma di Bolzano: inammissibili e infondate le questioni sulla preclusione a tutela delle minoranze",
+    "sintesi": "Corte costituzionale, 24 luglio 2026, n. 150 – Pres. Amoroso, Red. Sandulli",
+    "speech": "TAR. News UM n. 85/2026. Ricorso straordinario e sezione autonoma di Bolzano: inammissibili e infondate le questioni sulla preclusione a tutela delle minoranze. Corte costituzionale, 24 luglio 2026, n. 150 – Pres. Amoroso, Red. Sandulli."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "16 lug",
+    "titolo": "News UM n. 84/2026. Applicabilità della direttiva 2000/31/CE all'hosting on line di video in presenza di pubblicità di giochi d'azzardo",
+    "sintesi": "Corte di giustizia UE, sezione II, 16 luglio 2026, C-421/24, AGCOM c. Google Ireland Ltd.",
+    "speech": "TAR. News UM n. 84/2026. Applicabilità della direttiva 2000/31/CE all'hosting on line di video in presenza di pubblicità di giochi d'azzardo. Corte di giustizia UE, sezione II, 16 luglio 2026, C-421/24, AGCOM c. Google Ireland Ltd.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "18 ago",
     "titolo": "Concessioni demaniali, proroga tecnica e indennizzo",
@@ -117,40 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: Concessioni demaniali, proroga tecnica e indennizzo."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Lombardia",
     "data": "7 set",
     "titolo": "Sulla natura di intervento chirurgico della circoncisione praticata per finalità religiose e sulla necessità di eseguirla in strutture \"protette\"",
     "sintesi": "T.a.r. per la Lombardia, Brescia, sezione I, ordinanza 7 settembre 2026, n. 328 – Pres. Gabricci, Est. Rizzo",
     "speech": "T.a.r. per la Lombardia ha deciso: Sulla natura di intervento chirurgico della circoncisione praticata per finalità religiose e sulla necessità di eseguirla in strutture \"protette\"."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "6 ago",
-    "titolo": "Distacco della provincia e aggregazione ad altra regione",
-    "sintesi": "Consiglio di Stato, sezione I, parere 6 agosto 2026, n. 1468 - Pres. Saltelli, Est. Guidi",
-    "speech": "Consiglio di Stato ha deciso: Distacco della provincia e aggregazione ad altra regione."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "23 lug",
-    "titolo": "Art. 105 c.p.a: nullità della sentenza che dichiara improcedibile il ricorso senza esaminare l'acquiescenza dell'amministrazione",
-    "sintesi": "Consiglio di Stato, sezione III, 23 luglio 2026, n. 6025 - Pres. Greco, Est. Pescatore",
-    "speech": "Consiglio di Stato ha deciso: Art. 105 c.p.a: nullità della sentenza che dichiara improcedibile il ricorso senza esaminare l'acquiescenza dell'amministrazione."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "10 lug",
-    "titolo": "Decadenza del permesso di costruire per sopravvenute previsioni urbanistiche e principio di buona fede",
-    "sintesi": "Consiglio di Stato, sezione IV, 10 luglio 2026, n. 5561 - Pres. Neri, Est. Arrivi",
-    "speech": "Consiglio di Stato ha deciso: Decadenza del permesso di costruire per sopravvenute previsioni urbanistiche e principio di buona fede."
   },
   {
     "id": 18,
