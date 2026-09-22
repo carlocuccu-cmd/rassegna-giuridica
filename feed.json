@@ -119,6 +119,15 @@
   {
     "id": 14,
     "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "6 lug",
+    "titolo": "Valutazione delle offerte tecniche, spendibilità delle esperienze maturate nell'ambito di un subappalto e validità del contratto di avvalimento",
+    "sintesi": "Consiglio di Stato, sezione V, 6 luglio 2026, n. 5372 - Pres. Caringella, Est. Perrelli",
+    "speech": "Consiglio di Stato ha deciso: Valutazione delle offerte tecniche, spendibilità delle esperienze maturate nell'ambito di un subappalto e validità del contratto di avvalimento."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
     "fonte": "TAR",
     "data": "24 lug",
     "titolo": "News UM n. 85/2026. Ricorso straordinario e sezione autonoma di Bolzano: inammissibili e infondate le questioni sulla preclusione a tutela delle minoranze",
@@ -126,7 +135,7 @@
     "speech": "TAR. News UM n. 85/2026. Ricorso straordinario e sezione autonoma di Bolzano: inammissibili e infondate le questioni sulla preclusione a tutela delle minoranze. Corte costituzionale, 24 luglio 2026, n. 150 – Pres. Amoroso, Red. Sandulli."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "2 settebre 2026",
@@ -135,22 +144,13 @@
     "speech": "T.a.r. per il Lazio ha deciso: Omessa notifica del ricorso al controinteressato entro il termine decadenziale: rimessa alla Corte costituzionale la q.l.c. degli artt. 41 e 49 c.p.a.."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "18 ago",
     "titolo": "Concessioni demaniali, proroga tecnica e indennizzo",
     "sintesi": "Consiglio di Stato, sezione VII, 18 agosto 2026, n. 6539 - Pres. Franconiero, Est. Rotondano",
     "speech": "Consiglio di Stato ha deciso: Concessioni demaniali, proroga tecnica e indennizzo."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Lombardia",
-    "data": "7 set",
-    "titolo": "Sulla natura di intervento chirurgico della circoncisione praticata per finalità religiose e sulla necessità di eseguirla in strutture \"protette\"",
-    "sintesi": "T.a.r. per la Lombardia, Brescia, sezione I, ordinanza 7 settembre 2026, n. 328 – Pres. Gabricci, Est. Rizzo",
-    "speech": "T.a.r. per la Lombardia ha deciso: Sulla natura di intervento chirurgico della circoncisione praticata per finalità religiose e sulla necessità di eseguirla in strutture \"protette\"."
   },
   {
     "id": 18,
