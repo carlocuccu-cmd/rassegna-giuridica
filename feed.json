@@ -119,6 +119,15 @@
   {
     "id": 14,
     "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "22 lug",
+    "titolo": "News UM n. 88/2026. Art. 105 c.p.a.: inammissibile il rinvio pregiudiziale ex art. 363-bis c.p.c.",
+    "sintesi": "Corte di cassazione, decreto 22 luglio 2026, n. 23776 – Pres. ed Est. D’Ascola",
+    "speech": "TAR. News UM n. 88/2026. Art. 105 c.p.a.: inammissibile il rinvio pregiudiziale ex art. 363-bis c.p.c.. Corte di cassazione, decreto 22 luglio 2026, n. 23776 – Pres. ed Est. D’Ascola."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "3 ago",
     "titolo": "News UM n. 87/2026. Prodotti farmaceutici a base di CBD e tabella dei medicinali al vaglio della Corte di giustizia UE",
@@ -126,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: News UM n. 87/2026. Prodotti farmaceutici a base di CBD e tabella dei medicinali al vaglio della Corte di giustizia UE."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "24 lug",
@@ -135,22 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: News UM n. 86/2025. Interruzioni stradali prolungate e limitazioni di velocità senza riduzione del pedaggio: pratica commerciale scorretta in danno degli utenti autostradali?."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "15 lug",
     "titolo": "Interpretazione del bando, limiti dei chiarimenti e verifica di anomalia nelle concessioni di servizi",
     "sintesi": "Consiglio di Stato, sezione V, 15 luglio 2026, n. 5730 - Pres. Lotti, Est. Urso",
     "speech": "Consiglio di Stato ha deciso: Interpretazione del bando, limiti dei chiarimenti e verifica di anomalia nelle concessioni di servizi."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "14 lug",
-    "titolo": "L'annullamento regionale del permesso di costruire è soggetto alla disciplina generale dell'annullamento in autotutela, salvo il diverso termine decennale",
-    "sintesi": "Consiglio di Stato, sezione IV, 14 luglio 2026, n. 5655 - Pres. Neri, Est. Tagliasacchi",
-    "speech": "Consiglio di Stato ha deciso: L'annullamento regionale del permesso di costruire è soggetto alla disciplina generale dell'annullamento in autotutela, salvo il diverso termine decennale."
   },
   {
     "id": 18,
