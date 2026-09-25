@@ -111,13 +111,22 @@
     "id": 13,
     "tag": "amministrativo",
     "fonte": "TAR",
+    "data": "",
+    "titolo": "Accesso difensivo alle generalità degli agenti verbalizzanti: la riservatezza non giustifica l’anonimato; il danno da ritardo va provato.",
+    "sintesi": "https://portali.giustizia-amministrativa.it/portale/pages/istituzionale/visualizza/?nodeRef=&schema=tar_rm&nrg=202604793&nomeFile=202614477_01.html&subDir=Provvedimenti",
+    "speech": "TAR. Accesso difensivo alle generalità degli agenti verbalizzanti: la riservatezza non giustifica l’anonimato; il danno da ritardo va provato.. https://portali.giustizia-amministrativa.it/portale/pages/istituzionale/visualizza/?nodeRef=&schema=tar_rm&nrg=202604793&nomeFile=202614477_01.html&subDir=Provvedimenti."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "TAR",
     "data": "16 lug",
     "titolo": "News UM n. 84/2026. Applicabilità della direttiva 2000/31/CE all'hosting on line di video in presenza di pubblicità di giochi d'azzardo",
     "sintesi": "Corte di giustizia UE, sezione II, 16 luglio 2026, C-421/24, AGCOM c. Google Ireland Ltd.",
     "speech": "TAR. News UM n. 84/2026. Applicabilità della direttiva 2000/31/CE all'hosting on line di video in presenza di pubblicità di giochi d'azzardo. Corte di giustizia UE, sezione II, 16 luglio 2026, C-421/24, AGCOM c. Google Ireland Ltd.."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "16 lug",
@@ -126,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Sull'accertamento delle inconferibilità dell'incarico da parte dell'ANAC e sulla irrilevanza della normativa sopravvenuta al conferimento.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "14 lug",
@@ -135,7 +144,7 @@
     "speech": "Consiglio di Stato ha deciso: L'omesso esame giurisdizionale della violazione dell'art. 10-bis della legge n. 241 del 1990 comporta un'inammissibile sostituzione del giudice.."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "10 lug",
@@ -144,16 +153,25 @@
     "speech": "Consiglio di Stato ha deciso: Inconfigurabilità del silenzio assenso e completezza dell'istanza di rilascio del permesso di costruire per interventi edilizi basati sul piano casa."
   },
   {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "",
-    "titolo": "Art. 105 c.p.a.: annullamento della sentenza con rinvio al primo giudice e devoluzione a quest'ultimo dei motivi di merito riproposti in appello",
-    "sintesi": "Consiglio di Stato, sezione III, 1° settembre 2026, n. 6738 - Pres. Greco, Est. D'Angelo",
-    "speech": "Consiglio di Stato ha deciso: Art. 105 c.p.a.: annullamento della sentenza con rinvio al primo giudice e devoluzione a quest'ultimo dei motivi di merito riproposti in appello."
+    "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "24 set",
+    "titolo": "Rendiconto generale dello stato - anno 2025",
+    "sintesi": "L. 18 settembre 2026, n. 164",
+    "speech": "Gazzetta Ufficiale. Rendiconto generale dello stato - anno 2025. Riferimento normativo: L. 18 settembre 2026, n. 164."
   },
   {
-    "id": 18,
+    "id": 19,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "24 set",
+    "titolo": "Assestamento del bilancio dello stato - anno 2026",
+    "sintesi": "L. 18 settembre 2026, n. 165",
+    "speech": "Gazzetta Ufficiale. Assestamento del bilancio dello stato - anno 2026. Riferimento normativo: L. 18 settembre 2026, n. 165."
+  },
+  {
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "19 set",
@@ -162,16 +180,7 @@
     "speech": "Gazzetta Ufficiale. Crollo uffici giudiziari di bolzano - conversione d.l. 127/2026. Riferimento normativo: L. 17 settembre 2026, n. 163."
   },
   {
-    "id": 19,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "17 set",
-    "titolo": "Prezzi dei carburanti, bollo auto e fisco - disposizioni urgenti",
-    "sintesi": "D.L. 17 settembre 2026, n. 162",
-    "speech": "Gazzetta Ufficiale. Prezzi dei carburanti, bollo auto e fisco - disposizioni urgenti. Riferimento normativo: D.L. 17 settembre 2026, n. 162."
-  },
-  {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "16 set",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Sorveglianza e controlli sulle apparecchiature radio - modifiche. Riferimento normativo: Decreto 21 luglio 2026, n. 161."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "15 set",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Intelligenza artificiale - attivita' di polizia e responsabilita' civile e penale. Riferimento normativo: D.Lgs. 9 settembre 2026, n. 160."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "11 set",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. «isola di capri» - istituzione dell'area marina protetta. Riferimento normativo: L. 1° settembre 2026, n. 158."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "10 set",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - disposizioni urgenti. Riferimento normativo: D.L. 10 settembre 2026, n. 157."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "3 set",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Sistema nazionale di allerta rapida per le droghe - regolamento. Riferimento normativo: D.P.C.M. 7 luglio 2026, n. 156."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "31 ago",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. Autorita' di sistema portuale del mare di sicilia orientale - regolamento di modifica. Riferimento normativo: D.P.R. 19 giugno 2026, n. 155."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 ago",
     "titolo": "Impianti di interesse strategico nazionale - misure urgenti",
     "sintesi": "D.L.  28 agosto 2026, n. 154",
     "speech": "Gazzetta Ufficiale. Impianti di interesse strategico nazionale - misure urgenti. Riferimento normativo: D.L.  28 agosto 2026, n. 154."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "26 ago",
-    "titolo": "Prezzi dei carburanti - disposizioni urgenti",
-    "sintesi": "D.L. 26 agosto 2026, n. 153",
-    "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - disposizioni urgenti. Riferimento normativo: D.L. 26 agosto 2026, n. 153."
   }
 ]
