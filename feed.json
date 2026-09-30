@@ -119,41 +119,50 @@
   {
     "id": 14,
     "tag": "amministrativo",
-    "fonte": "TAR",
-    "data": "16 lug",
-    "titolo": "News UM n. 90/2026. Sanzione accessoria dell’interdizione dalle cariche direttive accademiche a carico del professore universitario colpito da sanzione disciplinare",
-    "sintesi": "Corte costituzionale, 16 luglio 2026, n. 128 – Pres. Amoroso, Red. Patroni Griffi",
-    "speech": "TAR. News UM n. 90/2026. Sanzione accessoria dell’interdizione dalle cariche direttive accademiche a carico del professore universitario colpito da sanzione disciplinare. Corte costituzionale, 16 luglio 2026, n. 128 – Pres. Amoroso, Red. Patroni Griffi."
+    "fonte": "Consiglio di Stato",
+    "data": "31 lug",
+    "titolo": "E' illegittimo l'ordine di bonifica e di messa in sicurezza di aree inquinate emesso nei confronti del proprietario dell'area non responsabile.",
+    "sintesi": "Consiglio di Stato, sezione IV, 31 luglio 2026, n. 6152 - Pres. Carbone, Est. Santise",
+    "speech": "Consiglio di Stato ha deciso: E' illegittimo l'ordine di bonifica e di messa in sicurezza di aree inquinate emesso nei confronti del proprietario dell'area non responsabile.."
   },
   {
     "id": 15,
     "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "29 lug",
-    "titolo": "News UM n. 89/2026. Il T.a.r. per il Lazio rimette alla Corte di giustizia UE alcune questioni relative allo “strumento di azione per la sicurezza dell'Europa” (SAFE)",
-    "sintesi": "T.a.r. per il Lazio, sezione I-bis, ordinanza 29 luglio 2026, n. 13859 – Pres. Iannini, Est. Vallorani",
-    "speech": "T.a.r. per il Lazio ha deciso: News UM n. 89/2026. Il T.a.r. per il Lazio rimette alla Corte di giustizia UE alcune questioni relative allo “strumento di azione per la sicurezza dell'Europa” (SAFE)."
+    "fonte": "Consiglio di Stato",
+    "data": "28 lug",
+    "titolo": "Su sindacato della discrezionalità tecnica, ammissibilità CTU e verificazione, appello incidentale improprio, ottemperanza all'ordinanza cautelare.",
+    "sintesi": "Consiglio di Stato, sezione V, 28 luglio 2026, n. 6126 - Pres. Caringella, Est. Rovelli",
+    "speech": "Consiglio di Stato ha deciso: Su sindacato della discrezionalità tecnica, ammissibilità CTU e verificazione, appello incidentale improprio, ottemperanza all'ordinanza cautelare.."
   },
   {
     "id": 16,
     "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "16 lug",
-    "titolo": "Grave illecito professionale, omissione dichiarativa e valutazione delle misure di self cleaning.",
-    "sintesi": "Consiglio di Stato, sezione V, 16 luglio 2026, n. 5818 - Pres. Caringella, Est. Rovelli",
-    "speech": "Consiglio di Stato ha deciso: Grave illecito professionale, omissione dichiarativa e valutazione delle misure di self cleaning.."
+    "fonte": "TAR",
+    "data": "14 set",
+    "titolo": "Giustificazione dei costi della manodopera in sede di verifica dell'anomalia dell'offerta economica.",
+    "sintesi": "T.r.g.a. Trento, 14 settembre 2026, n. 141 – Pres. Farina, Est. Cappellano",
+    "speech": "TAR. Giustificazione dei costi della manodopera in sede di verifica dell'anomalia dell'offerta economica.. T.r.g.a. Trento, 14 settembre 2026, n. 141 – Pres. Farina, Est. Cappellano."
   },
   {
     "id": 17,
     "tag": "amministrativo",
-    "fonte": "T.a.r. per la Sicilia",
-    "data": "28 ago",
-    "titolo": "Azione avverso il silenzio: l’istanza meramente conoscitiva non determina la decorrenza del termine.",
-    "sintesi": "T.a.r. per la Sicilia, Catania, sezione I, 28 agosto 2026, n. 2400 - Pres. Savasta, Est. Commandatore",
-    "speech": "T.a.r. per la Sicilia ha deciso: Azione avverso il silenzio: l’istanza meramente conoscitiva non determina la decorrenza del termine.."
+    "fonte": "T.a.r. per il Lazio",
+    "data": "16 lug",
+    "titolo": "Distacco sindacale ed esclusione del militare dall'aliquota di avanzamento al grado superiore.",
+    "sintesi": "T.a.r. per il Lazio, sezione I-bis, 16 luglio 2026, n. 13097 - Pres. Iannini, Rel. Vallorani",
+    "speech": "T.a.r. per il Lazio ha deciso: Distacco sindacale ed esclusione del militare dall'aliquota di avanzamento al grado superiore.."
   },
   {
     "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "29 set",
+    "titolo": "Giustizia, funzionalita' ministero dell'interno, impianti di interesse strategico - misure urgenti",
+    "sintesi": "D.L.  29 settembre 2026, n. 168",
+    "speech": "Gazzetta Ufficiale. Giustizia, funzionalita' ministero dell'interno, impianti di interesse strategico - misure urgenti. Riferimento normativo: D.L.  29 settembre 2026, n. 168."
+  },
+  {
+    "id": 19,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 set",
@@ -162,7 +171,7 @@
     "speech": "Gazzetta Ufficiale. Circolazione veicoli diesel «euro 5» - misure urgenti. Riferimento normativo: D.L. 28 settembre 2026, n. 167."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "25 set",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - conversione d.l. 133/2026. Riferimento normativo: L.  25 settembre 2026, n. 166."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "24 set",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Rendiconto generale dello stato - anno 2025. Riferimento normativo: L. 18 settembre 2026, n. 164."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "24 set",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Assestamento del bilancio dello stato - anno 2026. Riferimento normativo: L. 18 settembre 2026, n. 165."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "19 set",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Crollo uffici giudiziari di bolzano - conversione d.l. 127/2026. Riferimento normativo: L. 17 settembre 2026, n. 163."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "16 set",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Sorveglianza e controlli sulle apparecchiature radio - modifiche. Riferimento normativo: Decreto 21 luglio 2026, n. 161."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "15 set",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Intelligenza artificiale - attivita' di polizia e responsabilita' civile e penale. Riferimento normativo: D.Lgs. 9 settembre 2026, n. 160."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "11 set",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. «isola di capri» - istituzione dell'area marina protetta. Riferimento normativo: L. 1° settembre 2026, n. 158."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "10 set",
     "titolo": "Prezzi dei carburanti - disposizioni urgenti",
     "sintesi": "D.L. 10 settembre 2026, n. 157",
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - disposizioni urgenti. Riferimento normativo: D.L. 10 settembre 2026, n. 157."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "3 set",
-    "titolo": "Sistema nazionale di allerta rapida per le droghe - regolamento",
-    "sintesi": "D.P.C.M. 7 luglio 2026, n. 156",
-    "speech": "Gazzetta Ufficiale. Sistema nazionale di allerta rapida per le droghe - regolamento. Riferimento normativo: D.P.C.M. 7 luglio 2026, n. 156."
   }
 ]
