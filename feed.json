@@ -111,13 +111,22 @@
     "id": 13,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
+    "data": "3 ago",
+    "titolo": "La mancata prestazione di un'idonea garanzia fideiussoria alla corretta esecuzione di opere pubbliche \"a scomputo\" costituisce inadempimento grave risolutivo.",
+    "sintesi": "Consiglio di Stato, sezione IV, 3 agosto 2026, n. 6236 - Pres. Carbone, Est. Carrano",
+    "speech": "Consiglio di Stato ha deciso: La mancata prestazione di un'idonea garanzia fideiussoria alla corretta esecuzione di opere pubbliche \"a scomputo\" costituisce inadempimento grave risolutivo.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
     "data": "8 lug",
     "titolo": "News UM n. 91/2026. L’Adunanza plenaria riconosce al giudice amministrativo il potere di accertare il quantum del rimborso delle spese legali",
     "sintesi": "Consiglio di Stato, Adunanza plenaria, 8 luglio 2026, n. 3 – Pres. Maruotti, Est. Simeoli",
     "speech": "Consiglio di Stato ha deciso: News UM n. 91/2026. L’Adunanza plenaria riconosce al giudice amministrativo il potere di accertare il quantum del rimborso delle spese legali."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "27 mag",
@@ -126,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: News UM n. 92/2026. Alla Corte costituzionale la abrogazione del “premio antiesodo” per gli appartenenti alla Guardia di finanza in possesso del brevetto di pilota militare."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "23 lug",
@@ -135,7 +144,7 @@
     "speech": "Consiglio di Stato ha deciso: Interdittiva antimafia e misure di prevenzione collaborativa in caso di agevolazione occasionale; principio di gradualità e motivazione.."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "16 lug",
@@ -144,16 +153,16 @@
     "speech": "Consiglio di Stato ha deciso: Giudizio elettorale: nullità del voto per segno di riconoscimento e appello incidentale del terzo controinteressato pretermesso.."
   },
   {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Sicilia",
-    "data": "31 ago",
-    "titolo": "Infondata la domanda di ottemperanza alla sentenza che abbia ordinato l'ostensione di atti non materialmente detenuti dall'amministrazione.",
-    "sintesi": "T.a.r. per la Sicilia, Catania, sezione I, 31 agosto 2026, n. 2413 - Pres. Savasta, Est. Commandatore",
-    "speech": "T.a.r. per la Sicilia ha deciso: Infondata la domanda di ottemperanza alla sentenza che abbia ordinato l'ostensione di atti non materialmente detenuti dall'amministrazione.."
+    "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "2 ott",
+    "titolo": "Attuazione statuto valle d'aosta - concessioni di derivazione d'acqua",
+    "sintesi": "D.Lgs. 11 settembre 2026, n. 172",
+    "speech": "Gazzetta Ufficiale. Attuazione statuto valle d'aosta - concessioni di derivazione d'acqua. Riferimento normativo: D.Lgs. 11 settembre 2026, n. 172."
   },
   {
-    "id": 18,
+    "id": 19,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "1 ott",
@@ -162,7 +171,7 @@
     "speech": "Gazzetta Ufficiale. Revisione codice della strada - proroga del termine per l'esercizio della delega. Riferimento normativo: L. 23 settembre 2026, n. 171."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "30 set",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Energia nucleare sostenibile - legge delega. Riferimento normativo: L. 29 settembre 2026, n. 169."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "30 set",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Integrazione studenti stranieri, scuola e ricerca - misure urgenti. Riferimento normativo: D.L. 30 settembre 2026, n. 170."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "29 set",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Giustizia, funzionalita' ministero dell'interno, impianti di interesse strategico - misure urgenti. Riferimento normativo: D.L.  29 settembre 2026, n. 168."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 set",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Circolazione veicoli diesel «euro 5» - misure urgenti. Riferimento normativo: D.L. 28 settembre 2026, n. 167."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "25 set",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - conversione d.l. 133/2026. Riferimento normativo: L.  25 settembre 2026, n. 166."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "24 set",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Rendiconto generale dello stato - anno 2025. Riferimento normativo: L. 18 settembre 2026, n. 164."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "24 set",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. Assestamento del bilancio dello stato - anno 2026. Riferimento normativo: L. 18 settembre 2026, n. 165."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "19 set",
     "titolo": "Crollo uffici giudiziari di bolzano - conversione d.l. 127/2026",
     "sintesi": "L. 17 settembre 2026, n. 163",
     "speech": "Gazzetta Ufficiale. Crollo uffici giudiziari di bolzano - conversione d.l. 127/2026. Riferimento normativo: L. 17 settembre 2026, n. 163."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "16 set",
-    "titolo": "Sorveglianza e controlli sulle apparecchiature radio - modifiche",
-    "sintesi": "Decreto 21 luglio 2026, n. 161",
-    "speech": "Gazzetta Ufficiale. Sorveglianza e controlli sulle apparecchiature radio - modifiche. Riferimento normativo: Decreto 21 luglio 2026, n. 161."
   }
 ]
