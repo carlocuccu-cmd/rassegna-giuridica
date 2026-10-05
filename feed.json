@@ -110,6 +110,33 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per la Lombardia",
+    "data": "24 lug",
+    "titolo": "News UM n. 93/2026. Alla Corte costituzionale la questione riguardante l’obbligo della motivazione rafforzata nella valutazione delle prove dell’esame di abilitazione alla professione di avvocato",
+    "sintesi": "T.a.r. per la Lombardia, sezione III, ordinanza 24 luglio 2026, n. 3911 – Pres. Goso, Est. Fornataro",
+    "speech": "T.a.r. per la Lombardia ha deciso: News UM n. 93/2026. Alla Corte costituzionale la questione riguardante l’obbligo della motivazione rafforzata nella valutazione delle prove dell’esame di abilitazione alla professione di avvocato."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per la Campania",
+    "data": "22 giu",
+    "titolo": "Sulla legittimità della revoca del bando per la concessione di aree demaniali al fine di destinarle ad un uso ritenuto più rispondente all'interesse pubblico.",
+    "sintesi": "T.a.r. per la Campania, sezione VII, 22 giugno 2026, n. 4007 - Pres. Maddalena, Est. D'Alterio",
+    "speech": "T.a.r. per la Campania ha deciso: Sulla legittimità della revoca del bando per la concessione di aree demaniali al fine di destinarle ad un uso ritenuto più rispondente all'interesse pubblico.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "23 set",
+    "titolo": "Danno da diniego del permesso di costruire e da certificato di destinazione urbanistica: preclusioni istruttorie, prevalenza del PTCP, giurisdizione.",
+    "sintesi": "Consiglio di Stato, sezione IV, 23 settembre 2026, n. 7020 – Pres. Neri, Est. Di Mauro",
+    "speech": "Consiglio di Stato ha deciso: Danno da diniego del permesso di costruire e da certificato di destinazione urbanistica: preclusioni istruttorie, prevalenza del PTCP, giurisdizione.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "3 ago",
     "titolo": "La mancata prestazione di un'idonea garanzia fideiussoria alla corretta esecuzione di opere pubbliche \"a scomputo\" costituisce inadempimento grave risolutivo.",
@@ -117,40 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: La mancata prestazione di un'idonea garanzia fideiussoria alla corretta esecuzione di opere pubbliche \"a scomputo\" costituisce inadempimento grave risolutivo.."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "8 lug",
     "titolo": "News UM n. 91/2026. L’Adunanza plenaria riconosce al giudice amministrativo il potere di accertare il quantum del rimborso delle spese legali",
     "sintesi": "Consiglio di Stato, Adunanza plenaria, 8 luglio 2026, n. 3 – Pres. Maruotti, Est. Simeoli",
     "speech": "Consiglio di Stato ha deciso: News UM n. 91/2026. L’Adunanza plenaria riconosce al giudice amministrativo il potere di accertare il quantum del rimborso delle spese legali."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "27 mag",
-    "titolo": "News UM n. 92/2026. Alla Corte costituzionale la abrogazione del “premio antiesodo” per gli appartenenti alla Guardia di finanza in possesso del brevetto di pilota militare",
-    "sintesi": "Consiglio di Stato, sezione II, sentenza non definitiva 27 maggio 2026, n. 4303 – Pres. Poli, Est. Basilico",
-    "speech": "Consiglio di Stato ha deciso: News UM n. 92/2026. Alla Corte costituzionale la abrogazione del “premio antiesodo” per gli appartenenti alla Guardia di finanza in possesso del brevetto di pilota militare."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "23 lug",
-    "titolo": "Interdittiva antimafia e misure di prevenzione collaborativa in caso di agevolazione occasionale; principio di gradualità e motivazione.",
-    "sintesi": "Consiglio di Stato, sezione III, 23 luglio 2026, n. 6035 - Pres. Greco, est. Prossomariti",
-    "speech": "Consiglio di Stato ha deciso: Interdittiva antimafia e misure di prevenzione collaborativa in caso di agevolazione occasionale; principio di gradualità e motivazione.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "16 lug",
-    "titolo": "Giudizio elettorale: nullità del voto per segno di riconoscimento e appello incidentale del terzo controinteressato pretermesso.",
-    "sintesi": "Consiglio di Stato, sezione V, 16 luglio 2026, n. 5819 - Pres. Caringella, Est. Picardi",
-    "speech": "Consiglio di Stato ha deciso: Giudizio elettorale: nullità del voto per segno di riconoscimento e appello incidentale del terzo controinteressato pretermesso.."
   },
   {
     "id": 18,
