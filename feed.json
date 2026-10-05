@@ -110,6 +110,24 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "31 lug",
+    "titolo": "Legittimazione degli avvocati all'impugnazione degli atti del CPGA e sindacato sulle assegnazioni dei magistrati amministrativi.",
+    "sintesi": "Consiglio di Stato, sezione VII, 31 luglio 2026, n. 6191 - Pres. f.f. Di Carlo, Est. Rotondano",
+    "speech": "Consiglio di Stato ha deciso: Legittimazione degli avvocati all'impugnazione degli atti del CPGA e sindacato sulle assegnazioni dei magistrati amministrativi.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "18 ago",
+    "titolo": "Incentivi fotovoltaici \"su edifici\": nozione e riqualificazione dell'istanza da parte del G.s.e.",
+    "sintesi": "Consiglio di Stato, sezione II, 18 agosto 2026, n. 6537 - Pres. Forlenza, Est. Manzione",
+    "speech": "Consiglio di Stato ha deciso: Incentivi fotovoltaici \"su edifici\": nozione e riqualificazione dell'istanza da parte del G.s.e.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
     "fonte": "T.a.r. per la Lombardia",
     "data": "24 lug",
     "titolo": "News UM n. 93/2026. Alla Corte costituzionale la questione riguardante l’obbligo della motivazione rafforzata nella valutazione delle prove dell’esame di abilitazione alla professione di avvocato",
@@ -117,40 +135,22 @@
     "speech": "T.a.r. per la Lombardia ha deciso: News UM n. 93/2026. Alla Corte costituzionale la questione riguardante l’obbligo della motivazione rafforzata nella valutazione delle prove dell’esame di abilitazione alla professione di avvocato."
   },
   {
-    "id": 14,
+    "id": 16,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "19 ago",
+    "titolo": "Efficacia del giudicato amministrativo in caso di annullamento di un atto amministrativo generale",
+    "sintesi": "Consiglio di Stato, sezione II, 19 agosto 2026, n. 6541 - Pres. Forlenza, Est. Manzione",
+    "speech": "Consiglio di Stato ha deciso: Efficacia del giudicato amministrativo in caso di annullamento di un atto amministrativo generale."
+  },
+  {
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Campania",
     "data": "22 giu",
     "titolo": "Sulla legittimità della revoca del bando per la concessione di aree demaniali al fine di destinarle ad un uso ritenuto più rispondente all'interesse pubblico.",
     "sintesi": "T.a.r. per la Campania, sezione VII, 22 giugno 2026, n. 4007 - Pres. Maddalena, Est. D'Alterio",
     "speech": "T.a.r. per la Campania ha deciso: Sulla legittimità della revoca del bando per la concessione di aree demaniali al fine di destinarle ad un uso ritenuto più rispondente all'interesse pubblico.."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "23 set",
-    "titolo": "Danno da diniego del permesso di costruire e da certificato di destinazione urbanistica: preclusioni istruttorie, prevalenza del PTCP, giurisdizione.",
-    "sintesi": "Consiglio di Stato, sezione IV, 23 settembre 2026, n. 7020 – Pres. Neri, Est. Di Mauro",
-    "speech": "Consiglio di Stato ha deciso: Danno da diniego del permesso di costruire e da certificato di destinazione urbanistica: preclusioni istruttorie, prevalenza del PTCP, giurisdizione.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "3 ago",
-    "titolo": "La mancata prestazione di un'idonea garanzia fideiussoria alla corretta esecuzione di opere pubbliche \"a scomputo\" costituisce inadempimento grave risolutivo.",
-    "sintesi": "Consiglio di Stato, sezione IV, 3 agosto 2026, n. 6236 - Pres. Carbone, Est. Carrano",
-    "speech": "Consiglio di Stato ha deciso: La mancata prestazione di un'idonea garanzia fideiussoria alla corretta esecuzione di opere pubbliche \"a scomputo\" costituisce inadempimento grave risolutivo.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "8 lug",
-    "titolo": "News UM n. 91/2026. L’Adunanza plenaria riconosce al giudice amministrativo il potere di accertare il quantum del rimborso delle spese legali",
-    "sintesi": "Consiglio di Stato, Adunanza plenaria, 8 luglio 2026, n. 3 – Pres. Maruotti, Est. Simeoli",
-    "speech": "Consiglio di Stato ha deciso: News UM n. 91/2026. L’Adunanza plenaria riconosce al giudice amministrativo il potere di accertare il quantum del rimborso delle spese legali."
   },
   {
     "id": 18,
@@ -241,5 +241,77 @@
     "titolo": "Crollo uffici giudiziari di bolzano - conversione d.l. 127/2026",
     "sintesi": "L. 17 settembre 2026, n. 163",
     "speech": "Gazzetta Ufficiale. Crollo uffici giudiziari di bolzano - conversione d.l. 127/2026. Riferimento normativo: L. 17 settembre 2026, n. 163."
+  },
+  {
+    "id": 28,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "17 feb",
+    "titolo": "2026/2217 — Decisione (UE) 2026/2217 del Consiglio, del 17 febbraio 2026, relativa alla firma e all’applicazione provvisoria dell’accordo in forma di scambio di lettere tra l’Unione europea e il Regno del Marocco che modifica e integra l’accordo di cooperazione scientifica e tecnologica tra l’Unione europea e il Regno del Marocco volto a stabilire i termini e le condizioni della partecipazione del Regno del Marocco al partenariato per la ricerca e l’innovazione nell’area del Mediterraneo (PRIMA)",
+    "sintesi": "Decisione (UE) 2026/2217 del Consiglio, del 17 febbraio 2026, relativa alla firma e all’applicazione provvisoria dell’accordo in forma di scambio di lettere tra l’Unione europea e il Regno del Marocco che modifica e integra l’accordo di cooperazione scientific",
+    "speech": "EUR-Lex. 2026/2217 — Decisione (UE) 2026/2217 del Consiglio, del 17 febbraio 2026, relativa alla firma e all’applicazione provvisoria dell’accordo in forma di scambio di lettere tra l’Unione europea e il Regno del Marocco che modifica e integra l’accordo di cooperazione scientifica e tecnologica tra l’Unione europea e il Regno del Marocco volto a stabilire i termini e le condizioni della partecipazione del Regno del Marocco al partenariato per la ricerca e l’innovazione nell’area del Mediterraneo (PRIMA)."
+  },
+  {
+    "id": 29,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "",
+    "titolo": "2026/2218 — Accordo in forma di scambio di lettere tra l'Unione europea e il Regno del Marocco che modifica e integra l'accordo di cooperazione scientifica e tecnologica tra l'Unione europea e il Regno del Marocco volto a stabilire i termini e le condizioni della partecipazione del Regno del Marocco al partenariato per la ricerca e l'innovazione nell'area del Mediterraneo (PRIMA)",
+    "sintesi": "Accordo in forma di scambio di lettere tra l'Unione europea e il Regno del Marocco che modifica e integra l'accordo di cooperazione scientifica e tecnologica tra l'Unione europea e il Regno del Marocco volto a stabilire i termini e le condizioni della partecip",
+    "speech": "EUR-Lex. 2026/2218 — Accordo in forma di scambio di lettere tra l'Unione europea e il Regno del Marocco che modifica e integra l'accordo di cooperazione scientifica e tecnologica tra l'Unione europea e il Regno del Marocco volto a stabilire i termini e le condizioni della partecipazione del Regno del Marocco al partenariato per la ricerca e l'innovazione nell'area del Mediterraneo (PRIMA)."
+  },
+  {
+    "id": 30,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "24 set",
+    "titolo": "2026/2219 — Decisione (UE) 2026/2219 del Consiglio, del 24 settembre 2026, relativa alla conclusione dell’accordo in forma di scambio di lettere tra l’Unione europea e il Regno del Marocco che modifica e integra l’accordo di cooperazione scientifica e tecnologica tra l’Unione europea e il Regno del Marocco volto a stabilire i termini e le condizioni della partecipazione del Regno del Marocco al partenariato per la ricerca e l’innovazione nell’area del Mediterraneo (PRIMA)",
+    "sintesi": "Decisione (UE) 2026/2219 del Consiglio, del 24 settembre 2026, relativa alla conclusione dell’accordo in forma di scambio di lettere tra l’Unione europea e il Regno del Marocco che modifica e integra l’accordo di cooperazione scientifica e tecnologica tra l’Un",
+    "speech": "EUR-Lex. 2026/2219 — Decisione (UE) 2026/2219 del Consiglio, del 24 settembre 2026, relativa alla conclusione dell’accordo in forma di scambio di lettere tra l’Unione europea e il Regno del Marocco che modifica e integra l’accordo di cooperazione scientifica e tecnologica tra l’Unione europea e il Regno del Marocco volto a stabilire i termini e le condizioni della partecipazione del Regno del Marocco al partenariato per la ricerca e l’innovazione nell’area del Mediterraneo (PRIMA)."
+  },
+  {
+    "id": 31,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "2 ott",
+    "titolo": "2026/2199 — Regolamento di esecuzione (UE) 2026/2199 della Commissione, del 2 ottobre 2026, che revoca l'autorizzazione dell'Unione per il biocida singolo Nordkalk QL 0-2 in conformità del regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il regolamento di esecuzione (UE) 2024/1481",
+    "sintesi": "Regolamento di esecuzione (UE) 2026/2199 della Commissione, del 2 ottobre 2026, che revoca l'autorizzazione dell'Unione per il biocida singolo Nordkalk QL 0-2 in conformità del regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il",
+    "speech": "EUR-Lex. 2026/2199 — Regolamento di esecuzione (UE) 2026/2199 della Commissione, del 2 ottobre 2026, che revoca l'autorizzazione dell'Unione per il biocida singolo Nordkalk QL 0-2 in conformità del regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il regolamento di esecuzione (UE) 2024/1481."
+  },
+  {
+    "id": 32,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "2 ott",
+    "titolo": "2026/2201 — Regolamento di esecuzione (UE) 2026/2201 della Commissione, del 2 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2023/1763 per quanto riguarda una modifica amministrativa dell'autorizzazione dell'Unione per la famiglia di biocidi Lactic acid Family — Quatchem",
+    "sintesi": "Regolamento di esecuzione (UE) 2026/2201 della Commissione, del 2 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2023/1763 per quanto riguarda una modifica amministrativa dell'autorizzazione dell'Unione per la famiglia di biocidi Lactic acid Fami",
+    "speech": "EUR-Lex. 2026/2201 — Regolamento di esecuzione (UE) 2026/2201 della Commissione, del 2 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2023/1763 per quanto riguarda una modifica amministrativa dell'autorizzazione dell'Unione per la famiglia di biocidi Lactic acid Family — Quatchem."
+  },
+  {
+    "id": 33,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "2 ott",
+    "titolo": "2026/2203 — Regolamento di esecuzione (UE) 2026/2203 della Commissione, del 2 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2024/2175 per quanto riguarda modifiche minori dell’autorizzazione dell’Unione per la famiglia di biocidi Contec Calcium Hypochlorite Product Family",
+    "sintesi": "Regolamento di esecuzione (UE) 2026/2203 della Commissione, del 2 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2024/2175 per quanto riguarda modifiche minori dell’autorizzazione dell’Unione per la famiglia di biocidi Contec Calcium Hypochlorite",
+    "speech": "EUR-Lex. 2026/2203 — Regolamento di esecuzione (UE) 2026/2203 della Commissione, del 2 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2024/2175 per quanto riguarda modifiche minori dell’autorizzazione dell’Unione per la famiglia di biocidi Contec Calcium Hypochlorite Product Family."
+  },
+  {
+    "id": 34,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "29 set",
+    "titolo": "2026/2224 — Regolamento di esecuzione (UE) 2026/2224 della Commissione, del 29 settembre 2026, relativo all’approvazione di una modifica dell’Unione del disciplinare dell’indicazione geografica protetta Coteaux de l’Auxois a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio",
+    "sintesi": "Regolamento di esecuzione (UE) 2026/2224 della Commissione, del 29 settembre 2026, relativo all’approvazione di una modifica dell’Unione del disciplinare dell’indicazione geografica protetta Coteaux de l’Auxois a norma del regolamento (UE) 2024/1143 del Parlam",
+    "speech": "EUR-Lex. 2026/2224 — Regolamento di esecuzione (UE) 2026/2224 della Commissione, del 29 settembre 2026, relativo all’approvazione di una modifica dell’Unione del disciplinare dell’indicazione geografica protetta Coteaux de l’Auxois a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio."
+  },
+  {
+    "id": 35,
+    "tag": "ue",
+    "fonte": "EUR-Lex",
+    "data": "2 ott",
+    "titolo": "2026/2238 — Regolamento di esecuzione (UE) 2026/2238 della Commissione, del 2 ottobre 2026, che modifica gli allegati XIII e XV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative alla Namibia negli elenchi di paesi terzi o territori o loro zone da cui è autorizzato l'ingresso nell'Unione di partite di carni fresche e prodotti a base di carne di determinati ungulati",
+    "sintesi": "Regolamento di esecuzione (UE) 2026/2238 della Commissione, del 2 ottobre 2026, che modifica gli allegati XIII e XV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative alla Namibia negli elenchi di paesi terzi o territori o loro zo",
+    "speech": "EUR-Lex. 2026/2238 — Regolamento di esecuzione (UE) 2026/2238 della Commissione, del 2 ottobre 2026, che modifica gli allegati XIII e XV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative alla Namibia negli elenchi di paesi terzi o territori o loro zone da cui è autorizzato l'ingresso nell'Unione di partite di carni fresche e prodotti a base di carne di determinati ungulati."
   }
 ]
