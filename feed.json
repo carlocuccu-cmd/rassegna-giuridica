@@ -110,6 +110,33 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "14 ago",
+    "titolo": "Cognizione d’ufficio dei provvedimenti giurisdizionali pubblicati, astensione nel giudizio di ottemperanza e sostituzione del relatore.",
+    "sintesi": "T.a.r. per il Lazio, sezione II-bis, 14 agosto 2026, n. 14282 – Pres. Francavilla, Est. Licheri",
+    "speech": "T.a.r. per il Lazio ha deciso: Cognizione d’ufficio dei provvedimenti giurisdizionali pubblicati, astensione nel giudizio di ottemperanza e sostituzione del relatore.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "16 set",
+    "titolo": "Il disvalore sociale particolarmente significativo giustifica la revoca del permesso di soggiorno UE di lungo periodo.",
+    "sintesi": "Consiglio di Stato, sezione III, 16 settembre 2026, n. 6906 - Pres. De Nictolis, Est. Bernardini",
+    "speech": "Consiglio di Stato ha deciso: Il disvalore sociale particolarmente significativo giustifica la revoca del permesso di soggiorno UE di lungo periodo.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "22 set",
+    "titolo": "Accesso difensivo e chat whatsapp: gli screenshot allegati a un reclamo al Garante privacy restano corrispondenza tutelata dall'art. 15 Cost.",
+    "sintesi": "Consiglio di Stato, sezione VI, 22 settembre 2026, n. 6989 – Pres. Barra Caracciolo, Est. Ponte",
+    "speech": "Consiglio di Stato ha deciso: Accesso difensivo e chat whatsapp: gli screenshot allegati a un reclamo al Garante privacy restano corrispondenza tutelata dall'art. 15 Cost.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "31 lug",
     "titolo": "Legittimazione degli avvocati all'impugnazione degli atti del CPGA e sindacato sulle assegnazioni dei magistrati amministrativi.",
@@ -117,40 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: Legittimazione degli avvocati all'impugnazione degli atti del CPGA e sindacato sulle assegnazioni dei magistrati amministrativi.."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "18 ago",
     "titolo": "Incentivi fotovoltaici \"su edifici\": nozione e riqualificazione dell'istanza da parte del G.s.e.",
     "sintesi": "Consiglio di Stato, sezione II, 18 agosto 2026, n. 6537 - Pres. Forlenza, Est. Manzione",
     "speech": "Consiglio di Stato ha deciso: Incentivi fotovoltaici \"su edifici\": nozione e riqualificazione dell'istanza da parte del G.s.e.."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Lombardia",
-    "data": "24 lug",
-    "titolo": "News UM n. 93/2026. Alla Corte costituzionale la questione riguardante l’obbligo della motivazione rafforzata nella valutazione delle prove dell’esame di abilitazione alla professione di avvocato",
-    "sintesi": "T.a.r. per la Lombardia, sezione III, ordinanza 24 luglio 2026, n. 3911 – Pres. Goso, Est. Fornataro",
-    "speech": "T.a.r. per la Lombardia ha deciso: News UM n. 93/2026. Alla Corte costituzionale la questione riguardante l’obbligo della motivazione rafforzata nella valutazione delle prove dell’esame di abilitazione alla professione di avvocato."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "19 ago",
-    "titolo": "Efficacia del giudicato amministrativo in caso di annullamento di un atto amministrativo generale",
-    "sintesi": "Consiglio di Stato, sezione II, 19 agosto 2026, n. 6541 - Pres. Forlenza, Est. Manzione",
-    "speech": "Consiglio di Stato ha deciso: Efficacia del giudicato amministrativo in caso di annullamento di un atto amministrativo generale."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Campania",
-    "data": "22 giu",
-    "titolo": "Sulla legittimità della revoca del bando per la concessione di aree demaniali al fine di destinarle ad un uso ritenuto più rispondente all'interesse pubblico.",
-    "sintesi": "T.a.r. per la Campania, sezione VII, 22 giugno 2026, n. 4007 - Pres. Maddalena, Est. D'Alterio",
-    "speech": "T.a.r. per la Campania ha deciso: Sulla legittimità della revoca del bando per la concessione di aree demaniali al fine di destinarle ad un uso ritenuto più rispondente all'interesse pubblico.."
   },
   {
     "id": 18,
@@ -241,77 +241,5 @@
     "titolo": "Crollo uffici giudiziari di bolzano - conversione d.l. 127/2026",
     "sintesi": "L. 17 settembre 2026, n. 163",
     "speech": "Gazzetta Ufficiale. Crollo uffici giudiziari di bolzano - conversione d.l. 127/2026. Riferimento normativo: L. 17 settembre 2026, n. 163."
-  },
-  {
-    "id": 28,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "5 ott",
-    "titolo": "2026/2205 — Regolamento di esecuzione (UE) 2026/2205 della Commissione, del 5 ottobre 2026, relativo a misure eccezionali di sostegno del mercato nei settori delle uova e delle carni di pollame in Italia",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2205 della Commissione, del 5 ottobre 2026, relativo a misure eccezionali di sostegno del mercato nei settori delle uova e delle carni di pollame in Italia",
-    "speech": "EUR-Lex. 2026/2205 — Regolamento di esecuzione (UE) 2026/2205 della Commissione, del 5 ottobre 2026, relativo a misure eccezionali di sostegno del mercato nei settori delle uova e delle carni di pollame in Italia."
-  },
-  {
-    "id": 29,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "5 ott",
-    "titolo": "2026/2208 — Regolamento di esecuzione (UE) 2026/2208 della Commissione, del 5 ottobre 2026, relativo a misure eccezionali di sostegno del mercato nel settore delle carni suine in Italia",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2208 della Commissione, del 5 ottobre 2026, relativo a misure eccezionali di sostegno del mercato nel settore delle carni suine in Italia",
-    "speech": "EUR-Lex. 2026/2208 — Regolamento di esecuzione (UE) 2026/2208 della Commissione, del 5 ottobre 2026, relativo a misure eccezionali di sostegno del mercato nel settore delle carni suine in Italia."
-  },
-  {
-    "id": 30,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "5 ott",
-    "titolo": "2026/2210 — Regolamento di esecuzione (UE) 2026/2210 della Commissione, del 5 ottobre 2026, che modifica il regolamento di esecuzione (UE) n. 79/2012 per quanto riguarda i dati statistici che gli Stati membri devono comunicare alla Commissione",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2210 della Commissione, del 5 ottobre 2026, che modifica il regolamento di esecuzione (UE) n. 79/2012 per quanto riguarda i dati statistici che gli Stati membri devono comunicare alla Commissione",
-    "speech": "EUR-Lex. 2026/2210 — Regolamento di esecuzione (UE) 2026/2210 della Commissione, del 5 ottobre 2026, che modifica il regolamento di esecuzione (UE) n. 79/2012 per quanto riguarda i dati statistici che gli Stati membri devono comunicare alla Commissione."
-  },
-  {
-    "id": 31,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "5 ott",
-    "titolo": "2026/2214 — Regolamento di esecuzione (UE) 2026/2214 della Commissione, del 5 ottobre 2026, recante rettifica di alcune versioni linguistiche del regolamento di esecuzione (UE) 2024/2215 della Commissione che stabilisce, a norma del regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio, i requisiti minimi per il rilascio di certificati alle persone fisiche e giuridiche e le condizioni per il riconoscimento reciproco di tali certificati, per quanto riguarda le apparecchiature fisse di refrigerazione e di condizionamento d’aria e le pompe di calore, i cicli Rankine a fluido organico e le unità di refrigerazione di autocarri frigorifero, rimorchi frigorifero, veicoli leggeri frigorifero, container intermodali e vagoni ferroviari contenenti gas fluorurati a effetto serra o loro alternative",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2214 della Commissione, del 5 ottobre 2026, recante rettifica di alcune versioni linguistiche del regolamento di esecuzione (UE) 2024/2215 della Commissione che stabilisce, a norma del regolamento (UE) 2024/573 del Parlament",
-    "speech": "EUR-Lex. 2026/2214 — Regolamento di esecuzione (UE) 2026/2214 della Commissione, del 5 ottobre 2026, recante rettifica di alcune versioni linguistiche del regolamento di esecuzione (UE) 2024/2215 della Commissione che stabilisce, a norma del regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio, i requisiti minimi per il rilascio di certificati alle persone fisiche e giuridiche e le condizioni per il riconoscimento reciproco di tali certificati, per quanto riguarda le apparecchiature fisse di refrigerazione e di condizionamento d’aria e le pompe di calore, i cicli Rankine a fluido organico e le unità di refrigerazione di autocarri frigorifero, rimorchi frigorifero, veicoli leggeri frigorifero, container intermodali e vagoni ferroviari contenenti gas fluorurati a effetto serra o loro alternative."
-  },
-  {
-    "id": 32,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "29 set",
-    "titolo": "2026/2226 — Regolamento di esecuzione (UE) 2026/2226 della Commissione, del 29 settembre 2026, relativo all’approvazione di una modifica dell’Unione del disciplinare dell’indicazione geografica protetta Collines Rhodaniennes a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2226 della Commissione, del 29 settembre 2026, relativo all’approvazione di una modifica dell’Unione del disciplinare dell’indicazione geografica protetta Collines Rhodaniennes a norma del regolamento (UE) 2024/1143 del Parl",
-    "speech": "EUR-Lex. 2026/2226 — Regolamento di esecuzione (UE) 2026/2226 della Commissione, del 29 settembre 2026, relativo all’approvazione di una modifica dell’Unione del disciplinare dell’indicazione geografica protetta Collines Rhodaniennes a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio."
-  },
-  {
-    "id": 33,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "24 set",
-    "titolo": "2026/2240 — Decisione (UE) 2026/2240 del Consiglio, del 24 settembre 2026, relativa alla posizione da adottare a nome dell’Unione europea in sede di Comitato misto SEE riguardo a una modifica dell’allegato XX (Ambiente) dell’accordo SEE (CBAM) (Testo rilevante ai fini del SEE)",
-    "sintesi": "Decisione (UE) 2026/2240 del Consiglio, del 24 settembre 2026, relativa alla posizione da adottare a nome dell’Unione europea in sede di Comitato misto SEE riguardo a una modifica dell’allegato XX (Ambiente) dell’accordo SEE (CBAM) (Testo rilevante ai fini del",
-    "speech": "EUR-Lex. 2026/2240 — Decisione (UE) 2026/2240 del Consiglio, del 24 settembre 2026, relativa alla posizione da adottare a nome dell’Unione europea in sede di Comitato misto SEE riguardo a una modifica dell’allegato XX (Ambiente) dell’accordo SEE (CBAM) (Testo rilevante ai fini del SEE)."
-  },
-  {
-    "id": 34,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "27 apr",
-    "titolo": "Rettifica della decisione (UE) 2026/1099 del Consiglio, del 27 aprile 2026, relativa alla conclusione, a nome dell’Unione europea, della convenzione delle Nazioni Unite sugli effetti internazionali delle vendite giudiziarie di navi («convenzione di Pechino sulla vendita giudiziaria di navi») (GU L, 2026/1099, 18.5.2026)",
-    "sintesi": "Rettifica della decisione (UE) 2026/1099 del Consiglio, del 27 aprile 2026, relativa alla conclusione, a nome dell’Unione europea, della convenzione delle Nazioni Unite sugli effetti internazionali delle vendite giudiziarie di navi («convenzione di Pechino sul",
-    "speech": "EUR-Lex. Rettifica della decisione (UE) 2026/1099 del Consiglio, del 27 aprile 2026, relativa alla conclusione, a nome dell’Unione europea, della convenzione delle Nazioni Unite sugli effetti internazionali delle vendite giudiziarie di navi («convenzione di Pechino sulla vendita giudiziaria di navi») (GU L, 2026/1099, 18.5.2026)."
-  },
-  {
-    "id": 35,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "",
-    "titolo": "La rettifica non riguarda la versione italiana.",
-    "sintesi": "La rettifica non riguarda la versione italiana.",
-    "speech": "EUR-Lex. La rettifica non riguarda la versione italiana.."
   }
 ]
