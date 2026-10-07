@@ -110,6 +110,15 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "21 lug",
+    "titolo": "News UM n. 97/2026. La Corte costituzionale dichiara l’illegittimità costituzionale della disciplina in materia di requisiti di esercizio delle scuole nautiche",
+    "sintesi": "Corte costituzionale, 21 luglio 2026, n. 133 – Pres. Amoroso, Red. Marini",
+    "speech": "TAR. News UM n. 97/2026. La Corte costituzionale dichiara l’illegittimità costituzionale della disciplina in materia di requisiti di esercizio delle scuole nautiche. Corte costituzionale, 21 luglio 2026, n. 133 – Pres. Amoroso, Red. Marini."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "22 lug",
     "titolo": "Screening di VIA: valutazione degli effetti cumulativi con altri progetti.",
@@ -117,7 +126,7 @@
     "speech": "Consiglio di Stato ha deciso: Screening di VIA: valutazione degli effetti cumulativi con altri progetti.."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "22 lug",
@@ -126,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Presupposti e modalità di accertamento dell'abuso di posizione dominante sfruttamento per prezzi eccessivi.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Sicilia",
     "data": "10 set",
@@ -135,22 +144,13 @@
     "speech": "T.a.r. per la Sicilia ha deciso: L'ordinanza di messa in sicurezza è legittimamente rivolta a chi ammetta di avere la materiale disponibilità del bene."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "22 lug",
     "titolo": "Regione Calabria: sulla natura endoprocedimentale del parere consorzio regionale per lo sviluppo delle attività produttive (CORAP).",
     "sintesi": "Consiglio di Stato, sezione IV, 22 luglio 2026, n. 6002 – Pres. Carbone, Est. Arrivi",
     "speech": "Consiglio di Stato ha deciso: Regione Calabria: sulla natura endoprocedimentale del parere consorzio regionale per lo sviluppo delle attività produttive (CORAP).."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "17 set",
-    "titolo": "News UM 96/2026. Di nuovo alla Corte costituzionale la natura concorsuale della selezione dei direttori di struttura sanitaria complessa.",
-    "sintesi": "Consiglio di Stato, sezione III, ordinanza 17 settembre 2026, n. 6931 – Pres. De Nictolis, Est. D'Angelo",
-    "speech": "Consiglio di Stato ha deciso: News UM 96/2026. Di nuovo alla Corte costituzionale la natura concorsuale della selezione dei direttori di struttura sanitaria complessa.."
   },
   {
     "id": 18,
