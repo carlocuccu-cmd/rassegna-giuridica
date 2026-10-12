@@ -5,8 +5,8 @@
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
     "titolo": "Sezioni unite — Previdenza",
-    "sintesi": "132. RESPONSABILITÀ PATRIMONIALE. - Previdenza complementare - Datore di lavoro insolvente - Contributi non versati - Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c. - Distinzione - Contributi a…",
-    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Previdenza complementare, Datore di lavoro insolvente, Contributi non versati, Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c., Distinzione, Contributi a."
+    "sintesi": "132. RESPONSABILITÀ PATRIMONIALE. - Trattamento di fine rapporto - Istituzione del Fondo di tesoreria ad opera dell’art. 1, commi 755 e ss. della legge n. 296 del 2006 - Retribuzione differita - Conseguenze -…",
+    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Trattamento di fine rapporto, Istituzione del Fondo di tesoreria ad opera dell’art. 1, commi 755 e ss. della legge n. 296 del 2006, Retribuzione differita, Conseguenze -."
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
     "titolo": "Sezioni unite — Previdenza",
-    "sintesi": "132. RESPONSABILITÀ PATRIMONIALE. - Trattamento di fine rapporto - Istituzione del Fondo di tesoreria ad opera dell’art. 1, commi 755 e ss. della legge n. 296 del 2006 - Retribuzione differita - Conseguenze -…",
-    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Trattamento di fine rapporto, Istituzione del Fondo di tesoreria ad opera dell’art. 1, commi 755 e ss. della legge n. 296 del 2006, Retribuzione differita, Conseguenze -."
+    "sintesi": "132. RESPONSABILITÀ PATRIMONIALE. - Previdenza complementare - Datore di lavoro insolvente - Contributi non versati - Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c. - Distinzione - Contributi a…",
+    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Previdenza complementare, Datore di lavoro insolvente, Contributi non versati, Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c., Distinzione, Contributi a."
   },
   {
     "id": 3,
@@ -110,6 +110,42 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "3 ago",
+    "titolo": "La realizzazione di impianti di produzione di energia da fonti rinnovabili è soggetta al bilanciamento con l'interesse alla tutela del paesaggio.",
+    "sintesi": "Consiglio di Stato, sezione IV, 3 agosto 2026, n. 6254 - Pres. Lopilato, Est. Furno",
+    "speech": "Consiglio di Stato ha deciso: La realizzazione di impianti di produzione di energia da fonti rinnovabili è soggetta al bilanciamento con l'interesse alla tutela del paesaggio.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per la Sicilia",
+    "data": "16 set",
+    "titolo": "Giudizio di ottemperanza e correzione dell'errore materiale: non occorre rinotificare il titolo esecutivo se la correzione non riguarda il quantum dovuto.",
+    "sintesi": "T.a.r. per la Sicilia, Catania, sezione I, 16 settembre 2026, n. 2523 - Pres. Savasta, Est. Sidoti",
+    "speech": "T.a.r. per la Sicilia ha deciso: Giudizio di ottemperanza e correzione dell'errore materiale: non occorre rinotificare il titolo esecutivo se la correzione non riguarda il quantum dovuto.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "21 lug",
+    "titolo": "Nuova costruzione interrata: limiti della SCIA e autonomia della bonifica rispetto al progetto edilizio.",
+    "sintesi": "T.a.r. per il Lazio, sezione II-bis, 21 luglio 2026, n. 13360 – Pres. Francavilla, Est. Caldarola",
+    "speech": "T.a.r. per il Lazio ha deciso: Nuova costruzione interrata: limiti della SCIA e autonomia della bonifica rispetto al progetto edilizio.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "6 ott",
+    "titolo": "L’AGCOM può imporre agli operatori di comunicazioni elettroniche il contatto telefonico diretto con un addetto umano, ma non la gratuità delle chiamate.",
+    "sintesi": "Consiglio di Stato, sezione VI, 6 ottobre 2026, n. 7354 – Pres. De Felice, Est. Ponte",
+    "speech": "Consiglio di Stato ha deciso: L’AGCOM può imporre agli operatori di comunicazioni elettroniche il contatto telefonico diretto con un addetto umano, ma non la gratuità delle chiamate.."
+  },
+  {
+    "id": 17,
+    "tag": "amministrativo",
     "fonte": "TAR",
     "data": "24 set",
     "titolo": "News UM n. 99/2026. Per la Corte di giustizia UE l’impresa in amministrazione straordinaria è «in difficoltà» e può essere esclusa dalle agevolazioni per gli energivori.",
@@ -117,43 +153,25 @@
     "speech": "TAR. News UM n. 99/2026. Per la Corte di giustizia UE l’impresa in amministrazione straordinaria è «in difficoltà» e può essere esclusa dalle agevolazioni per gli energivori.. Corte di giustizia dell’Unione europea, sezione X, 24 settembre 2026, cause riunite C-503/25 e C-504/25 – Acciaierie d’Italia."
   },
   {
-    "id": 14,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "3 ago",
-    "titolo": "News UM n. 98/2026. Magistrati onorari confermati: alla Consulta l'art. 29, comma 2, d.lgs. n. 116/2017 sull'indennità per il lavoro pregresso riservata ai soli non confermati.",
-    "sintesi": "T.a.r. per il Lazio, sezione I, ordinanza 3 agosto 2026, n. 14010 – Pres. Politi, Est. Fanizza",
-    "speech": "T.a.r. per il Lazio ha deciso: News UM n. 98/2026. Magistrati onorari confermati: alla Consulta l'art. 29, comma 2, d.lgs. n. 116/2017 sull'indennità per il lavoro pregresso riservata ai soli non confermati.."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "31 lug",
-    "titolo": "Nozione di armamento militare, assenza dell'autorizzazione all'importazione, eterointegrazione lex specialis di gara e subentro nel contratto.",
-    "sintesi": "Consiglio di Stato, sezione V, 31 luglio 2026, n. 6153 - Pres. Sabatino, Est. Molinaro",
-    "speech": "Consiglio di Stato ha deciso: Nozione di armamento militare, assenza dell'autorizzazione all'importazione, eterointegrazione lex specialis di gara e subentro nel contratto.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "27 lug",
-    "titolo": "Obblighi urbanistici assunti con atto unilaterale d'obbligo: natura giuridica e inapplicabilità della prescrizione.",
-    "sintesi": "Consiglio di Stato, sezione IV, 27 luglio 2026, n. 6107 - Pres. Neri, Est. Furno",
-    "speech": "Consiglio di Stato ha deciso: Obblighi urbanistici assunti con atto unilaterale d'obbligo: natura giuridica e inapplicabilità della prescrizione.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "TAR",
-    "data": "30 set",
-    "titolo": "Criteri ambientali minimi e completezza dell'offerta tecnica.",
-    "sintesi": "T.r.g.a. Trento, 30 settembre 2026, n. 163 - Pres. Farina, Est. Cappellano",
-    "speech": "TAR. Criteri ambientali minimi e completezza dell'offerta tecnica.. T.r.g.a. Trento, 30 settembre 2026, n. 163 - Pres. Farina, Est. Cappellano."
-  },
-  {
     "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "9 ott",
+    "titolo": "Legge elettorale - modifiche",
+    "sintesi": "L.  9 ottobre 2026, n. 180",
+    "speech": "Gazzetta Ufficiale. Legge elettorale - modifiche. Riferimento normativo: L.  9 ottobre 2026, n. 180."
+  },
+  {
+    "id": 19,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "9 ott",
+    "titolo": "Settore alimenti, emissione acustica ambientale - attuazione direttiva (ue)",
+    "sintesi": "D.Lgs.  25 settembre 2026, n. 181",
+    "speech": "Gazzetta Ufficiale. Settore alimenti, emissione acustica ambientale - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 181."
+  },
+  {
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -162,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Istruttorie ambientali, problemi climatici, economia circolare - disposizioni urgenti. Riferimento normativo: D.L. 8 ottobre 2026, n. 177."
   },
   {
-    "id": 19,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -171,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Controlli su sostanze farmacologicamente attive in ambito veterinario - adeguamento ue. Riferimento normativo: D.Lgs. 25 settembre 2026, n. 178."
   },
   {
-    "id": 20,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -180,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Intelligenza artificiale, autorità nazionali e formazione - adeguamento ue. Riferimento normativo: D.Lgs. 7 ottobre 2026, n. 179."
   },
   {
-    "id": 21,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "7 ott",
@@ -189,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Giornata nazionale della meraviglia - istituzione. Riferimento normativo: L. 5 ottobre 2026, n. 175."
   },
   {
-    "id": 22,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "7 ott",
@@ -198,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Riparazione dei beni - attuazione direttiva (ue). Riferimento normativo: D.Lgs. 25 settembre 2026, n. 176."
   },
   {
-    "id": 23,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "7 ott",
@@ -207,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Tso - difesa tecnica per convalida e proroga. Riferimento normativo: Sentenza 06/07 - 02/10/2026 n. 157."
   },
   {
-    "id": 24,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "7 ott",
@@ -216,30 +234,12 @@
     "speech": "Gazzetta Ufficiale. Sequestro e confisca di prevenzione - potere di impugnazione. Riferimento normativo: Sentenza 08/07 - 02/10/2026 n. 158."
   },
   {
-    "id": 25,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "6 ott",
     "titolo": "Obbligo di compostabilita' degli imballaggi - conversione d.l. 143/2026",
     "sintesi": "L.  5 ottobre 2026, n. 173",
     "speech": "Gazzetta Ufficiale. Obbligo di compostabilita' degli imballaggi - conversione d.l. 143/2026. Riferimento normativo: L.  5 ottobre 2026, n. 173."
-  },
-  {
-    "id": 26,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "6 ott",
-    "titolo": "Funzionalita' pa ed enti territoriali - conversione d.l. 144/2026",
-    "sintesi": "L.  5 ottobre 2026, n. 174",
-    "speech": "Gazzetta Ufficiale. Funzionalita' pa ed enti territoriali - conversione d.l. 144/2026. Riferimento normativo: L.  5 ottobre 2026, n. 174."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "2 ott",
-    "titolo": "Attuazione statuto valle d'aosta - concessioni di derivazione d'acqua",
-    "sintesi": "D.Lgs. 11 settembre 2026, n. 172",
-    "speech": "Gazzetta Ufficiale. Attuazione statuto valle d'aosta - concessioni di derivazione d'acqua. Riferimento normativo: D.Lgs. 11 settembre 2026, n. 172."
   }
 ]
