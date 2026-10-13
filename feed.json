@@ -110,6 +110,24 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Piemonte",
+    "data": "3 ago",
+    "titolo": "Natura giuridica delle concessioni autostradali ed effetti della rimodulazione pro futuro delle aspettative di rendimento del concessionario.",
+    "sintesi": "T.a.r. per il Piemonte, sezione III, 3 agosto 2026, n. 1740 - Pres. Zucchini, Est. Manaletto",
+    "speech": "T.a.r. per il Piemonte ha deciso: Natura giuridica delle concessioni autostradali ed effetti della rimodulazione pro futuro delle aspettative di rendimento del concessionario.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "31 ago",
+    "titolo": "Giochi e scommesse: inapplicabile alla proroga tecnica onerosa delle concessioni l'obbligo di rinegoziazione delle condizioni contrattuali.",
+    "sintesi": "T.a.r. per il Lazio, sezione IV-ter, 31 agosto 2026, n. 14462 - Pres. Tricarico, Est. Biffaro",
+    "speech": "T.a.r. per il Lazio ha deciso: Giochi e scommesse: inapplicabile alla proroga tecnica onerosa delle concessioni l'obbligo di rinegoziazione delle condizioni contrattuali.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "3 ago",
     "titolo": "La realizzazione di impianti di produzione di energia da fonti rinnovabili è soggetta al bilanciamento con l'interesse alla tutela del paesaggio.",
@@ -117,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: La realizzazione di impianti di produzione di energia da fonti rinnovabili è soggetta al bilanciamento con l'interesse alla tutela del paesaggio.."
   },
   {
-    "id": 14,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Sicilia",
     "data": "16 set",
@@ -126,31 +144,13 @@
     "speech": "T.a.r. per la Sicilia ha deciso: Giudizio di ottemperanza e correzione dell'errore materiale: non occorre rinotificare il titolo esecutivo se la correzione non riguarda il quantum dovuto.."
   },
   {
-    "id": 15,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "21 lug",
     "titolo": "Nuova costruzione interrata: limiti della SCIA e autonomia della bonifica rispetto al progetto edilizio.",
     "sintesi": "T.a.r. per il Lazio, sezione II-bis, 21 luglio 2026, n. 13360 – Pres. Francavilla, Est. Caldarola",
     "speech": "T.a.r. per il Lazio ha deciso: Nuova costruzione interrata: limiti della SCIA e autonomia della bonifica rispetto al progetto edilizio.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "6 ott",
-    "titolo": "L’AGCOM può imporre agli operatori di comunicazioni elettroniche il contatto telefonico diretto con un addetto umano, ma non la gratuità delle chiamate.",
-    "sintesi": "Consiglio di Stato, sezione VI, 6 ottobre 2026, n. 7354 – Pres. De Felice, Est. Ponte",
-    "speech": "Consiglio di Stato ha deciso: L’AGCOM può imporre agli operatori di comunicazioni elettroniche il contatto telefonico diretto con un addetto umano, ma non la gratuità delle chiamate.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "TAR",
-    "data": "24 set",
-    "titolo": "News UM n. 99/2026. Per la Corte di giustizia UE l’impresa in amministrazione straordinaria è «in difficoltà» e può essere esclusa dalle agevolazioni per gli energivori.",
-    "sintesi": "Corte di giustizia dell’Unione europea, sezione X, 24 settembre 2026, cause riunite C-503/25 e C-504/25 – Acciaierie d’Italia",
-    "speech": "TAR. News UM n. 99/2026. Per la Corte di giustizia UE l’impresa in amministrazione straordinaria è «in difficoltà» e può essere esclusa dalle agevolazioni per gli energivori.. Corte di giustizia dell’Unione europea, sezione X, 24 settembre 2026, cause riunite C-503/25 e C-504/25 – Acciaierie d’Italia."
   },
   {
     "id": 18,
