@@ -110,6 +110,33 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "1 set",
+    "titolo": "Impianti di produzione di energia da fonte rinnovabile: disciplina transitoria nel d.lgs. n. 190 del 2024 e nozione di area idonea.",
+    "sintesi": "Consiglio di Stato, sezione IV, 1 settembre 2026, n. 6732 – Pres. Carbone, Est. Marotta",
+    "speech": "Consiglio di Stato ha deciso: Impianti di produzione di energia da fonte rinnovabile: disciplina transitoria nel d.lgs. n. 190 del 2024 e nozione di area idonea.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "2 set",
+    "titolo": "News UM n. 101/2026. Notifica ad almeno un controinteressato e divieto di integrazione del contraddittorio: il T.a.r. Lazio rimette alla Consulta gli artt. 41 e 49 c.p.a",
+    "sintesi": "T.a.r. per il Lazio, sezione III-quater, ordinanza 2 settembre 2026, n. 14560 – Pres. Stanizzi, Est. Rossi",
+    "speech": "T.a.r. per il Lazio ha deciso: News UM n. 101/2026. Notifica ad almeno un controinteressato e divieto di integrazione del contraddittorio: il T.a.r. Lazio rimette alla Consulta gli artt. 41 e 49 c.p.a."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "9 set",
+    "titolo": "News UM n. 100/2026. Accesso agli atti di gara e tutela dei segreti tecnici e commerciali: l’Adunanza plenaria si pronuncia sull’ambito di applicazione del c.d. rito super accelerato.",
+    "sintesi": "Consiglio di Stato, Adunanza plenaria, 9 settembre 2026, n. 8 – Pres. Maruotti, Est. Caringella",
+    "speech": "Consiglio di Stato ha deciso: News UM n. 100/2026. Accesso agli atti di gara e tutela dei segreti tecnici e commerciali: l’Adunanza plenaria si pronuncia sull’ambito di applicazione del c.d. rito super accelerato.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "4 ago",
     "titolo": "Abusi edilizi su aree demaniali: esclusa la sanatoria.",
@@ -117,40 +144,13 @@
     "speech": "T.a.r. per il Lazio ha deciso: Abusi edilizi su aree demaniali: esclusa la sanatoria.."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "5 ott",
     "titolo": "Sull'anomalia dell'offerta e costi della manodopera, sulla necessità di riedizione del potere e sulla riproposizione dei motivi assorbiti.",
     "sintesi": "Consiglio di Stato, sezione V, 5 ottobre 2026, n. 7316 - Pres. Lotti, Est. Caminiti",
     "speech": "Consiglio di Stato ha deciso: Sull'anomalia dell'offerta e costi della manodopera, sulla necessità di riedizione del potere e sulla riproposizione dei motivi assorbiti.."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "5 ott",
-    "titolo": "L'istanza di accesso avente ad oggetto numerosi atti di una procedura concorsuale non può essere motivata dal mero richiamo a esigenze difensive.",
-    "sintesi": "Consiglio di Stato, sezione VII, 5 ottobre 2026, n. 7318 - Pres. Contessa, Est. Fraconiero",
-    "speech": "Consiglio di Stato ha deciso: L'istanza di accesso avente ad oggetto numerosi atti di una procedura concorsuale non può essere motivata dal mero richiamo a esigenze difensive.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "22 lug",
-    "titolo": "Legittimità del provvedimento amministrativo sottoposto a condizioni e principio di proporzionalità.",
-    "sintesi": "Consiglio di Stato, sezione IV, 22 luglio 2026, n. 5988 – Pres. f.f. Martino, Est. Conforti",
-    "speech": "Consiglio di Stato ha deciso: Legittimità del provvedimento amministrativo sottoposto a condizioni e principio di proporzionalità.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Sicilia",
-    "data": "22 set",
-    "titolo": "Subappalto necessario: applicabilità agli affidamenti di servizi, indicazione nella domanda di partecipazione e limiti al soccorso istruttorio.",
-    "sintesi": "T.a.r. per la Sicilia, Catania, sezione IV, 22 settembre 2026, n. 2555 - Pres. Leggio, Est. Maisano",
-    "speech": "T.a.r. per la Sicilia ha deciso: Subappalto necessario: applicabilità agli affidamenti di servizi, indicazione nella domanda di partecipazione e limiti al soccorso istruttorio.."
   },
   {
     "id": 18,
