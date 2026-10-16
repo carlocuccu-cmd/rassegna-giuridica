@@ -156,13 +156,22 @@
     "id": 18,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
+    "data": "15 ott",
+    "titolo": "Punto di accesso unico europeo - recepimento direttiva (ue)",
+    "sintesi": "D.Lgs.  25 settembre 2026, n. 184",
+    "speech": "Gazzetta Ufficiale. Punto di accesso unico europeo - recepimento direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 184."
+  },
+  {
+    "id": 19,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
     "data": "13 ott",
     "titolo": "Province sarde - introduzione di nuove sigle automobilistiche",
     "sintesi": "D.P.R. 4 agosto 2026, n. 183",
     "speech": "Gazzetta Ufficiale. Province sarde - introduzione di nuove sigle automobilistiche. Riferimento normativo: D.P.R. 4 agosto 2026, n. 183."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 ott",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Legge elettorale - modifiche. Riferimento normativo: L.  9 ottobre 2026, n. 180."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 ott",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Settore alimenti, emissione acustica ambientale - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 181."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Istruttorie ambientali, problemi climatici, economia circolare - disposizioni urgenti. Riferimento normativo: D.L. 8 ottobre 2026, n. 177."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Controlli su sostanze farmacologicamente attive in ambito veterinario - adeguamento ue. Riferimento normativo: D.Lgs. 25 settembre 2026, n. 178."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Intelligenza artificiale, autorità nazionali e formazione - adeguamento ue. Riferimento normativo: D.Lgs. 7 ottobre 2026, n. 179."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "7 ott",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Giornata nazionale della meraviglia - istituzione. Riferimento normativo: L. 5 ottobre 2026, n. 175."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "7 ott",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. Riparazione dei beni - attuazione direttiva (ue). Riferimento normativo: D.Lgs. 25 settembre 2026, n. 176."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "7 ott",
     "titolo": "Tso - difesa tecnica per convalida e proroga",
     "sintesi": "Sentenza 06/07 - 02/10/2026 n. 157",
     "speech": "Gazzetta Ufficiale. Tso - difesa tecnica per convalida e proroga. Riferimento normativo: Sentenza 06/07 - 02/10/2026 n. 157."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "7 ott",
-    "titolo": "Sequestro e confisca di prevenzione - potere di impugnazione",
-    "sintesi": "Sentenza 08/07 - 02/10/2026 n. 158",
-    "speech": "Gazzetta Ufficiale. Sequestro e confisca di prevenzione - potere di impugnazione. Riferimento normativo: Sentenza 08/07 - 02/10/2026 n. 158."
   }
 ]
