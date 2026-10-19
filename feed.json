@@ -110,6 +110,15 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "",
+    "titolo": "News UM n. 103/2026. Impianti FER: la Consulta torna su aree idonee in Sardegna e fotovoltaico agricolo.",
+    "sintesi": "Corte costituzionale, 1° ottobre 2026, n. 156 – Pres. Amoroso, Red. Buscema",
+    "speech": "TAR. News UM n. 103/2026. Impianti FER: la Consulta torna su aree idonee in Sardegna e fotovoltaico agricolo.. Corte costituzionale, 1° ottobre 2026, n. 156 – Pres. Amoroso, Red. Buscema."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "12 ago",
     "titolo": "Concessione estrattiva, sospensione cautelare e ricalcolo dei termini e sull'efficacia dell'autorizzazione paesaggistica e titolo edilizio.",
@@ -117,7 +126,7 @@
     "speech": "Consiglio di Stato ha deciso: Concessione estrattiva, sospensione cautelare e ricalcolo dei termini e sull'efficacia dell'autorizzazione paesaggistica e titolo edilizio.."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "11 ago",
@@ -126,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Sull'offerta economica negli appalti a misura e sull'improcedibilità del ricorso incidentale.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "12 ott",
@@ -135,22 +144,13 @@
     "speech": "T.a.r. per il Lazio ha deciso: Condizioni di prescrivibilità dei farmaci e competenze dell'AIFA e delle regioni.."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "27 lug",
     "titolo": "Concorso per ormeggiatori: disciplina pubblicistica e incompatibilità dei commissari designati dall’associazione di categoria.",
     "sintesi": "T.a.r. per il Lazio, sezione III, 27 luglio 2026, n. 13676 – Pres. Stanizzi, Est. Savi",
     "speech": "T.a.r. per il Lazio ha deciso: Concorso per ormeggiatori: disciplina pubblicistica e incompatibilità dei commissari designati dall’associazione di categoria.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "7 set",
-    "titolo": "News UM n. 102/2026. Alla Corte costituzionale il diritto vivente delle sezioni unite che attribuisce al giudice ordinario la giurisdizione sulla restituzione degli incentivi GSE.",
-    "sintesi": "T.a.r. per il Lazio, sezione III-ter, ordinanza 7 settembre 2026, n. 14647 – Pres. f.f. Tuccillo, Est. La Malfa Ribolla",
-    "speech": "T.a.r. per il Lazio ha deciso: News UM n. 102/2026. Alla Corte costituzionale il diritto vivente delle sezioni unite che attribuisce al giudice ordinario la giurisdizione sulla restituzione degli incentivi GSE.."
   },
   {
     "id": 18,
