@@ -110,6 +110,33 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "12 ott",
+    "titolo": "Condizioni di prescrivibilità dei farmaci e competenze dell'AIFA e delle regioni.",
+    "sintesi": "T.a.r. per il Lazio, sezione III-quater, 12 ottobre 2026, n. 15974 – Pres. ed Est. Quiligotti",
+    "speech": "T.a.r. per il Lazio ha deciso: Condizioni di prescrivibilità dei farmaci e competenze dell'AIFA e delle regioni.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "27 lug",
+    "titolo": "Concorso per ormeggiatori: disciplina pubblicistica e incompatibilità dei commissari designati dall’associazione di categoria.",
+    "sintesi": "T.a.r. per il Lazio, sezione III, 27 luglio 2026, n. 13676 – Pres. Stanizzi, Est. Savi",
+    "speech": "T.a.r. per il Lazio ha deciso: Concorso per ormeggiatori: disciplina pubblicistica e incompatibilità dei commissari designati dall’associazione di categoria.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "7 set",
+    "titolo": "News UM n. 102/2026. Alla Corte costituzionale il diritto vivente delle sezioni unite che attribuisce al giudice ordinario la giurisdizione sulla restituzione degli incentivi GSE.",
+    "sintesi": "T.a.r. per il Lazio, sezione III-ter, ordinanza 7 settembre 2026, n. 14647 – Pres. f.f. Tuccillo, Est. La Malfa Ribolla",
+    "speech": "T.a.r. per il Lazio ha deciso: News UM n. 102/2026. Alla Corte costituzionale il diritto vivente delle sezioni unite che attribuisce al giudice ordinario la giurisdizione sulla restituzione degli incentivi GSE.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "5 ago",
     "titolo": "Caratteri della decadenza e suoi effetti giuridici sul permesso di costruire.",
@@ -117,7 +144,7 @@
     "speech": "Consiglio di Stato ha deciso: Caratteri della decadenza e suoi effetti giuridici sul permesso di costruire.."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "4 ago",
@@ -126,34 +153,25 @@
     "speech": "Consiglio di Stato ha deciso: Le clausole della lex specialis che favoriscono, seppur illegittimamente, il favor partecipationis sono annullabili e non nulle.."
   },
   {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Piemonte",
-    "data": "3 ago",
-    "titolo": "Sui vizi di motivazione e sul difetto di istruttoria negli atti regolatori delle autorità amministrative indipendenti.",
-    "sintesi": "T.a.r. per il Piemonte, sezione III, 3 agosto 2026, n. 1741 - Pres. Zucchini, Est. Malanetto",
-    "speech": "T.a.r. per il Piemonte ha deciso: Sui vizi di motivazione e sul difetto di istruttoria negli atti regolatori delle autorità amministrative indipendenti.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "24 lug",
-    "titolo": "Sospensione della patente a crediti e allontanamento dal cantiere in presenza di SOA di classifica III o superiore.",
-    "sintesi": "T.a.r. per il Lazio, sezione III, 24 luglio 2026, n. 13587 – Pres. Stanizzi, Est. Savi",
-    "speech": "T.a.r. per il Lazio ha deciso: Sospensione della patente a crediti e allontanamento dal cantiere in presenza di SOA di classifica III o superiore.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "1 set",
-    "titolo": "Impianti di produzione di energia da fonte rinnovabile: disciplina transitoria nel d.lgs. n. 190 del 2024 e nozione di area idonea.",
-    "sintesi": "Consiglio di Stato, sezione IV, 1 settembre 2026, n. 6732 – Pres. Carbone, Est. Marotta",
-    "speech": "Consiglio di Stato ha deciso: Impianti di produzione di energia da fonte rinnovabile: disciplina transitoria nel d.lgs. n. 190 del 2024 e nozione di area idonea.."
-  },
-  {
     "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "16 ott",
+    "titolo": "Ex ilva - misure a sostegno dei lavoratori e per il rilancio industriale",
+    "sintesi": "D.L. 16 ottobre 2026, n. 185",
+    "speech": "Gazzetta Ufficiale. Ex ilva - misure a sostegno dei lavoratori e per il rilancio industriale. Riferimento normativo: D.L. 16 ottobre 2026, n. 185."
+  },
+  {
+    "id": 19,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "16 ott",
+    "titolo": "Recupero e confisca dei beni - attuazione direttiva (ue)",
+    "sintesi": "D.Lgs.  25 settembre 2026, n. 186",
+    "speech": "Gazzetta Ufficiale. Recupero e confisca dei beni - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 186."
+  },
+  {
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "15 ott",
@@ -162,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Punto di accesso unico europeo - recepimento direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 184."
   },
   {
-    "id": 19,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "13 ott",
@@ -171,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Province sarde - introduzione di nuove sigle automobilistiche. Riferimento normativo: D.P.R. 4 agosto 2026, n. 183."
   },
   {
-    "id": 20,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 ott",
@@ -180,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Legge elettorale - modifiche. Riferimento normativo: L.  9 ottobre 2026, n. 180."
   },
   {
-    "id": 21,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 ott",
@@ -189,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Settore alimenti, emissione acustica ambientale - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 181."
   },
   {
-    "id": 22,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -198,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Istruttorie ambientali, problemi climatici, economia circolare - disposizioni urgenti. Riferimento normativo: D.L. 8 ottobre 2026, n. 177."
   },
   {
-    "id": 23,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -207,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Controlli su sostanze farmacologicamente attive in ambito veterinario - adeguamento ue. Riferimento normativo: D.Lgs. 25 settembre 2026, n. 178."
   },
   {
-    "id": 24,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -216,30 +234,12 @@
     "speech": "Gazzetta Ufficiale. Intelligenza artificiale, autorità nazionali e formazione - adeguamento ue. Riferimento normativo: D.Lgs. 7 ottobre 2026, n. 179."
   },
   {
-    "id": 25,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "7 ott",
     "titolo": "Giornata nazionale della meraviglia - istituzione",
     "sintesi": "L. 5 ottobre 2026, n. 175",
     "speech": "Gazzetta Ufficiale. Giornata nazionale della meraviglia - istituzione. Riferimento normativo: L. 5 ottobre 2026, n. 175."
-  },
-  {
-    "id": 26,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "7 ott",
-    "titolo": "Riparazione dei beni - attuazione direttiva (ue)",
-    "sintesi": "D.Lgs. 25 settembre 2026, n. 176",
-    "speech": "Gazzetta Ufficiale. Riparazione dei beni - attuazione direttiva (ue). Riferimento normativo: D.Lgs. 25 settembre 2026, n. 176."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "7 ott",
-    "titolo": "Tso - difesa tecnica per convalida e proroga",
-    "sintesi": "Sentenza 06/07 - 02/10/2026 n. 157",
-    "speech": "Gazzetta Ufficiale. Tso - difesa tecnica per convalida e proroga. Riferimento normativo: Sentenza 06/07 - 02/10/2026 n. 157."
   }
 ]
