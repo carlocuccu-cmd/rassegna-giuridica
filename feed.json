@@ -66,19 +66,19 @@
     "id": 8,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
-    "data": "28 ago",
-    "titolo": "Sezioni unite — Banche",
-    "sintesi": "CONCORRENZA. - CONTRATTI BANCARI. - Fideiussioni ordinarie pattuite tra la banca e il cliente - Clausole di reviviscenza, di sopravvenienza e di deroga all’art. 1957 c.c. riproduttive dello schema ABI - Rilascio delle…",
-    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: CONCORRENZA., CONTRATTI BANCARI., Fideiussioni ordinarie pattuite tra la banca e il cliente, Clausole di reviviscenza, di sopravvenienza e di deroga all’art. 1957 c.c. riproduttive dello schema ABI, Rilascio delle."
+    "data": "29 ago",
+    "titolo": "Sezioni unite — Espropriazione presso terzi",
+    "sintesi": "114. PROCESSO CIVILE. - Giudizio di accertamento dell'obbligo di un terzo - Artt. 548 e 549 c.p.c., nella versione risultante dalle modifiche apportate dalla l. n. 228 del 2012, dal d.l. n. 132 del 2014 (conv. con…",
+    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 114. PROCESSO CIVILE., Giudizio di accertamento dell'obbligo di un terzo, Artt. 548 e 549 c.p.c., nella versione risultante dalle modifiche apportate dalla l. n. 228 del 2012, dal d.l. n. 132 del 2014 (conv. con."
   },
   {
     "id": 9,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
-    "data": "29 ago",
-    "titolo": "Sezioni unite — Espropriazione presso terzi",
-    "sintesi": "114. PROCESSO CIVILE. - Giudizio di accertamento dell'obbligo di un terzo - Artt. 548 e 549 c.p.c., nella versione risultante dalle modifiche apportate dalla l. n. 228 del 2012, dal d.l. n. 132 del 2014 (conv. con…",
-    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 114. PROCESSO CIVILE., Giudizio di accertamento dell'obbligo di un terzo, Artt. 548 e 549 c.p.c., nella versione risultante dalle modifiche apportate dalla l. n. 228 del 2012, dal d.l. n. 132 del 2014 (conv. con."
+    "data": "28 ago",
+    "titolo": "Sezioni unite — Banche",
+    "sintesi": "CONCORRENZA. - CONTRATTI BANCARI. - Fideiussioni ordinarie pattuite tra la banca e il cliente - Clausole di reviviscenza, di sopravvenienza e di deroga all’art. 1957 c.c. riproduttive dello schema ABI - Rilascio delle…",
+    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: CONCORRENZA., CONTRATTI BANCARI., Fideiussioni ordinarie pattuite tra la banca e il cliente, Clausole di reviviscenza, di sopravvenienza e di deroga all’art. 1957 c.c. riproduttive dello schema ABI, Rilascio delle."
   },
   {
     "id": 10,
@@ -156,13 +156,22 @@
     "id": 18,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
+    "data": "19 ott",
+    "titolo": "Riordino funzioni e ordinamento polizia locale - delega al governo",
+    "sintesi": "L.  16 ottobre 2026, n. 187",
+    "speech": "Gazzetta Ufficiale. Riordino funzioni e ordinamento polizia locale - delega al governo. Riferimento normativo: L.  16 ottobre 2026, n. 187."
+  },
+  {
+    "id": 19,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
     "data": "16 ott",
     "titolo": "Ex ilva - misure a sostegno dei lavoratori e per il rilancio industriale",
     "sintesi": "D.L. 16 ottobre 2026, n. 185",
     "speech": "Gazzetta Ufficiale. Ex ilva - misure a sostegno dei lavoratori e per il rilancio industriale. Riferimento normativo: D.L. 16 ottobre 2026, n. 185."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "16 ott",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Recupero e confisca dei beni - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 186."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "15 ott",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Punto di accesso unico europeo - recepimento direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 184."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "13 ott",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Province sarde - introduzione di nuove sigle automobilistiche. Riferimento normativo: D.P.R. 4 agosto 2026, n. 183."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 ott",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Legge elettorale - modifiche. Riferimento normativo: L.  9 ottobre 2026, n. 180."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 ott",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Settore alimenti, emissione acustica ambientale - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  25 settembre 2026, n. 181."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Istruttorie ambientali, problemi climatici, economia circolare - disposizioni urgenti. Riferimento normativo: D.L. 8 ottobre 2026, n. 177."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. Controlli su sostanze farmacologicamente attive in ambito veterinario - adeguamento ue. Riferimento normativo: D.Lgs. 25 settembre 2026, n. 178."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "8 ott",
     "titolo": "Intelligenza artificiale, autorità nazionali e formazione - adeguamento ue",
     "sintesi": "D.Lgs. 7 ottobre 2026, n. 179",
     "speech": "Gazzetta Ufficiale. Intelligenza artificiale, autorità nazionali e formazione - adeguamento ue. Riferimento normativo: D.Lgs. 7 ottobre 2026, n. 179."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "7 ott",
-    "titolo": "Giornata nazionale della meraviglia - istituzione",
-    "sintesi": "L. 5 ottobre 2026, n. 175",
-    "speech": "Gazzetta Ufficiale. Giornata nazionale della meraviglia - istituzione. Riferimento normativo: L. 5 ottobre 2026, n. 175."
   }
 ]
