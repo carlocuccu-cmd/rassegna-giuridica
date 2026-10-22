@@ -3,13 +3,31 @@
     "id": 1,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
+    "data": "21 ott",
+    "titolo": "Seconda sezione — Processo civile",
+    "sintesi": "Revocazione - Pronunce della Corte di cassazione - Decisione della causa nel merito - Correzione della motivazione - Limiti dell'intervento correttivo - Questione rilevata di ufficio - Ammissibilità della revocazione.",
+    "speech": "La Corte di Cassazione, seconda sezione, si è pronunciata su questi punti: Revocazione, Pronunce della Corte di cassazione, Decisione della causa nel merito, Correzione della motivazione, Limiti dell'intervento correttivo, Questione rilevata di ufficio, Ammissibilità della revocazione."
+  },
+  {
+    "id": 2,
+    "tag": "civile",
+    "fonte": "Corte di Cassazione",
+    "data": "20 ott",
+    "titolo": "Quarta sezione lavoro — Previdenza sociale",
+    "sintesi": "Pensione di vecchiaia in regime di “pro rata” internazionale - Integrazione al minimo ex art. 8, commi 2 e 3, della l. n. 153 del 1969 - Spettanza - Somma della prestazione estera autonoma a quella italiana - Necessità…",
+    "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Pensione di vecchiaia in regime di “pro rata” internazionale, Integrazione al minimo ex art. 8, commi 2 e 3, della l. n. 153 del 1969, Spettanza, Somma della prestazione estera autonoma a quella italiana, Necessità."
+  },
+  {
+    "id": 3,
+    "tag": "civile",
+    "fonte": "Corte di Cassazione",
     "data": "14 ott",
     "titolo": "Quarta sezione lavoro — Previdenza sociale",
     "sintesi": "Pensione anticipata \"quota cento\" - Divieto di cumulo con redditi da lavoro dipendente o autonomo - Violazione - Conseguenze - Perdita totale del trattamento pensionistico - Esclusione - Riduzione corrispondente al…",
     "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Pensione anticipata \"quota cento\", Divieto di cumulo con redditi da lavoro dipendente o autonomo, Violazione, Conseguenze, Perdita totale del trattamento pensionistico, Esclusione, Riduzione corrispondente al."
   },
   {
-    "id": 2,
+    "id": 4,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 ott",
@@ -18,7 +36,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: Pubblica amministrazione:."
   },
   {
-    "id": 3,
+    "id": 5,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
@@ -27,7 +45,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Trattamento di fine rapporto, Istituzione del Fondo di tesoreria ad opera dell’art. 1, commi 755 e ss. della legge n. 296 del 2006, Retribuzione differita, Conseguenze -."
   },
   {
-    "id": 4,
+    "id": 6,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
@@ -36,7 +54,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Previdenza complementare, Datore di lavoro insolvente, Contributi non versati, Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c., Distinzione, Contributi a."
   },
   {
-    "id": 5,
+    "id": 7,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 set",
@@ -45,7 +63,7 @@
     "speech": "La Corte di Cassazione, terza sezione, si è pronunciata su questi punti: 60. ESECUZIONE FORZATA., Processo penale, Spese di costituzione di parte civile ex art. 541, comma 1, c.p.p., Mancata previsione della provvisoria esecutività, Contrasto con gli artt. 3 e 24 Cost., Questione di."
   },
   {
-    "id": 6,
+    "id": 8,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "11 set",
@@ -54,7 +72,7 @@
     "speech": "La Corte di Cassazione, prima sezione, si è pronunciata su questi punti: Giudizio civile di rinvio ex art. 622 c.p.p., Competenza territoriale, Individuazione, Conseguenze processuali ricollegabili all’erronea individuazione, Art. 50 c.p.c., Applicabilità, Sussistenza."
   },
   {
-    "id": 7,
+    "id": 9,
     "tag": "fiscale",
     "fonte": "Corte di Cassazione",
     "data": "2 set",
@@ -63,7 +81,7 @@
     "speech": "La Corte di Cassazione, quinta sezione tributaria, si è pronunciata su questi punti: Innalzamento del limite annuo di compensabilità orizzontale, Violazione, Condotta sanzionata e misura della sanzione immutate, \"Ius superveniens\", Applicabilità del principio del \"favor rei\", Mero fenomeno di."
   },
   {
-    "id": 8,
+    "id": 10,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "29 ago",
@@ -72,7 +90,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 114. PROCESSO CIVILE., Giudizio di accertamento dell'obbligo di un terzo, Artt. 548 e 549 c.p.c., nella versione risultante dalle modifiche apportate dalla l. n. 228 del 2012, dal d.l. n. 132 del 2014 (conv. con."
   },
   {
-    "id": 9,
+    "id": 11,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "28 ago",
@@ -81,7 +99,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: CONCORRENZA., CONTRATTI BANCARI., Fideiussioni ordinarie pattuite tra la banca e il cliente, Clausole di reviviscenza, di sopravvenienza e di deroga all’art. 1957 c.c. riproduttive dello schema ABI, Rilascio delle."
   },
   {
-    "id": 10,
+    "id": 12,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "18 ago",
@@ -90,67 +108,49 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: RISARCIMENTO DANNI, Spese giudiziali civili, Spese sostenute per consulenza tecnica di parte, Condanna del soccombente alla rifusione, Liquidazione officiosa, Sussistenza, Differenze con la consulenza di parte."
   },
   {
-    "id": 11,
-    "tag": "civile",
-    "fonte": "Corte di Cassazione",
-    "data": "10 ago",
-    "titolo": "Sezioni unite — Prescrizione e decadenza",
-    "sintesi": "RISARCIMENTO DEI DANNI - Fatto dannoso costituente reato - Diritto al risarcimento del danno - Prescrizione - Costituzione di parte civile nel processo penale - Cause di interruzione e di sospensione della prescrizione…",
-    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: RISARCIMENTO DEI DANNI, Fatto dannoso costituente reato, Diritto al risarcimento del danno, Prescrizione, Costituzione di parte civile nel processo penale, Cause di interruzione e di sospensione della prescrizione."
-  },
-  {
-    "id": 12,
-    "tag": "civile",
-    "fonte": "Corte di Cassazione",
-    "data": "5 ago",
-    "titolo": "Seconda sezione — Successioni",
-    "sintesi": "Accettazione di eredità con beneficio di inventario - Termine assegnato ex art. 500 c.c. - Applicabilità alla liquidazione individuale - Esclusione - Fondamento - Conseguenze.",
-    "speech": "La Corte di Cassazione, seconda sezione, si è pronunciata su questi punti: Accettazione di eredità con beneficio di inventario, Termine assegnato ex art. 500 c.c., Applicabilità alla liquidazione individuale, Esclusione, Fondamento, Conseguenze."
-  },
-  {
     "id": 13,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "12 ago",
+    "titolo": "Sulla lesione c.d. \"doppiamente ipotetica\" e interesse ad impugnare un decreto di individuazione di aree idonee per l'installazione di impianti FER.",
+    "sintesi": "Consiglio di Stato, sezione IV, 12 agosto 2026, n. 6511 - Pres. Carbone, Est. Conforti",
+    "speech": "Consiglio di Stato ha deciso: Sulla lesione c.d. \"doppiamente ipotetica\" e interesse ad impugnare un decreto di individuazione di aree idonee per l'installazione di impianti FER.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "18 set",
+    "titolo": "Ordine di demolizione: il contraddittorio procedimentale deve essere assicurato in caso di accertamenti complessi.",
+    "sintesi": "Consiglio di giustizia amministrativa per la Regione Siciliana, sezione giurisdizionale,18 settembre 2026, n. 615 – Pres. de Francisco, Est. Caradonna",
+    "speech": "TAR. Ordine di demolizione: il contraddittorio procedimentale deve essere assicurato in caso di accertamenti complessi.. Consiglio di giustizia amministrativa per la Regione Siciliana, sezione giurisdizionale,18 settembre 2026, n. 615 – Pres. de Francisco, Est. Caradonna."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "25 set",
+    "titolo": "Corti di giustizia tributarie: mobilità interna e ambito soggettivo di applicazione del coefficiente premiale.",
+    "sintesi": "T.a.r. per il Lazio, sezione V-bis, 25 settembre 2026, n. 15242 - Pres. Rizzetto, Est. Mattei",
+    "speech": "T.a.r. per il Lazio ha deciso: Corti di giustizia tributarie: mobilità interna e ambito soggettivo di applicazione del coefficiente premiale.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per la Puglia",
+    "data": "10 ott",
+    "titolo": "Divieto di duplicazione del giudizio di annullamento e limiti al sindacato del giudice amministrativo in pendenza del ricorso per cassazione.",
+    "sintesi": "T.a.r. per la Puglia, sezione II, 10 ottobre 2026, n. 1103 - Pres. ed Est. Palliggiano",
+    "speech": "T.a.r. per la Puglia ha deciso: Divieto di duplicazione del giudizio di annullamento e limiti al sindacato del giudice amministrativo in pendenza del ricorso per cassazione.."
+  },
+  {
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "TAR",
     "data": "16 set",
     "titolo": "News UM n. 105/2026. È compatibile con il reg. CE 1370/2007 il contratto di servizio TPL transitorio che rinuncia all’utile, se il rischio economico grava sulla regione.",
     "sintesi": "Corte di giustizia dell’Unione europea, sezione III, 16 settembre 2026, C-809/24, Trenitalia s.p.a. c. regione Liguria",
     "speech": "TAR. News UM n. 105/2026. È compatibile con il reg. CE 1370/2007 il contratto di servizio TPL transitorio che rinuncia all’utile, se il rischio economico grava sulla regione.. Corte di giustizia dell’Unione europea, sezione III, 16 settembre 2026, C-809/24, Trenitalia s.p.a. c. regione Liguria."
-  },
-  {
-    "id": 14,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "24 ago",
-    "titolo": "Sull'addizionale aeroportuale e le garanzie partecipative.",
-    "sintesi": "Consiglio di Stato, sezione V, 24 agosto 2026, n. 6621 - Pres. Lotti, Est. Santini",
-    "speech": "Consiglio di Stato ha deciso: Sull'addizionale aeroportuale e le garanzie partecipative.."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "30 lug",
-    "titolo": "Immediata impugnabilità di atti a contenuto generale e ammissibilità dell'azione delle associazioni di categoria in materia ambientale.",
-    "sintesi": "Consiglio di Stato, sezione IV, 30 luglio 2026, n. 6151 - Pres. Carbone, Est. Conforti",
-    "speech": "Consiglio di Stato ha deciso: Immediata impugnabilità di atti a contenuto generale e ammissibilità dell'azione delle associazioni di categoria in materia ambientale.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "25 set",
-    "titolo": "Mobilità interna dei giudici tributari e applicazione del coefficiente premiale.",
-    "sintesi": "T.a.r. per il Lazio, sezione V-bis, 25 settembre 2026, n. 15241 - Pres. Rizzetto, Est. Giudice",
-    "speech": "T.a.r. per il Lazio ha deciso: Mobilità interna dei giudici tributari e applicazione del coefficiente premiale.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Lombardia",
-    "data": "4 ago",
-    "titolo": "Impianti da fonti rinnovabili: il rito abbreviato si applica anche ai progetti regolati dalla disciplina previgente.",
-    "sintesi": "T.a.r. per la Lombardia, Brescia, sezione I, 4 agosto 2026, n. 1132 – Pres. Gabbricci, Est. Fede",
-    "speech": "T.a.r. per la Lombardia ha deciso: Impianti da fonti rinnovabili: il rito abbreviato si applica anche ai progetti regolati dalla disciplina previgente.."
   },
   {
     "id": 18,
