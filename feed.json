@@ -110,6 +110,15 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "7 ott",
+    "titolo": "News UM n. 106/2026. Concorsi pubblici, ancora alla Consulta il contrasto tra la stretta “taglia-idonei” e la deroga transitoria ampliativa per graduatorie 2024-2025 e i bandi 2025.",
+    "sintesi": "T.a.r. per il Lazio, sezione IV ter, ordinanza 7 ottobre 2026, n. 15700 – Pres. Tricarico, Est. Bello",
+    "speech": "T.a.r. per il Lazio ha deciso: News UM n. 106/2026. Concorsi pubblici, ancora alla Consulta il contrasto tra la stretta “taglia-idonei” e la deroga transitoria ampliativa per graduatorie 2024-2025 e i bandi 2025.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
     "fonte": "T.a.r. per il Piemonte",
     "data": "4 ago",
     "titolo": "Autostrate e poteri dell’Autorità di regolazione dei trasporti: funzione pro-concorrenziale, rivedibilità e limiti del sindacato giurisdizionale.",
@@ -117,7 +126,7 @@
     "speech": "T.a.r. per il Piemonte ha deciso: Autostrate e poteri dell’Autorità di regolazione dei trasporti: funzione pro-concorrenziale, rivedibilità e limiti del sindacato giurisdizionale.."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "9 ott",
@@ -126,7 +135,7 @@
     "speech": "T.a.r. per il Lazio ha deciso: Contratti attivi della pubblica amministrazione e obbligo di motivazione.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "26 ago",
@@ -135,22 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: Obbligo di vaccinazione dei minori e adempimenti formali per la deroga.."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "25 ago",
     "titolo": "Sugli effetti ripristinatori e conformativi della sentenza di annullamento del diniego di iscrizione nella white list in caso di riedizione del potere.",
     "sintesi": "Consiglio di Stato, sezione III, 25 agosto 2026, n. 6646 – Pres. Corradino, Est. Cerroni",
     "speech": "Consiglio di Stato ha deciso: Sugli effetti ripristinatori e conformativi della sentenza di annullamento del diniego di iscrizione nella white list in caso di riedizione del potere.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "8 ott",
-    "titolo": "Sull'asseverazione del PEF e sull'interpretazione della lex specialis di gara.",
-    "sintesi": "Consiglio di Stato, sezione V, 8 ottobre 2026, n. 7394 - Pres. Barreca, Est. Picardi",
-    "speech": "Consiglio di Stato ha deciso: Sull'asseverazione del PEF e sull'interpretazione della lex specialis di gara.."
   },
   {
     "id": 18,
