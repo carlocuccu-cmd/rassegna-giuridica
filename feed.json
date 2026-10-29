@@ -3,13 +3,22 @@
     "id": 1,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
+    "data": "28 ott",
+    "titolo": "Terza sezione — Processo del lavoro",
+    "sintesi": "Processo del lavoro - Sostituzione dell’udienza con la trattazione scritta - Omesso deposito telematico del dispositivo nell’immediatezza dell’udienza cartolare - Conseguenze.",
+    "speech": "La Corte di Cassazione, terza sezione, si è pronunciata su questi punti: Processo del lavoro, Sostituzione dell’udienza con la trattazione scritta, Omesso deposito telematico del dispositivo nell’immediatezza dell’udienza cartolare, Conseguenze."
+  },
+  {
+    "id": 2,
+    "tag": "civile",
+    "fonte": "Corte di Cassazione",
     "data": "21 ott",
     "titolo": "Seconda sezione — Processo civile",
     "sintesi": "Revocazione - Pronunce della Corte di cassazione - Decisione della causa nel merito - Correzione della motivazione - Limiti dell'intervento correttivo - Questione rilevata di ufficio - Ammissibilità della revocazione.",
     "speech": "La Corte di Cassazione, seconda sezione, si è pronunciata su questi punti: Revocazione, Pronunce della Corte di cassazione, Decisione della causa nel merito, Correzione della motivazione, Limiti dell'intervento correttivo, Questione rilevata di ufficio, Ammissibilità della revocazione."
   },
   {
-    "id": 2,
+    "id": 3,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "20 ott",
@@ -18,7 +27,7 @@
     "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Pensione di vecchiaia in regime di “pro rata” internazionale, Integrazione al minimo ex art. 8, commi 2 e 3, della l. n. 153 del 1969, Spettanza, Somma della prestazione estera autonoma a quella italiana, Necessità."
   },
   {
-    "id": 3,
+    "id": 4,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "22 ott",
@@ -27,7 +36,7 @@
     "speech": "La Corte di Cassazione, prima sezione, si è pronunciata su questi punti: Concordato preventivo, Transazione fiscale, Cram down forzoso, Art. 180 l. fall., Direttiva UE 1023/2019, Rinvio pregiudiziale ex art. 267 del TFUE."
   },
   {
-    "id": 4,
+    "id": 5,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 ott",
@@ -36,7 +45,7 @@
     "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Pensione anticipata \"quota cento\", Divieto di cumulo con redditi da lavoro dipendente o autonomo, Violazione, Conseguenze, Perdita totale del trattamento pensionistico, Esclusione, Riduzione corrispondente al."
   },
   {
-    "id": 5,
+    "id": 6,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 ott",
@@ -45,7 +54,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: Pubblica amministrazione:."
   },
   {
-    "id": 6,
+    "id": 7,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
@@ -54,7 +63,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Trattamento di fine rapporto, Istituzione del Fondo di tesoreria ad opera dell’art. 1, commi 755 e ss. della legge n. 296 del 2006, Retribuzione differita, Conseguenze -."
   },
   {
-    "id": 7,
+    "id": 8,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
@@ -63,7 +72,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Previdenza complementare, Datore di lavoro insolvente, Contributi non versati, Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c., Distinzione, Contributi a."
   },
   {
-    "id": 8,
+    "id": 9,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 set",
@@ -72,7 +81,7 @@
     "speech": "La Corte di Cassazione, terza sezione, si è pronunciata su questi punti: 60. ESECUZIONE FORZATA., Processo penale, Spese di costituzione di parte civile ex art. 541, comma 1, c.p.p., Mancata previsione della provvisoria esecutività, Contrasto con gli artt. 3 e 24 Cost., Questione di."
   },
   {
-    "id": 9,
+    "id": 10,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "11 set",
@@ -81,7 +90,7 @@
     "speech": "La Corte di Cassazione, prima sezione, si è pronunciata su questi punti: Giudizio civile di rinvio ex art. 622 c.p.p., Competenza territoriale, Individuazione, Conseguenze processuali ricollegabili all’erronea individuazione, Art. 50 c.p.c., Applicabilità, Sussistenza."
   },
   {
-    "id": 10,
+    "id": 11,
     "tag": "fiscale",
     "fonte": "Corte di Cassazione",
     "data": "2 set",
@@ -90,22 +99,13 @@
     "speech": "La Corte di Cassazione, quinta sezione tributaria, si è pronunciata su questi punti: Innalzamento del limite annuo di compensabilità orizzontale, Violazione, Condotta sanzionata e misura della sanzione immutate, \"Ius superveniens\", Applicabilità del principio del \"favor rei\", Mero fenomeno di."
   },
   {
-    "id": 11,
+    "id": 12,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "29 ago",
     "titolo": "Sezioni unite — Espropriazione presso terzi",
     "sintesi": "114. PROCESSO CIVILE. - Giudizio di accertamento dell'obbligo di un terzo - Artt. 548 e 549 c.p.c., nella versione risultante dalle modifiche apportate dalla l. n. 228 del 2012, dal d.l. n. 132 del 2014 (conv. con…",
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 114. PROCESSO CIVILE., Giudizio di accertamento dell'obbligo di un terzo, Artt. 548 e 549 c.p.c., nella versione risultante dalle modifiche apportate dalla l. n. 228 del 2012, dal d.l. n. 132 del 2014 (conv. con."
-  },
-  {
-    "id": 12,
-    "tag": "civile",
-    "fonte": "Corte di Cassazione",
-    "data": "28 ago",
-    "titolo": "Sezioni unite — Banche",
-    "sintesi": "CONCORRENZA. - CONTRATTI BANCARI. - Fideiussioni ordinarie pattuite tra la banca e il cliente - Clausole di reviviscenza, di sopravvenienza e di deroga all’art. 1957 c.c. riproduttive dello schema ABI - Rilascio delle…",
-    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: CONCORRENZA., CONTRATTI BANCARI., Fideiussioni ordinarie pattuite tra la banca e il cliente, Clausole di reviviscenza, di sopravvenienza e di deroga all’art. 1957 c.c. riproduttive dello schema ABI, Rilascio delle."
   },
   {
     "id": 13,
