@@ -110,6 +110,15 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per la Sardegna",
+    "data": "29 ott",
+    "titolo": "DASPO fuori contesto: natura e presupposti applicativi.",
+    "sintesi": "T.a.r. per la Sardegna, sezione I, 29 ottobre 2026, n. 1300 - Pres. ed Est. Ferrari",
+    "speech": "T.a.r. per la Sardegna ha deciso: DASPO fuori contesto: natura e presupposti applicativi.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "",
     "titolo": "Caricamento dell’istanza sul portale telematico comunale e quantificazione provvisoria del canone per le infrastrutture di comunicazione elettronica.",
@@ -117,7 +126,7 @@
     "speech": "T.a.r. per il Lazio ha deciso: Caricamento dell’istanza sul portale telematico comunale e quantificazione provvisoria del canone per le infrastrutture di comunicazione elettronica.."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Sicilia",
     "data": "27 ott",
@@ -126,22 +135,13 @@
     "speech": "T.a.r. per la Sicilia ha deciso: Procedure a sportello e onere della prova del malfunzionamento della piattaforma.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "TAR",
     "data": "19 ott",
     "titolo": "Commissario straordinario del Governo: la scadenza dell'incarico non preclude l'esecuzione degli atti legittimamente adottati o la conclusione del procedimento.",
     "sintesi": "Consiglio di giustizia amministrativa per la Regione Siciliana, sezione consultiva, parere 19 ottobre 2026, n. 252 – Pres. Carlotti, Est. Gullotti",
     "speech": "TAR. Commissario straordinario del Governo: la scadenza dell'incarico non preclude l'esecuzione degli atti legittimamente adottati o la conclusione del procedimento.. Consiglio di giustizia amministrativa per la Regione Siciliana, sezione consultiva, parere 19 ottobre 2026, n. 252 – Pres. Carlotti, Est. Gullotti."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "12 ott",
-    "titolo": "Sul contratto collettivo applicabile, la verifica di equivalenza del diverso contratto e sull'inammissibilità della modifica soggettiva del RTI.",
-    "sintesi": "Consiglio di Stato, sezione V, 12 ottobre 2026, n. 7464 – Pres. Sabatino, Est. Fasano",
-    "speech": "Consiglio di Stato ha deciso: Sul contratto collettivo applicabile, la verifica di equivalenza del diverso contratto e sull'inammissibilità della modifica soggettiva del RTI.."
   },
   {
     "id": 17,
