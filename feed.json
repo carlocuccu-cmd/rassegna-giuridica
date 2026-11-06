@@ -110,6 +110,15 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "21 ott",
+    "titolo": "Illegittima la detrazione dell’anzianità del militare sospeso o assente ingiustificato per inosservanza dell’obbligo vaccinale SARS-CoV-2.",
+    "sintesi": "Consiglio di Stato, sezione III, 21 ottobre 2026, n. 7667 - Pres. De Nictolis, Est. Cerroni",
+    "speech": "Consiglio di Stato ha deciso: Illegittima la detrazione dell’anzianità del militare sospeso o assente ingiustificato per inosservanza dell’obbligo vaccinale SARS-CoV-2.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
     "fonte": "TAR",
     "data": "20 ott",
     "titolo": "News UM n. 111/2026. Divieto di pubblicità del gioco: incostituzionale il minimo inderogabile di 50.000 euro, riducibile secondo gravità e condizioni economiche del trasgressore.",
@@ -117,7 +126,7 @@
     "speech": "TAR. News UM n. 111/2026. Divieto di pubblicità del gioco: incostituzionale il minimo inderogabile di 50.000 euro, riducibile secondo gravità e condizioni economiche del trasgressore.. Corte costituzionale, 20 ottobre 2026, n. 172 – Pres. Amoroso, Red. Sciarrone Alibrandi."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "2 ott",
@@ -126,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Revocazione parziale per errore di fatto: presupposti e risarcimento del danno ai vincitori per ritardata conclusione della procedura concorsuale.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Calabria",
     "data": "26 ott",
@@ -135,22 +144,13 @@
     "speech": "T.a.r. per la Calabria ha deciso: Le referenze bancarie hanno unicamente natura giuridica di mezzo di prova del requisito di partecipazione nelle gare pubbliche.."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Sicilia",
     "data": "16 set",
     "titolo": "Nell'impugnazione degli esiti di una procedura concorsuale va offerta la prova di resistenza, se non si mira ad ottenerne la rinnovazione integrale.",
     "sintesi": "T.a.r. per la Sicilia, Catania, sezione I, 16 settembre 2026, n. 2522 - Pres. Savasta, Est. Sidoti",
     "speech": "T.a.r. per la Sicilia ha deciso: Nell'impugnazione degli esiti di una procedura concorsuale va offerta la prova di resistenza, se non si mira ad ottenerne la rinnovazione integrale.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "TAR",
-    "data": "6 ott",
-    "titolo": "News UM n. 110/2026. Mutamenti di destinazione d’uso e recupero del patrimonio edilizio: legittima la legge regionale che preserva la discrezionalità pianificatoria dei comuni.",
-    "sintesi": "Corte costituzionale, 6 ottobre 2026, n. 161 - Pres. Amoroso, Red. Sandulli",
-    "speech": "TAR. News UM n. 110/2026. Mutamenti di destinazione d’uso e recupero del patrimonio edilizio: legittima la legge regionale che preserva la discrezionalità pianificatoria dei comuni.. Corte costituzionale, 6 ottobre 2026, n. 161 - Pres. Amoroso, Red. Sandulli."
   },
   {
     "id": 18,
