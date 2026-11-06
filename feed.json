@@ -110,6 +110,33 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "20 ott",
+    "titolo": "News UM n. 111/2026. Divieto di pubblicità del gioco: incostituzionale il minimo inderogabile di 50.000 euro, riducibile secondo gravità e condizioni economiche del trasgressore.",
+    "sintesi": "Corte costituzionale, 20 ottobre 2026, n. 172 – Pres. Amoroso, Red. Sciarrone Alibrandi",
+    "speech": "TAR. News UM n. 111/2026. Divieto di pubblicità del gioco: incostituzionale il minimo inderogabile di 50.000 euro, riducibile secondo gravità e condizioni economiche del trasgressore.. Corte costituzionale, 20 ottobre 2026, n. 172 – Pres. Amoroso, Red. Sciarrone Alibrandi."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "2 ott",
+    "titolo": "Revocazione parziale per errore di fatto: presupposti e risarcimento del danno ai vincitori per ritardata conclusione della procedura concorsuale.",
+    "sintesi": "Consiglio di Stato, sezione VI, 2 ottobre 2026, n. 7268 – Pres. Barra Caracciolo, Est. Caponigro",
+    "speech": "Consiglio di Stato ha deciso: Revocazione parziale per errore di fatto: presupposti e risarcimento del danno ai vincitori per ritardata conclusione della procedura concorsuale.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per la Calabria",
+    "data": "26 ott",
+    "titolo": "Le referenze bancarie hanno unicamente natura giuridica di mezzo di prova del requisito di partecipazione nelle gare pubbliche.",
+    "sintesi": "T.a.r. per la Calabria, sezione II, 26 ottobre 2026, n. 2054 - Pres. Correale, Est. Baffa",
+    "speech": "T.a.r. per la Calabria ha deciso: Le referenze bancarie hanno unicamente natura giuridica di mezzo di prova del requisito di partecipazione nelle gare pubbliche.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
     "fonte": "T.a.r. per la Sicilia",
     "data": "16 set",
     "titolo": "Nell'impugnazione degli esiti di una procedura concorsuale va offerta la prova di resistenza, se non si mira ad ottenerne la rinnovazione integrale.",
@@ -117,40 +144,13 @@
     "speech": "T.a.r. per la Sicilia ha deciso: Nell'impugnazione degli esiti di una procedura concorsuale va offerta la prova di resistenza, se non si mira ad ottenerne la rinnovazione integrale.."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "TAR",
     "data": "6 ott",
     "titolo": "News UM n. 110/2026. Mutamenti di destinazione d’uso e recupero del patrimonio edilizio: legittima la legge regionale che preserva la discrezionalità pianificatoria dei comuni.",
     "sintesi": "Corte costituzionale, 6 ottobre 2026, n. 161 - Pres. Amoroso, Red. Sandulli",
     "speech": "TAR. News UM n. 110/2026. Mutamenti di destinazione d’uso e recupero del patrimonio edilizio: legittima la legge regionale che preserva la discrezionalità pianificatoria dei comuni.. Corte costituzionale, 6 ottobre 2026, n. 161 - Pres. Amoroso, Red. Sandulli."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "7 ago",
-    "titolo": "Convalida dell’atto amministrativo e limiti della sua impugnazione: non sono riaperti i termini per contestare l’atto convalidato.",
-    "sintesi": "Consiglio di Stato, sezione II, 7 agosto 2026, n. 6447 – Pres. Castriota Scanderbeg, Est. Ricci",
-    "speech": "Consiglio di Stato ha deciso: Convalida dell’atto amministrativo e limiti della sua impugnazione: non sono riaperti i termini per contestare l’atto convalidato.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "30 lug",
-    "titolo": "Abusi edilizi: la tutela del domicilio ex art. 8 CEDU non impedisce la demolizione delle seconde case.",
-    "sintesi": "Consiglio di Stato, sezione VII, 30 luglio 2026, n. 6150 – Pres. f.f. Manca, Est. Ravasio",
-    "speech": "Consiglio di Stato ha deciso: Abusi edilizi: la tutela del domicilio ex art. 8 CEDU non impedisce la demolizione delle seconde case.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Piemonte",
-    "data": "29 set",
-    "titolo": "La cognizione del potere discrezionale di riduzione ed esenzione del canone unico patrimoniale (CUP) appartiene alla giurisdizione esclusiva amministrativa.",
-    "sintesi": "T.a.r. per il Piemonte, sezione I, 29 settembre 2026, n. 1917 - Pres. Prosperi, Est. Perilongo.",
-    "speech": "T.a.r. per il Piemonte ha deciso: La cognizione del potere discrezionale di riduzione ed esenzione del canone unico patrimoniale (CUP) appartiene alla giurisdizione esclusiva amministrativa.."
   },
   {
     "id": 18,
