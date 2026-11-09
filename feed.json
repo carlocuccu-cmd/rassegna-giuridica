@@ -110,6 +110,24 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "2 ott",
+    "titolo": "Contributi per i diritti d’uso di frequenze digitali. Proporzionato un criterio che tenga conto del valore reale dei diritti d’uso in modo individualizzato.",
+    "sintesi": "T.a.r. per il Lazio, sezione IV-ter, 2 ottobre 2026, n. 15528 – Pres. Tricarico, Est. Bello",
+    "speech": "T.a.r. per il Lazio ha deciso: Contributi per i diritti d’uso di frequenze digitali. Proporzionato un criterio che tenga conto del valore reale dei diritti d’uso in modo individualizzato.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per la Campania",
+    "data": "15 ott",
+    "titolo": "La cittadinanza nello stesso comune consente il ricorso collettivo in materia di telecomunicazioni ma non è sufficiente per la legittimazione attiva.",
+    "sintesi": "T.a.r. per la Campania, Salerno, sezione I, 15 ottobre 2026, n. 1766 - Pres. Mezzacapo, Est. Capozzi",
+    "speech": "T.a.r. per la Campania ha deciso: La cittadinanza nello stesso comune consente il ricorso collettivo in materia di telecomunicazioni ma non è sufficiente per la legittimazione attiva.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "21 ott",
     "titolo": "Illegittima la detrazione dell’anzianità del militare sospeso o assente ingiustificato per inosservanza dell’obbligo vaccinale SARS-CoV-2.",
@@ -117,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Illegittima la detrazione dell’anzianità del militare sospeso o assente ingiustificato per inosservanza dell’obbligo vaccinale SARS-CoV-2.."
   },
   {
-    "id": 14,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "TAR",
     "data": "20 ott",
@@ -126,31 +144,13 @@
     "speech": "TAR. News UM n. 111/2026. Divieto di pubblicità del gioco: incostituzionale il minimo inderogabile di 50.000 euro, riducibile secondo gravità e condizioni economiche del trasgressore.. Corte costituzionale, 20 ottobre 2026, n. 172 – Pres. Amoroso, Red. Sciarrone Alibrandi."
   },
   {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "2 ott",
-    "titolo": "Revocazione parziale per errore di fatto: presupposti e risarcimento del danno ai vincitori per ritardata conclusione della procedura concorsuale.",
-    "sintesi": "Consiglio di Stato, sezione VI, 2 ottobre 2026, n. 7268 – Pres. Barra Caracciolo, Est. Caponigro",
-    "speech": "Consiglio di Stato ha deciso: Revocazione parziale per errore di fatto: presupposti e risarcimento del danno ai vincitori per ritardata conclusione della procedura concorsuale.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Calabria",
-    "data": "26 ott",
-    "titolo": "Le referenze bancarie hanno unicamente natura giuridica di mezzo di prova del requisito di partecipazione nelle gare pubbliche.",
-    "sintesi": "T.a.r. per la Calabria, sezione II, 26 ottobre 2026, n. 2054 - Pres. Correale, Est. Baffa",
-    "speech": "T.a.r. per la Calabria ha deciso: Le referenze bancarie hanno unicamente natura giuridica di mezzo di prova del requisito di partecipazione nelle gare pubbliche.."
-  },
-  {
     "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Sicilia",
-    "data": "16 set",
-    "titolo": "Nell'impugnazione degli esiti di una procedura concorsuale va offerta la prova di resistenza, se non si mira ad ottenerne la rinnovazione integrale.",
-    "sintesi": "T.a.r. per la Sicilia, Catania, sezione I, 16 settembre 2026, n. 2522 - Pres. Savasta, Est. Sidoti",
-    "speech": "T.a.r. per la Sicilia ha deciso: Nell'impugnazione degli esiti di una procedura concorsuale va offerta la prova di resistenza, se non si mira ad ottenerne la rinnovazione integrale.."
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "6 nov",
+    "titolo": "Continuita' funzioni anac - misure urgenti",
+    "sintesi": "D.L.  6 novembre 2026, n. 200",
+    "speech": "Gazzetta Ufficiale. Continuita' funzioni anac - misure urgenti. Riferimento normativo: D.L.  6 novembre 2026, n. 200."
   },
   {
     "id": 18,
@@ -232,86 +232,5 @@
     "titolo": "Azioni legali abusive - attuazione direttiva (ue)",
     "sintesi": "D.Lgs.  8 ottobre 2026, n. 194",
     "speech": "Gazzetta Ufficiale. Azioni legali abusive - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  8 ottobre 2026, n. 194."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "23 ott",
-    "titolo": "Autotrasporto, agricoltura e pesca - disposizioni urgenti e misure di sostegno",
-    "sintesi": "D.L.  23 ottobre 2026, n. 193",
-    "speech": "Gazzetta Ufficiale. Autotrasporto, agricoltura e pesca - disposizioni urgenti e misure di sostegno. Riferimento normativo: D.L.  23 ottobre 2026, n. 193."
-  },
-  {
-    "id": 28,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "5 nov",
-    "titolo": "2026/2409 — Regolamento di esecuzione (UE) 2026/2409 della Commissione, del 5 novembre 2026, che dispone la registrazione delle importazioni di determinati polioli di polietere originari della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2409 della Commissione, del 5 novembre 2026, che dispone la registrazione delle importazioni di determinati polioli di polietere originari della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidum",
-    "speech": "EUR-Lex. 2026/2409 — Regolamento di esecuzione (UE) 2026/2409 della Commissione, del 5 novembre 2026, che dispone la registrazione delle importazioni di determinati polioli di polietere originari della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione."
-  },
-  {
-    "id": 29,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "5 nov",
-    "titolo": "2026/2467 — Regolamento di esecuzione (UE) 2026/2467 della Commissione, del 5 novembre 2026, relativo alla compensazione finanziaria per i consumatori finali di combustibili e alle quote restituite per le emissioni non contemplate dal capo IV bis della direttiva 2003/87/CE del Parlamento europeo e del Consiglio",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2467 della Commissione, del 5 novembre 2026, relativo alla compensazione finanziaria per i consumatori finali di combustibili e alle quote restituite per le emissioni non contemplate dal capo IV bis della direttiva 2003/87/C",
-    "speech": "EUR-Lex. 2026/2467 — Regolamento di esecuzione (UE) 2026/2467 della Commissione, del 5 novembre 2026, relativo alla compensazione finanziaria per i consumatori finali di combustibili e alle quote restituite per le emissioni non contemplate dal capo IV bis della direttiva 2003/87/CE del Parlamento europeo e del Consiglio."
-  },
-  {
-    "id": 30,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "5 nov",
-    "titolo": "2026/2496 — Regolamento di esecuzione (UE) 2026/2496 della Commissione, del 5 novembre 2026, recante modifica dell'allegato I del regolamento di esecuzione (UE) 2023/594 che stabilisce misure speciali di controllo delle malattie per la peste suina africana",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2496 della Commissione, del 5 novembre 2026, recante modifica dell'allegato I del regolamento di esecuzione (UE) 2023/594 che stabilisce misure speciali di controllo delle malattie per la peste suina africana",
-    "speech": "EUR-Lex. 2026/2496 — Regolamento di esecuzione (UE) 2026/2496 della Commissione, del 5 novembre 2026, recante modifica dell'allegato I del regolamento di esecuzione (UE) 2023/594 che stabilisce misure speciali di controllo delle malattie per la peste suina africana."
-  },
-  {
-    "id": 31,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "5 nov",
-    "titolo": "2026/2468 — Decisione di esecuzione (UE) 2026/2468 della Commissione, del 5 novembre 2026, che stabilisce le modalità di applicazione della direttiva (UE) 2024/2881 del Parlamento europeo e del Consiglio per quanto riguarda i dettagli tecnici della metodologia per determinare i contributi derivanti dalla risospensione del particolato a seguito della sabbiatura o salatura invernali delle strade, nonché le informazioni corrispondenti che gli Stati membri devono fornire",
-    "sintesi": "Decisione di esecuzione (UE) 2026/2468 della Commissione, del 5 novembre 2026, che stabilisce le modalità di applicazione della direttiva (UE) 2024/2881 del Parlamento europeo e del Consiglio per quanto riguarda i dettagli tecnici della metodologia per determi",
-    "speech": "EUR-Lex. 2026/2468 — Decisione di esecuzione (UE) 2026/2468 della Commissione, del 5 novembre 2026, che stabilisce le modalità di applicazione della direttiva (UE) 2024/2881 del Parlamento europeo e del Consiglio per quanto riguarda i dettagli tecnici della metodologia per determinare i contributi derivanti dalla risospensione del particolato a seguito della sabbiatura o salatura invernali delle strade, nonché le informazioni corrispondenti che gli Stati membri devono fornire."
-  },
-  {
-    "id": 32,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "29 ott",
-    "titolo": "2026/2394 — Raccomandazione (UE) 2026/2394 della Commissione, del 29 ottobre 2026, sulle clausole contrattuali tipo non vincolanti relative all'accesso ai dati e al relativo utilizzo e sulle clausole contrattuali standard non vincolanti per i contratti di cloud computing",
-    "sintesi": "Raccomandazione (UE) 2026/2394 della Commissione, del 29 ottobre 2026, sulle clausole contrattuali tipo non vincolanti relative all'accesso ai dati e al relativo utilizzo e sulle clausole contrattuali standard non vincolanti per i contratti di cloud computing",
-    "speech": "EUR-Lex. 2026/2394 — Raccomandazione (UE) 2026/2394 della Commissione, del 29 ottobre 2026, sulle clausole contrattuali tipo non vincolanti relative all'accesso ai dati e al relativo utilizzo e sulle clausole contrattuali standard non vincolanti per i contratti di cloud computing."
-  },
-  {
-    "id": 33,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "",
-    "titolo": "La rettifica non riguarda la versione italiana.",
-    "sintesi": "La rettifica non riguarda la versione italiana.",
-    "speech": "EUR-Lex. La rettifica non riguarda la versione italiana.."
-  },
-  {
-    "id": 34,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "",
-    "titolo": "La rettifica non riguarda la versione italiana.",
-    "sintesi": "La rettifica non riguarda la versione italiana.",
-    "speech": "EUR-Lex. La rettifica non riguarda la versione italiana.."
-  },
-  {
-    "id": 35,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "",
-    "titolo": "La rettifica non riguarda la versione italiana.",
-    "sintesi": "La rettifica non riguarda la versione italiana.",
-    "speech": "EUR-Lex. La rettifica non riguarda la versione italiana.."
   }
 ]
