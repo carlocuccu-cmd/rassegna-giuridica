@@ -110,6 +110,24 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per la Sicilia",
+    "data": "23 set",
+    "titolo": "Illegittimo il PEI che quantifichi le ore settimanali di ASACOM discostandosi immotivatamente dalle risultanze dell'istruttoria.",
+    "sintesi": "T.a.r. per la Sicilia, Catania, sezione III, 23 settembre 2026, n. 2569 - Pres. f.f. Profili, Est. Ventura",
+    "speech": "T.a.r. per la Sicilia ha deciso: Illegittimo il PEI che quantifichi le ore settimanali di ASACOM discostandosi immotivatamente dalle risultanze dell'istruttoria.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "26 ott",
+    "titolo": "Progressioni verticali e requisiti di esperienza professionale.",
+    "sintesi": "T.a.r. per il Lazio, sezione II-bis, 26 ottobre 2026, n. 16801 – Pres. Francavilla, Est. Corbi",
+    "speech": "T.a.r. per il Lazio ha deciso: Progressioni verticali e requisiti di esperienza professionale.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "4 nov",
     "titolo": "Volontari in ferma prefissata iniziale: il proscioglimento per assenze dal corso basico è vincolato e il limite di un terzo della durata è legittimo.",
@@ -117,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Volontari in ferma prefissata iniziale: il proscioglimento per assenze dal corso basico è vincolato e il limite di un terzo della durata è legittimo.."
   },
   {
-    "id": 14,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "3 nov",
@@ -126,31 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: Sull'individuazione delle aree per l'installazione di impianti di telefonia mobile e sulla comparazione con le soluzioni alternative eventualmente proposte.."
   },
   {
-    "id": 15,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "31 ago",
     "titolo": "Riconoscimento della qualifica conseguita all’estero da cittadino italiano per l'esercizio di professione regolamentata: requisiti e limiti.",
     "sintesi": "T.a.r. per il Lazio, sezione I-ter, 31 agosto 2026, n. 14481 - Pres. Perna, Est. Vergine",
     "speech": "T.a.r. per il Lazio ha deciso: Riconoscimento della qualifica conseguita all’estero da cittadino italiano per l'esercizio di professione regolamentata: requisiti e limiti.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Lombardia",
-    "data": "22 ott",
-    "titolo": "Rientra nella discrezionalità dell'appaltatore prevedere, come requisito, l'aver svolto un numero di servizi pari alla durata del futuro rapporto negoziale.",
-    "sintesi": "T.a.r. per la Lombardia, sezione IV, 22 ottobre 2026, n. 4720 - Pres. Russo, Est. Torraca",
-    "speech": "T.a.r. per la Lombardia ha deciso: Rientra nella discrezionalità dell'appaltatore prevedere, come requisito, l'aver svolto un numero di servizi pari alla durata del futuro rapporto negoziale.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "TAR",
-    "data": "21 ott",
-    "titolo": "Condono edilizio e vincoli paesaggistici in Sicilia: disciplina applicabile, onere motivazionale e inconfigurabilità del silenzio assenso.",
-    "sintesi": "Consiglio di Giustizia Amministrativa per la Regione Siciliana, parere 21 ottobre 2026, n. 254 - Pres. Carlotti, Est. Fantini",
-    "speech": "TAR. Condono edilizio e vincoli paesaggistici in Sicilia: disciplina applicabile, onere motivazionale e inconfigurabilità del silenzio assenso.. Consiglio di Giustizia Amministrativa per la Regione Siciliana, parere 21 ottobre 2026, n. 254 - Pres. Carlotti, Est. Fantini."
   },
   {
     "id": 18,
