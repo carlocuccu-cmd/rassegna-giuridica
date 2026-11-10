@@ -110,6 +110,15 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "5 nov",
+    "titolo": "News UM n. 112/2026. La Corte costituzionale conferma la legittimità costituzionale della disciplina del d.l. n. 63 del 2024 in materia di impianti fotovoltaici in zone agricole.",
+    "sintesi": "Corte costituzionale, 5 novembre 2026, n. 184 – Pres. Amoroso, Red. Luciani",
+    "speech": "TAR. News UM n. 112/2026. La Corte costituzionale conferma la legittimità costituzionale della disciplina del d.l. n. 63 del 2024 in materia di impianti fotovoltaici in zone agricole.. Corte costituzionale, 5 novembre 2026, n. 184 – Pres. Amoroso, Red. Luciani."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
     "fonte": "T.a.r. per la Sicilia",
     "data": "23 set",
     "titolo": "Illegittimo il PEI che quantifichi le ore settimanali di ASACOM discostandosi immotivatamente dalle risultanze dell'istruttoria.",
@@ -117,7 +126,7 @@
     "speech": "T.a.r. per la Sicilia ha deciso: Illegittimo il PEI che quantifichi le ore settimanali di ASACOM discostandosi immotivatamente dalle risultanze dell'istruttoria.."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "26 ott",
@@ -126,7 +135,7 @@
     "speech": "T.a.r. per il Lazio ha deciso: Progressioni verticali e requisiti di esperienza professionale.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "4 nov",
@@ -135,22 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: Volontari in ferma prefissata iniziale: il proscioglimento per assenze dal corso basico è vincolato e il limite di un terzo della durata è legittimo.."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "3 nov",
     "titolo": "Sull'individuazione delle aree per l'installazione di impianti di telefonia mobile e sulla comparazione con le soluzioni alternative eventualmente proposte.",
     "sintesi": "Consiglio di Stato, sezione VI, 3 novembre 2026, n. 7985 - Pres. Montedoro, Est. Mathà",
     "speech": "Consiglio di Stato ha deciso: Sull'individuazione delle aree per l'installazione di impianti di telefonia mobile e sulla comparazione con le soluzioni alternative eventualmente proposte.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "31 ago",
-    "titolo": "Riconoscimento della qualifica conseguita all’estero da cittadino italiano per l'esercizio di professione regolamentata: requisiti e limiti.",
-    "sintesi": "T.a.r. per il Lazio, sezione I-ter, 31 agosto 2026, n. 14481 - Pres. Perna, Est. Vergine",
-    "speech": "T.a.r. per il Lazio ha deciso: Riconoscimento della qualifica conseguita all’estero da cittadino italiano per l'esercizio di professione regolamentata: requisiti e limiti.."
   },
   {
     "id": 18,
