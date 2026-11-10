@@ -3,13 +3,22 @@
     "id": 1,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
+    "data": "9 nov",
+    "titolo": "Sezioni unite — Società",
+    "sintesi": "Registro delle imprese - Iscrizione di domande giudiziali relative al trasferimento di quote societarie - Questione pregiudiziale ex art. 363 bis c.p.c. - Esclusione.",
+    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: Registro delle imprese, Iscrizione di domande giudiziali relative al trasferimento di quote societarie, Questione pregiudiziale ex art. 363 bis c.p.c., Esclusione."
+  },
+  {
+    "id": 2,
+    "tag": "civile",
+    "fonte": "Corte di Cassazione",
     "data": "3 nov",
     "titolo": "Sezioni unite — Giudizio di cassazione",
     "sintesi": "72. GIURISDIZIONE ORDINARIA E AMMINISTRATIVA. - Ricorso incidentale della parte integralmente vittoriosa - Questione di giurisdizione - Natura condizionata de jure - Ordine di trattazione delle questioni - Magistrato…",
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 72. GIURISDIZIONE ORDINARIA E AMMINISTRATIVA., Ricorso incidentale della parte integralmente vittoriosa, Questione di giurisdizione, Natura condizionata de jure, Ordine di trattazione delle questioni, Magistrato."
   },
   {
-    "id": 2,
+    "id": 3,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "3 nov",
@@ -18,7 +27,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 85. LAVORO., Responsabilità dello Stato, Personale delle aree dirigenziali del Servizio Sanitario Nazionale, Disciplina nazionale in tema di orario massimo di lavoro settimanale e riposo giornaliero, Violazione."
   },
   {
-    "id": 3,
+    "id": 4,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "29 ott",
@@ -27,7 +36,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 72. GIURISDIZIONE ORDINARIA E AMMINISTRATIVA., 137. SALUTE., Inibitoria collettiva, Impugnabilità del provvedimento di inibitoria con effetti potenzialmente irreversibili adottato in sede di reclamo dalla Corte."
   },
   {
-    "id": 4,
+    "id": 5,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "28 ott",
@@ -36,7 +45,7 @@
     "speech": "La Corte di Cassazione, terza sezione, si è pronunciata su questi punti: Processo del lavoro, Sostituzione dell’udienza con la trattazione scritta, Omesso deposito telematico del dispositivo nell’immediatezza dell’udienza cartolare, Conseguenze."
   },
   {
-    "id": 5,
+    "id": 6,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "21 ott",
@@ -45,7 +54,7 @@
     "speech": "La Corte di Cassazione, seconda sezione, si è pronunciata su questi punti: Revocazione, Pronunce della Corte di cassazione, Decisione della causa nel merito, Correzione della motivazione, Limiti dell'intervento correttivo, Questione rilevata di ufficio, Ammissibilità della revocazione."
   },
   {
-    "id": 6,
+    "id": 7,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "20 ott",
@@ -54,7 +63,7 @@
     "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Pensione di vecchiaia in regime di “pro rata” internazionale, Integrazione al minimo ex art. 8, commi 2 e 3, della l. n. 153 del 1969, Spettanza, Somma della prestazione estera autonoma a quella italiana, Necessità."
   },
   {
-    "id": 7,
+    "id": 8,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "22 ott",
@@ -63,7 +72,7 @@
     "speech": "La Corte di Cassazione, prima sezione, si è pronunciata su questi punti: Concordato preventivo, Transazione fiscale, Cram down forzoso, Art. 180 l. fall., Direttiva UE 1023/2019, Rinvio pregiudiziale ex art. 267 del TFUE."
   },
   {
-    "id": 8,
+    "id": 9,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 ott",
@@ -72,7 +81,7 @@
     "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Pensione anticipata \"quota cento\", Divieto di cumulo con redditi da lavoro dipendente o autonomo, Violazione, Conseguenze, Perdita totale del trattamento pensionistico, Esclusione, Riduzione corrispondente al."
   },
   {
-    "id": 9,
+    "id": 10,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 ott",
@@ -81,7 +90,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: Pubblica amministrazione:."
   },
   {
-    "id": 10,
+    "id": 11,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
@@ -90,7 +99,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Trattamento di fine rapporto, Istituzione del Fondo di tesoreria ad opera dell’art. 1, commi 755 e ss. della legge n. 296 del 2006, Retribuzione differita, Conseguenze -."
   },
   {
-    "id": 11,
+    "id": 12,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
@@ -99,16 +108,34 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Previdenza complementare, Datore di lavoro insolvente, Contributi non versati, Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c., Distinzione, Contributi a."
   },
   {
-    "id": 12,
-    "tag": "civile",
-    "fonte": "Corte di Cassazione",
-    "data": "14 set",
-    "titolo": "Terza sezione — Giudizio civile e penale",
-    "sintesi": "60. ESECUZIONE FORZATA. - Processo penale - Spese di costituzione di parte civile ex art. 541, comma 1, c.p.p. - Mancata previsione della provvisoria esecutività - Contrasto con gli artt. 3 e 24 Cost. - Questione di…",
-    "speech": "La Corte di Cassazione, terza sezione, si è pronunciata su questi punti: 60. ESECUZIONE FORZATA., Processo penale, Spese di costituzione di parte civile ex art. 541, comma 1, c.p.p., Mancata previsione della provvisoria esecutività, Contrasto con gli artt. 3 e 24 Cost., Questione di."
+    "id": 13,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "4 nov",
+    "titolo": "Volontari in ferma prefissata iniziale: il proscioglimento per assenze dal corso basico è vincolato e il limite di un terzo della durata è legittimo.",
+    "sintesi": "Consiglio di Stato, sezione II, 4 novembre 2026, n. 8049 – Pres. Poli, Est. Ricci",
+    "speech": "Consiglio di Stato ha deciso: Volontari in ferma prefissata iniziale: il proscioglimento per assenze dal corso basico è vincolato e il limite di un terzo della durata è legittimo.."
   },
   {
-    "id": 13,
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "3 nov",
+    "titolo": "Sull'individuazione delle aree per l'installazione di impianti di telefonia mobile e sulla comparazione con le soluzioni alternative eventualmente proposte.",
+    "sintesi": "Consiglio di Stato, sezione VI, 3 novembre 2026, n. 7985 - Pres. Montedoro, Est. Mathà",
+    "speech": "Consiglio di Stato ha deciso: Sull'individuazione delle aree per l'installazione di impianti di telefonia mobile e sulla comparazione con le soluzioni alternative eventualmente proposte.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "31 ago",
+    "titolo": "Riconoscimento della qualifica conseguita all’estero da cittadino italiano per l'esercizio di professione regolamentata: requisiti e limiti.",
+    "sintesi": "T.a.r. per il Lazio, sezione I-ter, 31 agosto 2026, n. 14481 - Pres. Perna, Est. Vergine",
+    "speech": "T.a.r. per il Lazio ha deciso: Riconoscimento della qualifica conseguita all’estero da cittadino italiano per l'esercizio di professione regolamentata: requisiti e limiti.."
+  },
+  {
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Lombardia",
     "data": "22 ott",
@@ -117,7 +144,7 @@
     "speech": "T.a.r. per la Lombardia ha deciso: Rientra nella discrezionalità dell'appaltatore prevedere, come requisito, l'aver svolto un numero di servizi pari alla durata del futuro rapporto negoziale.."
   },
   {
-    "id": 14,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "TAR",
     "data": "21 ott",
@@ -126,34 +153,25 @@
     "speech": "TAR. Condono edilizio e vincoli paesaggistici in Sicilia: disciplina applicabile, onere motivazionale e inconfigurabilità del silenzio assenso.. Consiglio di Giustizia Amministrativa per la Regione Siciliana, parere 21 ottobre 2026, n. 254 - Pres. Carlotti, Est. Fantini."
   },
   {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "21 set",
-    "titolo": "Autorizzazione allo svolgimento delle operazioni portuali e autoproduzione.",
-    "sintesi": "Consiglio di Stato, sezione V, 21 settembre 2026, n. 6987 - Pres. Lotti, Est. Perrelli",
-    "speech": "Consiglio di Stato ha deciso: Autorizzazione allo svolgimento delle operazioni portuali e autoproduzione.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "21 set",
-    "titolo": "Cumulo delle funzioni di direttore dei lavori e coordinatore della sicurezza in fase di esecuzione negli appalti di servizi di architettura e di ingegneria.",
-    "sintesi": "Consiglio di Stato, sezione V, 21 settembre 2026, n. 6894 - Pres. Lotti, Est. Caminiti",
-    "speech": "Consiglio di Stato ha deciso: Cumulo delle funzioni di direttore dei lavori e coordinatore della sicurezza in fase di esecuzione negli appalti di servizi di architettura e di ingegneria.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "2 ott",
-    "titolo": "Contributi per i diritti d’uso di frequenze digitali. Proporzionato un criterio che tenga conto del valore reale dei diritti d’uso in modo individualizzato.",
-    "sintesi": "T.a.r. per il Lazio, sezione IV-ter, 2 ottobre 2026, n. 15528 – Pres. Tricarico, Est. Bello",
-    "speech": "T.a.r. per il Lazio ha deciso: Contributi per i diritti d’uso di frequenze digitali. Proporzionato un criterio che tenga conto del valore reale dei diritti d’uso in modo individualizzato.."
-  },
-  {
     "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "9 nov",
+    "titolo": "Pubblicita' delle sentenze di assoluzione o proscioglimento - modifiche",
+    "sintesi": "L. 29 ottobre 2026, n. 201",
+    "speech": "Gazzetta Ufficiale. Pubblicita' delle sentenze di assoluzione o proscioglimento - modifiche. Riferimento normativo: L. 29 ottobre 2026, n. 201."
+  },
+  {
+    "id": 19,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "9 nov",
+    "titolo": "Prezzi dei carburanti - conversione d.l. 157/2026",
+    "sintesi": "L. 6 novembre 2026, n. 202",
+    "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - conversione d.l. 157/2026. Riferimento normativo: L. 6 novembre 2026, n. 202."
+  },
+  {
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "6 nov",
@@ -162,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Continuita' funzioni anac - misure urgenti. Riferimento normativo: D.L.  6 novembre 2026, n. 200."
   },
   {
-    "id": 19,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "4 nov",
@@ -171,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Reati militari - trattamento sanzionatorio della diffamazione. Riferimento normativo: Sentenza 10/06 - 03/11/2026, n. 181."
   },
   {
-    "id": 20,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "4 nov",
@@ -180,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Disabilita' in eta' evolutiva - inclusione scolastica. Riferimento normativo: Sentenza 22/09 - 03/11/2026, n. 182."
   },
   {
-    "id": 21,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "30 ott",
@@ -189,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Plastica riciclata a contatto con i prodotti alimentari - adeguamento ue. Riferimento normativo: D.Lgs.  9 ottobre 2026, n. 199."
   },
   {
-    "id": 22,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "29 ott",
@@ -198,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Malattie rare e farmaci orfani - regolamento attuativo. Riferimento normativo: Decreto 5 agosto 2026, n. 198."
   },
   {
-    "id": 23,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 ott",
@@ -207,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Emissioni industriali e discariche di rifiuti - attuazione direttiva (ue). Riferimento normativo: D.Lgs. 28 settembre 2026, n. 197."
   },
   {
-    "id": 24,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 ott",
@@ -216,30 +234,12 @@
     "speech": "Gazzetta Ufficiale. Licenziamento senza giusta causa o giustificato motivo - indennita'. Riferimento normativo: Sentenza 06/07 - 22/10/2026, n. 174."
   },
   {
-    "id": 25,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "26 ott",
     "titolo": "Impianti di interesse strategico nazionale - conversione d.l. 154/2026",
     "sintesi": "L.  23 ottobre 2026, n. 196",
     "speech": "Gazzetta Ufficiale. Impianti di interesse strategico nazionale - conversione d.l. 154/2026. Riferimento normativo: L.  23 ottobre 2026, n. 196."
-  },
-  {
-    "id": 26,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "26 ott",
-    "titolo": "Riciclo della carta - istituzione giornata nazionale",
-    "sintesi": "L. 15 ottobre 2026, n. 195",
-    "speech": "Gazzetta Ufficiale. Riciclo della carta - istituzione giornata nazionale. Riferimento normativo: L. 15 ottobre 2026, n. 195."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "24 ott",
-    "titolo": "Azioni legali abusive - attuazione direttiva (ue)",
-    "sintesi": "D.Lgs.  8 ottobre 2026, n. 194",
-    "speech": "Gazzetta Ufficiale. Azioni legali abusive - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  8 ottobre 2026, n. 194."
   }
 ]
