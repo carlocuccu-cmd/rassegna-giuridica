@@ -4,12 +4,21 @@
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "9 nov",
+    "titolo": "Quarta sezione lavoro — Processo del lavoro",
+    "sintesi": "85. LAVORO. - Lavoro subordinato - Omissione contributiva - Azione del lavoratore per la regolarizzazione della posizione assicurativa - Litisconsorzio necessario con l’ente previdenziale - Esclusione.",
+    "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: 85. LAVORO., Lavoro subordinato, Omissione contributiva, Azione del lavoratore per la regolarizzazione della posizione assicurativa, Litisconsorzio necessario con l’ente previdenziale, Esclusione."
+  },
+  {
+    "id": 2,
+    "tag": "civile",
+    "fonte": "Corte di Cassazione",
+    "data": "9 nov",
     "titolo": "Sezioni unite — Società",
     "sintesi": "Registro delle imprese - Iscrizione di domande giudiziali relative al trasferimento di quote societarie - Questione pregiudiziale ex art. 363 bis c.p.c. - Esclusione.",
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: Registro delle imprese, Iscrizione di domande giudiziali relative al trasferimento di quote societarie, Questione pregiudiziale ex art. 363 bis c.p.c., Esclusione."
   },
   {
-    "id": 2,
+    "id": 3,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "3 nov",
@@ -18,7 +27,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 72. GIURISDIZIONE ORDINARIA E AMMINISTRATIVA., Ricorso incidentale della parte integralmente vittoriosa, Questione di giurisdizione, Natura condizionata de jure, Ordine di trattazione delle questioni, Magistrato."
   },
   {
-    "id": 3,
+    "id": 4,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "3 nov",
@@ -27,7 +36,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 85. LAVORO., Responsabilità dello Stato, Personale delle aree dirigenziali del Servizio Sanitario Nazionale, Disciplina nazionale in tema di orario massimo di lavoro settimanale e riposo giornaliero, Violazione."
   },
   {
-    "id": 4,
+    "id": 5,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "29 ott",
@@ -36,7 +45,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 72. GIURISDIZIONE ORDINARIA E AMMINISTRATIVA., 137. SALUTE., Inibitoria collettiva, Impugnabilità del provvedimento di inibitoria con effetti potenzialmente irreversibili adottato in sede di reclamo dalla Corte."
   },
   {
-    "id": 5,
+    "id": 6,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "28 ott",
@@ -45,7 +54,7 @@
     "speech": "La Corte di Cassazione, terza sezione, si è pronunciata su questi punti: Processo del lavoro, Sostituzione dell’udienza con la trattazione scritta, Omesso deposito telematico del dispositivo nell’immediatezza dell’udienza cartolare, Conseguenze."
   },
   {
-    "id": 6,
+    "id": 7,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "21 ott",
@@ -54,7 +63,7 @@
     "speech": "La Corte di Cassazione, seconda sezione, si è pronunciata su questi punti: Revocazione, Pronunce della Corte di cassazione, Decisione della causa nel merito, Correzione della motivazione, Limiti dell'intervento correttivo, Questione rilevata di ufficio, Ammissibilità della revocazione."
   },
   {
-    "id": 7,
+    "id": 8,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "20 ott",
@@ -63,7 +72,7 @@
     "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Pensione di vecchiaia in regime di “pro rata” internazionale, Integrazione al minimo ex art. 8, commi 2 e 3, della l. n. 153 del 1969, Spettanza, Somma della prestazione estera autonoma a quella italiana, Necessità."
   },
   {
-    "id": 8,
+    "id": 9,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "22 ott",
@@ -72,7 +81,7 @@
     "speech": "La Corte di Cassazione, prima sezione, si è pronunciata su questi punti: Concordato preventivo, Transazione fiscale, Cram down forzoso, Art. 180 l. fall., Direttiva UE 1023/2019, Rinvio pregiudiziale ex art. 267 del TFUE."
   },
   {
-    "id": 9,
+    "id": 10,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 ott",
@@ -81,7 +90,7 @@
     "speech": "La Corte di Cassazione, quarta sezione lavoro, si è pronunciata su questi punti: Pensione anticipata \"quota cento\", Divieto di cumulo con redditi da lavoro dipendente o autonomo, Violazione, Conseguenze, Perdita totale del trattamento pensionistico, Esclusione, Riduzione corrispondente al."
   },
   {
-    "id": 10,
+    "id": 11,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "14 ott",
@@ -90,7 +99,7 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: Pubblica amministrazione:."
   },
   {
-    "id": 11,
+    "id": 12,
     "tag": "civile",
     "fonte": "Corte di Cassazione",
     "data": "7 ott",
@@ -99,16 +108,43 @@
     "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Trattamento di fine rapporto, Istituzione del Fondo di tesoreria ad opera dell’art. 1, commi 755 e ss. della legge n. 296 del 2006, Retribuzione differita, Conseguenze -."
   },
   {
-    "id": 12,
-    "tag": "civile",
-    "fonte": "Corte di Cassazione",
-    "data": "7 ott",
-    "titolo": "Sezioni unite — Previdenza",
-    "sintesi": "132. RESPONSABILITÀ PATRIMONIALE. - Previdenza complementare - Datore di lavoro insolvente - Contributi non versati - Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c. - Distinzione - Contributi a…",
-    "speech": "La Corte di Cassazione, sezioni unite, si è pronunciata su questi punti: 132. RESPONSABILITÀ PATRIMONIALE., Previdenza complementare, Datore di lavoro insolvente, Contributi non versati, Natura retributiva e spettanza del privilegio ex art. 2751-bis n. 1 c.c., Distinzione, Contributi a."
+    "id": 13,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "23 set",
+    "titolo": "La proroga tecnica di un appalto, in quanto provvedimento amministrativo autoritativo, rientra nella giurisdizione del giudice amministrativo.",
+    "sintesi": "Consiglio di Stato, sezione IV, 23 settembre 2026, n. 7023 - Pres. Neri, Est. Carpino",
+    "speech": "Consiglio di Stato ha deciso: La proroga tecnica di un appalto, in quanto provvedimento amministrativo autoritativo, rientra nella giurisdizione del giudice amministrativo.."
   },
   {
-    "id": 13,
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per la Sicilia",
+    "data": "23 set",
+    "titolo": "Legittima la mancata ammissione alla classe successiva dell'alunno con disabilità se le numerose assenze ne impediscono la valutazione oggettiva.",
+    "sintesi": "T.a.r. per la Sicilia, Catania, sezione III, 23 settembre 2026, n. 2568 - Pres. f.f. Profili, Est. Ventura",
+    "speech": "T.a.r. per la Sicilia ha deciso: Legittima la mancata ammissione alla classe successiva dell'alunno con disabilità se le numerose assenze ne impediscono la valutazione oggettiva.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "27 ott",
+    "titolo": "Istanza di sanatoria e ordinanza di demolizione: effetti sul giudizio pendente.",
+    "sintesi": "T.a.r. per il Lazio, sezione II-bis, 27 ottobre 2026, n. 16890 – Pres. Francavilla, Est. Corbi",
+    "speech": "T.a.r. per il Lazio ha deciso: Istanza di sanatoria e ordinanza di demolizione: effetti sul giudizio pendente.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "4 nov",
+    "titolo": "Inammissibili l’appello generico e la revocazione priva di domanda rescissoria e di prova del giorno del rinvenimento del documento decisivo.",
+    "sintesi": "Consiglio di Stato, sezione II, 4 novembre 2026, n. 8048 – Pres. Poli, Est. Ricci",
+    "speech": "Consiglio di Stato ha deciso: Inammissibili l’appello generico e la revocazione priva di domanda rescissoria e di prova del giorno del rinvenimento del documento decisivo.."
+  },
+  {
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "TAR",
     "data": "5 nov",
@@ -117,43 +153,16 @@
     "speech": "TAR. News UM n. 112/2026. La Corte costituzionale conferma la legittimità costituzionale della disciplina del d.l. n. 63 del 2024 in materia di impianti fotovoltaici in zone agricole.. Corte costituzionale, 5 novembre 2026, n. 184 – Pres. Amoroso, Red. Luciani."
   },
   {
-    "id": 14,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Sicilia",
-    "data": "23 set",
-    "titolo": "Illegittimo il PEI che quantifichi le ore settimanali di ASACOM discostandosi immotivatamente dalle risultanze dell'istruttoria.",
-    "sintesi": "T.a.r. per la Sicilia, Catania, sezione III, 23 settembre 2026, n. 2569 - Pres. f.f. Profili, Est. Ventura",
-    "speech": "T.a.r. per la Sicilia ha deciso: Illegittimo il PEI che quantifichi le ore settimanali di ASACOM discostandosi immotivatamente dalle risultanze dell'istruttoria.."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "26 ott",
-    "titolo": "Progressioni verticali e requisiti di esperienza professionale.",
-    "sintesi": "T.a.r. per il Lazio, sezione II-bis, 26 ottobre 2026, n. 16801 – Pres. Francavilla, Est. Corbi",
-    "speech": "T.a.r. per il Lazio ha deciso: Progressioni verticali e requisiti di esperienza professionale.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "4 nov",
-    "titolo": "Volontari in ferma prefissata iniziale: il proscioglimento per assenze dal corso basico è vincolato e il limite di un terzo della durata è legittimo.",
-    "sintesi": "Consiglio di Stato, sezione II, 4 novembre 2026, n. 8049 – Pres. Poli, Est. Ricci",
-    "speech": "Consiglio di Stato ha deciso: Volontari in ferma prefissata iniziale: il proscioglimento per assenze dal corso basico è vincolato e il limite di un terzo della durata è legittimo.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "3 nov",
-    "titolo": "Sull'individuazione delle aree per l'installazione di impianti di telefonia mobile e sulla comparazione con le soluzioni alternative eventualmente proposte.",
-    "sintesi": "Consiglio di Stato, sezione VI, 3 novembre 2026, n. 7985 - Pres. Montedoro, Est. Mathà",
-    "speech": "Consiglio di Stato ha deciso: Sull'individuazione delle aree per l'installazione di impianti di telefonia mobile e sulla comparazione con le soluzioni alternative eventualmente proposte.."
-  },
-  {
     "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "10 nov",
+    "titolo": "Archivio centrale dello stato - nuova denominazione «archivio nazionale»",
+    "sintesi": "L.  29 ottobre 2026, n. 203",
+    "speech": "Gazzetta Ufficiale. Archivio centrale dello stato - nuova denominazione «archivio nazionale». Riferimento normativo: L.  29 ottobre 2026, n. 203."
+  },
+  {
+    "id": 19,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 nov",
@@ -162,7 +171,7 @@
     "speech": "Gazzetta Ufficiale. Pubblicita' delle sentenze di assoluzione o proscioglimento - modifiche. Riferimento normativo: L. 29 ottobre 2026, n. 201."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 nov",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - conversione d.l. 157/2026. Riferimento normativo: L. 6 novembre 2026, n. 202."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "6 nov",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Continuita' funzioni anac - misure urgenti. Riferimento normativo: D.L.  6 novembre 2026, n. 200."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "4 nov",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Reati militari - trattamento sanzionatorio della diffamazione. Riferimento normativo: Sentenza 10/06 - 03/11/2026, n. 181."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "4 nov",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Disabilita' in eta' evolutiva - inclusione scolastica. Riferimento normativo: Sentenza 22/09 - 03/11/2026, n. 182."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "30 ott",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Plastica riciclata a contatto con i prodotti alimentari - adeguamento ue. Riferimento normativo: D.Lgs.  9 ottobre 2026, n. 199."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "29 ott",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Malattie rare e farmaci orfani - regolamento attuativo. Riferimento normativo: Decreto 5 agosto 2026, n. 198."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 ott",
@@ -225,93 +234,12 @@
     "speech": "Gazzetta Ufficiale. Emissioni industriali e discariche di rifiuti - attuazione direttiva (ue). Riferimento normativo: D.Lgs. 28 settembre 2026, n. 197."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 ott",
     "titolo": "Licenziamento senza giusta causa o giustificato motivo - indennita'",
     "sintesi": "Sentenza 06/07 - 22/10/2026, n. 174",
     "speech": "Gazzetta Ufficiale. Licenziamento senza giusta causa o giustificato motivo - indennita'. Riferimento normativo: Sentenza 06/07 - 22/10/2026, n. 174."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "26 ott",
-    "titolo": "Impianti di interesse strategico nazionale - conversione d.l. 154/2026",
-    "sintesi": "L.  23 ottobre 2026, n. 196",
-    "speech": "Gazzetta Ufficiale. Impianti di interesse strategico nazionale - conversione d.l. 154/2026. Riferimento normativo: L.  23 ottobre 2026, n. 196."
-  },
-  {
-    "id": 28,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "16 lug",
-    "titolo": "2026/1830 — Regolamento delegato (UE) 2026/1830 della Commissione, del 16 luglio 2026, che integra il regolamento (UE) 2016/2031 del Parlamento europeo e del Consiglio per quanto riguarda la procedura da seguire per la concessione di deroghe temporanee al divieto di cui all’articolo 40, paragrafo 1, e alle prescrizioni di cui all’articolo 41, paragrafo 1, di detto regolamento",
-    "sintesi": "Regolamento delegato (UE) 2026/1830 della Commissione, del 16 luglio 2026, che integra il regolamento (UE) 2016/2031 del Parlamento europeo e del Consiglio per quanto riguarda la procedura da seguire per la concessione di deroghe temporanee al divieto di cui a",
-    "speech": "EUR-Lex. 2026/1830 — Regolamento delegato (UE) 2026/1830 della Commissione, del 16 luglio 2026, che integra il regolamento (UE) 2016/2031 del Parlamento europeo e del Consiglio per quanto riguarda la procedura da seguire per la concessione di deroghe temporanee al divieto di cui all’articolo 40, paragrafo 1, e alle prescrizioni di cui all’articolo 41, paragrafo 1, di detto regolamento."
-  },
-  {
-    "id": 29,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "9 nov",
-    "titolo": "2026/2523 — Regolamento di esecuzione (UE) 2026/2523 della Commissione, del 9 novembre 2026, che modifica gli allegati IV, V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Sud Africa, al Canada, al Regno Unito e agli Stati Uniti negli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di partite di determinati animali e prodotti di origine animale",
-    "sintesi": "Regolamento di esecuzione (UE) 2026/2523 della Commissione, del 9 novembre 2026, che modifica gli allegati IV, V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Sud Africa, al Canada, al Regno Unito e agli Stati Uniti",
-    "speech": "EUR-Lex. 2026/2523 — Regolamento di esecuzione (UE) 2026/2523 della Commissione, del 9 novembre 2026, che modifica gli allegati IV, V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Sud Africa, al Canada, al Regno Unito e agli Stati Uniti negli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di partite di determinati animali e prodotti di origine animale."
-  },
-  {
-    "id": 30,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "9 nov",
-    "titolo": "2026/2479 — Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medici per soggetti umani, i profilattici in lattice di gomma naturale, la valutazione biologica dei dispositivi medici, gli apparecchi di lavaggio e disinfezione, gli apparecchi elettromedicali e i connettori di piccole dimensioni per liquidi e gas in applicazioni sanitarie",
-    "sintesi": "Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medi",
-    "speech": "EUR-Lex. 2026/2479 — Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medici per soggetti umani, i profilattici in lattice di gomma naturale, la valutazione biologica dei dispositivi medici, gli apparecchi di lavaggio e disinfezione, gli apparecchi elettromedicali e i connettori di piccole dimensioni per liquidi e gas in applicazioni sanitarie."
-  },
-  {
-    "id": 31,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "9 nov",
-    "titolo": "2026/2480 — Decisione di esecuzione (UE) 2026/2480 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2022/1668 per quanto riguarda la norma armonizzata relativa alle apparecchiature con modo di protezione n",
-    "sintesi": "Decisione di esecuzione (UE) 2026/2480 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2022/1668 per quanto riguarda la norma armonizzata relativa alle apparecchiature con modo di protezione n",
-    "speech": "EUR-Lex. 2026/2480 — Decisione di esecuzione (UE) 2026/2480 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2022/1668 per quanto riguarda la norma armonizzata relativa alle apparecchiature con modo di protezione n."
-  },
-  {
-    "id": 32,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "9 nov",
-    "titolo": "2026/2481 — Decisione di esecuzione (UE) 2026/2481 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1195 per quanto riguarda la norma armonizzata per la sterilizzazione dei prodotti sanitari",
-    "sintesi": "Decisione di esecuzione (UE) 2026/2481 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1195 per quanto riguarda la norma armonizzata per la sterilizzazione dei prodotti sanitari",
-    "speech": "EUR-Lex. 2026/2481 — Decisione di esecuzione (UE) 2026/2481 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1195 per quanto riguarda la norma armonizzata per la sterilizzazione dei prodotti sanitari."
-  },
-  {
-    "id": 33,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "27 ott",
-    "titolo": "Decisione n. 1/2026 del comitato statistico Unione europea/Svizzera, del 27 ottobre 2026, che sostituisce l'allegato A dell'accordo tra la Comunità europea e la Confederazione svizzera sulla cooperazione nel settore statistico [2026/2477]",
-    "sintesi": "Decisione n. 1/2026 del comitato statistico Unione europea/Svizzera, del 27 ottobre 2026, che sostituisce l'allegato A dell'accordo tra la Comunità europea e la Confederazione svizzera sulla cooperazione nel settore statistico [2026/2477]",
-    "speech": "EUR-Lex. Decisione n. 1/2026 del comitato statistico Unione europea/Svizzera, del 27 ottobre 2026, che sostituisce l'allegato A dell'accordo tra la Comunità europea e la Confederazione svizzera sulla cooperazione nel settore statistico [2026/2477]."
-  },
-  {
-    "id": 34,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "",
-    "titolo": "La rettifica non riguarda la versione italiana.",
-    "sintesi": "La rettifica non riguarda la versione italiana.",
-    "speech": "EUR-Lex. La rettifica non riguarda la versione italiana.."
-  },
-  {
-    "id": 35,
-    "tag": "ue",
-    "fonte": "EUR-Lex",
-    "data": "",
-    "titolo": "La rettifica non riguarda la versione italiana.",
-    "sintesi": "La rettifica non riguarda la versione italiana.",
-    "speech": "EUR-Lex. La rettifica non riguarda la versione italiana.."
   }
 ]
