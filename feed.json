@@ -156,13 +156,22 @@
     "id": 18,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
+    "data": "11 nov",
+    "titolo": "Bradisismo campi flegrei - piano straordinario",
+    "sintesi": "D.L.  11 novembre 2026, n. 205",
+    "speech": "Gazzetta Ufficiale. Bradisismo campi flegrei - piano straordinario. Riferimento normativo: D.L.  11 novembre 2026, n. 205."
+  },
+  {
+    "id": 19,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
     "data": "10 nov",
     "titolo": "Archivio centrale dello stato - nuova denominazione «archivio nazionale»",
     "sintesi": "L.  29 ottobre 2026, n. 203",
     "speech": "Gazzetta Ufficiale. Archivio centrale dello stato - nuova denominazione «archivio nazionale». Riferimento normativo: L.  29 ottobre 2026, n. 203."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 nov",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Pubblicita' delle sentenze di assoluzione o proscioglimento - modifiche. Riferimento normativo: L. 29 ottobre 2026, n. 201."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 nov",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - conversione d.l. 157/2026. Riferimento normativo: L. 6 novembre 2026, n. 202."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "6 nov",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Continuita' funzioni anac - misure urgenti. Riferimento normativo: D.L.  6 novembre 2026, n. 200."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "4 nov",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Reati militari - trattamento sanzionatorio della diffamazione. Riferimento normativo: Sentenza 10/06 - 03/11/2026, n. 181."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "4 nov",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Disabilita' in eta' evolutiva - inclusione scolastica. Riferimento normativo: Sentenza 22/09 - 03/11/2026, n. 182."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "30 ott",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Plastica riciclata a contatto con i prodotti alimentari - adeguamento ue. Riferimento normativo: D.Lgs.  9 ottobre 2026, n. 199."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "29 ott",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. Malattie rare e farmaci orfani - regolamento attuativo. Riferimento normativo: Decreto 5 agosto 2026, n. 198."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "28 ott",
     "titolo": "Emissioni industriali e discariche di rifiuti - attuazione direttiva (ue)",
     "sintesi": "D.Lgs. 28 settembre 2026, n. 197",
     "speech": "Gazzetta Ufficiale. Emissioni industriali e discariche di rifiuti - attuazione direttiva (ue). Riferimento normativo: D.Lgs. 28 settembre 2026, n. 197."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "28 ott",
-    "titolo": "Licenziamento senza giusta causa o giustificato motivo - indennita'",
-    "sintesi": "Sentenza 06/07 - 22/10/2026, n. 174",
-    "speech": "Gazzetta Ufficiale. Licenziamento senza giusta causa o giustificato motivo - indennita'. Riferimento normativo: Sentenza 06/07 - 22/10/2026, n. 174."
   }
 ]
