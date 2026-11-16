@@ -110,6 +110,24 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "19 ott",
+    "titolo": "Gare pubbliche: graduazione dei motivi di ricorso e sostituzione dei commissari di gara.",
+    "sintesi": "T.a.r. per il Lazio, sezione II-bis, 19 ottobre 2026, n. 16446 - Pres. Francavilla, Est. Corbi",
+    "speech": "T.a.r. per il Lazio ha deciso: Gare pubbliche: graduazione dei motivi di ricorso e sostituzione dei commissari di gara.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "26 ott",
+    "titolo": "News UM n. 114/2026. Alla Consulta la legittimità costituzionale dell'esclusione automatica dall’arruolamento nella Guardia di finanza per uso o detenzione pregressi di stupefacenti.",
+    "sintesi": "Consiglio di Stato, sezione II, ordinanza 26 ottobre 2026, n. 7750 – Pres. f.f. Tarantino, Est. Cocomile",
+    "speech": "Consiglio di Stato ha deciso: News UM n. 114/2026. Alla Consulta la legittimità costituzionale dell'esclusione automatica dall’arruolamento nella Guardia di finanza per uso o detenzione pregressi di stupefacenti.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "2 ott",
     "titolo": "Non può essere invocato alcun legittimo affidamento alla proroga nel caso di concessioni provvisorie di un'area demaniale marittima.",
@@ -117,31 +135,13 @@
     "speech": "Consiglio di Stato ha deciso: Non può essere invocato alcun legittimo affidamento alla proroga nel caso di concessioni provvisorie di un'area demaniale marittima.."
   },
   {
-    "id": 14,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "5 ott",
     "titolo": "Sulla non coercibilità del potere di autotutela in caso di revoca di nulla osta all’ingresso in Italia, e sull’inammissibilità del ricorso avverso il silenzio.",
     "sintesi": "Consiglio di Stato, sezione III, 5 ottobre 2026, n. 7337 – Pres. ed Est. Greco",
     "speech": "Consiglio di Stato ha deciso: Sulla non coercibilità del potere di autotutela in caso di revoca di nulla osta all’ingresso in Italia, e sull’inammissibilità del ricorso avverso il silenzio.."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "24 set",
-    "titolo": "Liquidazione del danno da decesso del militare per causa di servizio: le provvidenze indennitarie si detraggono anche in sede di ottemperanza.",
-    "sintesi": "Consiglio di Stato, sezione II, ordinanza 24 settembre 2026, n. 7056 – Pres. Taormina, Est. Addesso",
-    "speech": "Consiglio di Stato ha deciso: Liquidazione del danno da decesso del militare per causa di servizio: le provvidenze indennitarie si detraggono anche in sede di ottemperanza.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "8 set",
-    "titolo": "Annullamento tardivo del permesso di costruire: l’attestata conformità urbanistica del progetto non è falsa rappresentazione dei fatti.",
-    "sintesi": "Consiglio di Stato, sezione IV, 8 settembre 2026, n. 6846 - Pres. Martino, Est. Loria",
-    "speech": "Consiglio di Stato ha deciso: Annullamento tardivo del permesso di costruire: l’attestata conformità urbanistica del progetto non è falsa rappresentazione dei fatti.."
   },
   {
     "id": 17,
