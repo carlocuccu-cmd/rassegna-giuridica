@@ -111,40 +111,58 @@
     "id": 13,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
-    "data": "6 ott",
-    "titolo": "Principio del risultato e concessioni di servizi pubblici.",
-    "sintesi": "Consiglio di Stato, sezione VI, 6 ottobre 2026, n. 7350 - Pres. Montedoro, Est. Vitale",
-    "speech": "Consiglio di Stato ha deciso: Principio del risultato e concessioni di servizi pubblici.."
+    "data": "2 ott",
+    "titolo": "Non può essere invocato alcun legittimo affidamento alla proroga nel caso di concessioni provvisorie di un'area demaniale marittima.",
+    "sintesi": "Consiglio di Stato, sezione VII, 2 ottobre 2026, n. 7304 - Pres. Lipari, Est. Rotondano",
+    "speech": "Consiglio di Stato ha deciso: Non può essere invocato alcun legittimo affidamento alla proroga nel caso di concessioni provvisorie di un'area demaniale marittima.."
   },
   {
     "id": 14,
     "tag": "amministrativo",
-    "fonte": "T.a.r. per la Sicilia",
-    "data": "22 ott",
-    "titolo": "Appalti finanziati con risorse PNC: normativa applicabile in giudizio e conseguenze dell'illegittimità dell'aggiudicazione.",
-    "sintesi": "T.a.r. per la Sicilia, Catania, sezione III, 22 ottobre 2026, n. 2736 - Pres. Lento, Est. Profili",
-    "speech": "T.a.r. per la Sicilia ha deciso: Appalti finanziati con risorse PNC: normativa applicabile in giudizio e conseguenze dell'illegittimità dell'aggiudicazione.."
+    "fonte": "Consiglio di Stato",
+    "data": "5 ott",
+    "titolo": "Sulla non coercibilità del potere di autotutela in caso di revoca di nulla osta all’ingresso in Italia, e sull’inammissibilità del ricorso avverso il silenzio.",
+    "sintesi": "Consiglio di Stato, sezione III, 5 ottobre 2026, n. 7337 – Pres. ed Est. Greco",
+    "speech": "Consiglio di Stato ha deciso: Sulla non coercibilità del potere di autotutela in caso di revoca di nulla osta all’ingresso in Italia, e sull’inammissibilità del ricorso avverso il silenzio.."
   },
   {
     "id": 15,
     "tag": "amministrativo",
-    "fonte": "TAR",
-    "data": "10 giu",
-    "titolo": "Sulla competenza comunale in materia di autorizzazione allo scarico delle acque reflue.",
-    "sintesi": "Tar per il Lazio, sez. II, 10 giugno 2026, n. 10648 - Pres. Panzironi, Est. Nobile",
-    "speech": "TAR. Sulla competenza comunale in materia di autorizzazione allo scarico delle acque reflue.. Tar per il Lazio, sez. II, 10 giugno 2026, n. 10648 - Pres. Panzironi, Est. Nobile."
+    "fonte": "Consiglio di Stato",
+    "data": "24 set",
+    "titolo": "Liquidazione del danno da decesso del militare per causa di servizio: le provvidenze indennitarie si detraggono anche in sede di ottemperanza.",
+    "sintesi": "Consiglio di Stato, sezione II, ordinanza 24 settembre 2026, n. 7056 – Pres. Taormina, Est. Addesso",
+    "speech": "Consiglio di Stato ha deciso: Liquidazione del danno da decesso del militare per causa di servizio: le provvidenze indennitarie si detraggono anche in sede di ottemperanza.."
   },
   {
     "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
-    "data": "3 nov",
-    "titolo": "È accessibile il documento che l’amministrazione può ricavare, senza compiere attività esplorativa, estraendo meccanicamente dati che già possiede.",
-    "sintesi": "Consiglio di Stato, sezione II, 3 novembre 2026, n. 8003 - Pres. Taormina, Est. Cellini",
-    "speech": "Consiglio di Stato ha deciso: È accessibile il documento che l’amministrazione può ricavare, senza compiere attività esplorativa, estraendo meccanicamente dati che già possiede.."
+    "data": "8 set",
+    "titolo": "Annullamento tardivo del permesso di costruire: l’attestata conformità urbanistica del progetto non è falsa rappresentazione dei fatti.",
+    "sintesi": "Consiglio di Stato, sezione IV, 8 settembre 2026, n. 6846 - Pres. Martino, Est. Loria",
+    "speech": "Consiglio di Stato ha deciso: Annullamento tardivo del permesso di costruire: l’attestata conformità urbanistica del progetto non è falsa rappresentazione dei fatti.."
   },
   {
     "id": 17,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "14 nov",
+    "titolo": "Lavoro mediante piattaforme digitali - attuazione direttiva (ue)",
+    "sintesi": "D.Lgs.  2 novembre 2026, n. 208",
+    "speech": "Gazzetta Ufficiale. Lavoro mediante piattaforme digitali - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  2 novembre 2026, n. 208."
+  },
+  {
+    "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "13 nov",
+    "titolo": "Riduzione del costo dell'energia elettrica e del gas - disposizioni urgenti",
+    "sintesi": "D.L.  13 novembre 2026, n. 207",
+    "speech": "Gazzetta Ufficiale. Riduzione del costo dell'energia elettrica e del gas - disposizioni urgenti. Riferimento normativo: D.L.  13 novembre 2026, n. 207."
+  },
+  {
+    "id": 19,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "12 nov",
@@ -153,7 +171,7 @@
     "speech": "Gazzetta Ufficiale. Giovani e servizio civile universale - deleghe al governo. Riferimento normativo: L.  29 ottobre 2026, n. 206."
   },
   {
-    "id": 18,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "11 nov",
@@ -162,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Bradisismo campi flegrei - piano straordinario. Riferimento normativo: D.L.  11 novembre 2026, n. 205."
   },
   {
-    "id": 19,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "10 nov",
@@ -171,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Archivio centrale dello stato - nuova denominazione «archivio nazionale». Riferimento normativo: L.  29 ottobre 2026, n. 203."
   },
   {
-    "id": 20,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 nov",
@@ -180,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Pubblicita' delle sentenze di assoluzione o proscioglimento - modifiche. Riferimento normativo: L. 29 ottobre 2026, n. 201."
   },
   {
-    "id": 21,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "9 nov",
@@ -189,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti - conversione d.l. 157/2026. Riferimento normativo: L. 6 novembre 2026, n. 202."
   },
   {
-    "id": 22,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "6 nov",
@@ -198,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Continuita' funzioni anac - misure urgenti. Riferimento normativo: D.L.  6 novembre 2026, n. 200."
   },
   {
-    "id": 23,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "4 nov",
@@ -207,30 +225,12 @@
     "speech": "Gazzetta Ufficiale. Reati militari - trattamento sanzionatorio della diffamazione. Riferimento normativo: Sentenza 10/06 - 03/11/2026, n. 181."
   },
   {
-    "id": 24,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "4 nov",
     "titolo": "Disabilita' in eta' evolutiva - inclusione scolastica",
     "sintesi": "Sentenza 22/09 - 03/11/2026, n. 182",
     "speech": "Gazzetta Ufficiale. Disabilita' in eta' evolutiva - inclusione scolastica. Riferimento normativo: Sentenza 22/09 - 03/11/2026, n. 182."
-  },
-  {
-    "id": 25,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "30 ott",
-    "titolo": "Plastica riciclata a contatto con i prodotti alimentari - adeguamento ue",
-    "sintesi": "D.Lgs.  9 ottobre 2026, n. 199",
-    "speech": "Gazzetta Ufficiale. Plastica riciclata a contatto con i prodotti alimentari - adeguamento ue. Riferimento normativo: D.Lgs.  9 ottobre 2026, n. 199."
-  },
-  {
-    "id": 26,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "29 ott",
-    "titolo": "Malattie rare e farmaci orfani - regolamento attuativo",
-    "sintesi": "Decreto 5 agosto 2026, n. 198",
-    "speech": "Gazzetta Ufficiale. Malattie rare e farmaci orfani - regolamento attuativo. Riferimento normativo: Decreto 5 agosto 2026, n. 198."
   }
 ]
