@@ -110,6 +110,15 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "26 ott",
+    "titolo": "Tutela ambientale: silenzio-assenso nei procedimenti speciali e assorbimento dei motivi di ricorso.",
+    "sintesi": "T.a.r. per il Lazio, sezione II-bis, 26 ottobre 2026, n. 16806 – Pres. Francavilla, Est. Licheri",
+    "speech": "T.a.r. per il Lazio ha deciso: Tutela ambientale: silenzio-assenso nei procedimenti speciali e assorbimento dei motivi di ricorso.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "24 set",
     "titolo": "Sulla revoca degli atti di gara per mutamento della situzione di fatto e sulla correlativa richiesta risarcitoria.",
@@ -117,7 +126,7 @@
     "speech": "Consiglio di Stato ha deciso: Sulla revoca degli atti di gara per mutamento della situzione di fatto e sulla correlativa richiesta risarcitoria.."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "5 nov",
@@ -126,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Nei concorsi pubblici con test a risposta multipla, ogni quesito deve ammettere una sola risposta corretta, esente da ambiguità.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "25 set",
@@ -135,22 +144,13 @@
     "speech": "Consiglio di Stato ha deciso: Il conflitto di interesse in materia di aggiudicazioni pubbliche ha natura di fattispecie di mero pericolo, ma la prova deve basarsi su dati oggettivi.."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per la Lombardia",
     "data": "21 set",
     "titolo": "Cittadinanza per matrimonio: la trascrizione successiva alla domanda delle nozze celebrate all’estero non ne impedisce l’accoglimento.",
     "sintesi": "T.a.r. per la Lombardia, Brescia, sezione I, 21 settembre 2026, n. 1242 – Pres. Gabbricci, Est. Cappelli",
     "speech": "T.a.r. per la Lombardia ha deciso: Cittadinanza per matrimonio: la trascrizione successiva alla domanda delle nozze celebrate all’estero non ne impedisce l’accoglimento.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "28 ott",
-    "titolo": "News UM n. 115/2026. Alla Corte di giustizia UE il meccanismo del c.d. payback sui dispositivi medici.",
-    "sintesi": "Consiglio di Stato, sezione III, ordinanza 28 ottobre 2026, n. 7833 – Pres. Corradino, Est. Cerroni",
-    "speech": "Consiglio di Stato ha deciso: News UM n. 115/2026. Alla Corte di giustizia UE il meccanismo del c.d. payback sui dispositivi medici.."
   },
   {
     "id": 18,
