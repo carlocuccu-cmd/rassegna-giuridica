@@ -110,6 +110,33 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "21 ott",
+    "titolo": "Legittima la sanzione espulsiva in caso di mancanza comprova del possesso del requisito premiale.",
+    "sintesi": "T.a.r. per il Lazio, sezione II, 21 ottobre 2026, n. 16626 - Pres. Panzironi, Est. Nobile",
+    "speech": "T.a.r. per il Lazio ha deciso: Legittima la sanzione espulsiva in caso di mancanza comprova del possesso del requisito premiale.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "Consiglio di Stato",
+    "data": "4 ago",
+    "titolo": "Ordinanze contingibili e urgenti: la tutela della salute del singolo non giustifica, di per sé, l'esercizio del potere extra ordinem del sindaco.",
+    "sintesi": "Consiglio di Stato, sezione I, parere 4 agosto 2026, n. 1424 – Pres. f.f. Cafaggi, Est. Miniussi",
+    "speech": "Consiglio di Stato ha deciso: Ordinanze contingibili e urgenti: la tutela della salute del singolo non giustifica, di per sé, l'esercizio del potere extra ordinem del sindaco.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per la Puglia",
+    "data": "3 nov",
+    "titolo": "Sulla proroga tecnica delle concessioni demaniali marittime e sulla necessità della preventiva approvazione del piano comunale delle coste.",
+    "sintesi": "T.a.r. per la Puglia, Lecce, sezione I, 3 novembre 2026, n. 1363 - Pres. Pasca, Est. Giancaspro",
+    "speech": "T.a.r. per la Puglia ha deciso: Sulla proroga tecnica delle concessioni demaniali marittime e sulla necessità della preventiva approvazione del piano comunale delle coste.."
+  },
+  {
+    "id": 16,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "9 nov",
     "titolo": "Indennità di trasferimento del militare: esclusa se il movimento di sede non è effettivo o se il reparto soppresso è ricollocato in comune confinante.",
@@ -117,34 +144,25 @@
     "speech": "Consiglio di Stato ha deciso: Indennità di trasferimento del militare: esclusa se il movimento di sede non è effettivo o se il reparto soppresso è ricollocato in comune confinante.."
   },
   {
-    "id": 14,
-    "tag": "amministrativo",
-    "fonte": "Consiglio di Stato",
-    "data": "5 ott",
-    "titolo": "In tema di presupposti dell'errore revocatorio.",
-    "sintesi": "Consiglio di Stato, sezione III, 5 ottobre 2026, n. 7331 - Pres. De Nictolis, Est. D'Angelo",
-    "speech": "Consiglio di Stato ha deciso: In tema di presupposti dell'errore revocatorio.."
-  },
-  {
-    "id": 15,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "14 ott",
-    "titolo": "Pubblico impiego. L'esclusione del personale in comando da una procedura di mobilità va adeguatamente motivata.",
-    "sintesi": "T.a.r. per il Lazio, sezione IV, 14 ottobre 2026, n. 16020 - Pres. Mele, Est. Bianchi",
-    "speech": "T.a.r. per il Lazio ha deciso: Pubblico impiego. L'esclusione del personale in comando da una procedura di mobilità va adeguatamente motivata.."
-  },
-  {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Lombardia",
-    "data": "7 ott",
-    "titolo": "Consumo di suolo: legittimo lo stralcio di un ambito di trasformazione senza perequazione dei sacrifici.",
-    "sintesi": "T.a.r. per la Lombardia, Brescia, sezione II, 7 ottobre 2026, n. 1326 - Pres. Pedron, Est. Cappelli",
-    "speech": "T.a.r. per la Lombardia ha deciso: Consumo di suolo: legittimo lo stralcio di un ambito di trasformazione senza perequazione dei sacrifici.."
-  },
-  {
     "id": 17,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "23 nov",
+    "titolo": "Protezione civile - disposizioni",
+    "sintesi": "L.  12 novembre 2026, n. 212",
+    "speech": "Gazzetta Ufficiale. Protezione civile - disposizioni. Riferimento normativo: L.  12 novembre 2026, n. 212."
+  },
+  {
+    "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "23 nov",
+    "titolo": "Riforma ordinamento commercialisti - delega al governo",
+    "sintesi": "L.  19 novembre 2026, n. 213",
+    "speech": "Gazzetta Ufficiale. Riforma ordinamento commercialisti - delega al governo. Riferimento normativo: L.  19 novembre 2026, n. 213."
+  },
+  {
+    "id": 19,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "21 nov",
@@ -153,7 +171,7 @@
     "speech": "Gazzetta Ufficiale. Responsabilita' per danno da prodotti difettosi - attuazione direttiva (ue). Riferimento normativo: D.Lgs. 6 novembre 2026, n. 211."
   },
   {
-    "id": 18,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "20 nov",
@@ -162,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Circolazione veicoli diesel «euro 5» - conversione d.l. 167/2026. Riferimento normativo: L.  19 novembre 2026, n. 210."
   },
   {
-    "id": 19,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "18 nov",
@@ -171,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Unioni civili - adozione di maggiorenni. Riferimento normativo: Sentenza 07/10 - 12/11/2026, n. 195."
   },
   {
-    "id": 20,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "18 nov",
@@ -180,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Manifestazioni in luogo pubblico o aperto al pubblico - danneggiamento. Riferimento normativo: Sentenza 05/10 - 12/11/2026, n. 196."
   },
   {
-    "id": 21,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "18 nov",
@@ -189,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Camere di commercio - versamenti al bilancio dello stato. Riferimento normativo: Sentenza 06/10 - 13/11/2026, n. 202."
   },
   {
-    "id": 22,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "18 nov",
@@ -198,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Reati ostativi - sospensione dell'esecuzione. Riferimento normativo: Sentenza 06/10 - 13/11/2026, n. 203."
   },
   {
-    "id": 23,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "16 nov",
@@ -207,30 +225,12 @@
     "speech": "Gazzetta Ufficiale. Prezzi dei carburanti, bollo auto e fisco - conversione d.l. 162/2026. Riferimento normativo: L. 13 novembre 2026, n. 209."
   },
   {
-    "id": 24,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "14 nov",
     "titolo": "Lavoro mediante piattaforme digitali - attuazione direttiva (ue)",
     "sintesi": "D.Lgs.  2 novembre 2026, n. 208",
     "speech": "Gazzetta Ufficiale. Lavoro mediante piattaforme digitali - attuazione direttiva (ue). Riferimento normativo: D.Lgs.  2 novembre 2026, n. 208."
-  },
-  {
-    "id": 25,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "13 nov",
-    "titolo": "Riduzione del costo dell'energia elettrica e del gas - disposizioni urgenti",
-    "sintesi": "D.L.  13 novembre 2026, n. 207",
-    "speech": "Gazzetta Ufficiale. Riduzione del costo dell'energia elettrica e del gas - disposizioni urgenti. Riferimento normativo: D.L.  13 novembre 2026, n. 207."
-  },
-  {
-    "id": 26,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "12 nov",
-    "titolo": "Giovani e servizio civile universale - deleghe al governo",
-    "sintesi": "L.  29 ottobre 2026, n. 206",
-    "speech": "Gazzetta Ufficiale. Giovani e servizio civile universale - deleghe al governo. Riferimento normativo: L.  29 ottobre 2026, n. 206."
   }
 ]
