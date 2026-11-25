@@ -110,6 +110,15 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "TAR",
+    "data": "9 nov",
+    "titolo": "Occupazione illegittima e usucapione: condizioni e limiti all'accertamento incidentale del giudice amministrativo.",
+    "sintesi": "Consiglio di giustizia amministrativa per la Regione Siciliana, sezione giurisdizionale, 9 novembre 2026, n. 747 - Pres. de Francisco, Est. Chinè",
+    "speech": "TAR. Occupazione illegittima e usucapione: condizioni e limiti all'accertamento incidentale del giudice amministrativo.. Consiglio di giustizia amministrativa per la Regione Siciliana, sezione giurisdizionale, 9 novembre 2026, n. 747 - Pres. de Francisco, Est. Chinè."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "7 ott",
     "titolo": "Abuso di posizione dominante e subentro di un nuovo concessionario del servizio di trasporto pubblico locale.",
@@ -117,7 +126,7 @@
     "speech": "Consiglio di Stato ha deciso: Abuso di posizione dominante e subentro di un nuovo concessionario del servizio di trasporto pubblico locale.."
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "28 set",
@@ -126,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Dimensionamento scolastico: illegittimo l’accorpamento che non tiene conto della sede dell’istituto in un comune montano.."
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "TAR",
     "data": "9 nov",
@@ -135,22 +144,13 @@
     "speech": "TAR. Questioni processuali sul ricorso per motivi aggiunti e sull’istanza di accesso sopravvenuta nell’ambito del rito super accelerato.. T.r.g.a. Trento, 9 novembre 2026, n. 189 - Pres. Farina, Est. Cappellano."
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "T.a.r. per il Lazio",
     "data": "28 ott",
     "titolo": "Potere straordinario di deroga allo strumento di pianificazione di un'area naturale protetta: presupposti di necessità e urgenza.",
     "sintesi": "T.a.r. per il Lazio, sezione V-quater, 28 ottobre 2026, n. 17019 - Pres. Arzillo, Est. Petroni",
     "speech": "T.a.r. per il Lazio ha deciso: Potere straordinario di deroga allo strumento di pianificazione di un'area naturale protetta: presupposti di necessità e urgenza.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "TAR",
-    "data": "2 nov",
-    "titolo": "News UM n. 118/2026. Contributo di costruzione: il rinvio della l.r. Puglia n. 14 del 2009 (c.d. “Piano casa”) all’art. 16 t.u. edilizia comprende le esenzioni dell’art. 17, comma 3.",
-    "sintesi": "Corte costituzionale 2 novembre 2026, n. 179 – Pres. Amoroso, Red. Cassinelli",
-    "speech": "TAR. News UM n. 118/2026. Contributo di costruzione: il rinvio della l.r. Puglia n. 14 del 2009 (c.d. “Piano casa”) all’art. 16 t.u. edilizia comprende le esenzioni dell’art. 17, comma 3.. Corte costituzionale 2 novembre 2026, n. 179 – Pres. Amoroso, Red. Cassinelli."
   },
   {
     "id": 18,
