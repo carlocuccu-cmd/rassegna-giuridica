@@ -110,6 +110,24 @@
   {
     "id": 13,
     "tag": "amministrativo",
+    "fonte": "T.a.r. per la Campania",
+    "data": "3 nov",
+    "titolo": "Poteri del comune sulla CILA: l'inefficacia può essere dichiarata solo per interventi soggetti a SCIA o a permesso di costruire.",
+    "sintesi": "T.a.r. per la Campania, sezione IV, 3 novembre 2026, n. 6262 - Pres. Severini, Est. Lo Sapio",
+    "speech": "T.a.r. per la Campania ha deciso: Poteri del comune sulla CILA: l'inefficacia può essere dichiarata solo per interventi soggetti a SCIA o a permesso di costruire.."
+  },
+  {
+    "id": 14,
+    "tag": "amministrativo",
+    "fonte": "T.a.r. per il Lazio",
+    "data": "5 nov",
+    "titolo": "News UM n. 121/2026. Concorsi pubblici, ulteriore rinvio alla Consulta: antinomia tra la disciplina “taglia-idonei” e la deroga transitoria per graduatorie 2024-2025 e bandi 2025.",
+    "sintesi": "T.a.r. per il Lazio, sezione IV ter, ordinanza 5 novembre 2026, n. 17473 – Pres. Tricarico, est. Battiloro",
+    "speech": "T.a.r. per il Lazio ha deciso: News UM n. 121/2026. Concorsi pubblici, ulteriore rinvio alla Consulta: antinomia tra la disciplina “taglia-idonei” e la deroga transitoria per graduatorie 2024-2025 e bandi 2025.."
+  },
+  {
+    "id": 15,
+    "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "12 ott",
     "titolo": "Ammissione a finanziamenti e necessità di motivazione dei punteggi in assenza di predeterminazione di criteri valutativi specifici nella lex specialis.",
@@ -117,7 +135,7 @@
     "speech": "Consiglio di Stato ha deciso: Ammissione a finanziamenti e necessità di motivazione dei punteggi in assenza di predeterminazione di criteri valutativi specifici nella lex specialis.."
   },
   {
-    "id": 14,
+    "id": 16,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "12 ott",
@@ -126,7 +144,7 @@
     "speech": "Consiglio di Stato ha deciso: Sulla natura giuridica del contratto di avvalimento e sull'utilizzazione di un contratto di avvalimento sostanzialmente simulato.."
   },
   {
-    "id": 15,
+    "id": 17,
     "tag": "amministrativo",
     "fonte": "Consiglio di Stato",
     "data": "8 ott",
@@ -135,25 +153,16 @@
     "speech": "Consiglio di Stato ha deciso: Depurazione delle acque reflue urbane: la giurisdizione spetta al Tribunale superiore delle acque pubbliche.."
   },
   {
-    "id": 16,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per la Sicilia",
-    "data": "6 ott",
-    "titolo": "Illegittimo il regolamento universitario che preveda l’attribuzione di insegnamenti, a titolo gratuito, ai ricercatori a tempo indeterminato.",
-    "sintesi": "T.a.r. per la Sicilia, Catania, sezione I, 6 ottobre 2026, n. 2658 - Pres. Savasta, Est. Sidoti",
-    "speech": "T.a.r. per la Sicilia ha deciso: Illegittimo il regolamento universitario che preveda l’attribuzione di insegnamenti, a titolo gratuito, ai ricercatori a tempo indeterminato.."
-  },
-  {
-    "id": 17,
-    "tag": "amministrativo",
-    "fonte": "T.a.r. per il Lazio",
-    "data": "5 nov",
-    "titolo": "Esecuzione della sentenza sul silenzio: inammissibile l'autonomo ricorso per l'ottemperanza.",
-    "sintesi": "T.a.r. per il Lazio, sezione IV-ter, 5 novembre 2026, n. 17475 – Pres. Tricarico, Est. Battiloro",
-    "speech": "T.a.r. per il Lazio ha deciso: Esecuzione della sentenza sul silenzio: inammissibile l'autonomo ricorso per l'ottemperanza.."
-  },
-  {
     "id": 18,
+    "tag": "fiscale",
+    "fonte": "Gazzetta Ufficiale",
+    "data": "26 nov",
+    "titolo": "Assistenza spirituale per la protezione civile - intesa pcm e cei",
+    "sintesi": "D.P.R.  15 settembre 2026, n. 217",
+    "speech": "Gazzetta Ufficiale. Assistenza spirituale per la protezione civile - intesa pcm e cei. Riferimento normativo: D.P.R.  15 settembre 2026, n. 217."
+  },
+  {
+    "id": 19,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "25 nov",
@@ -162,7 +171,7 @@
     "speech": "Gazzetta Ufficiale. Ordinamento forense - riforma. Riferimento normativo: D.Lgs. 25 novembre 2026, n. 216."
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "24 nov",
@@ -171,7 +180,7 @@
     "speech": "Gazzetta Ufficiale. Disposizioni in materia di cinema. Riferimento normativo: L.  6 novembre 2026, n. 214."
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "24 nov",
@@ -180,7 +189,7 @@
     "speech": "Gazzetta Ufficiale. Antisemitismo - disposizioni per il contrasto. Riferimento normativo: L.  23 novembre 2026, n. 215."
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "23 nov",
@@ -189,7 +198,7 @@
     "speech": "Gazzetta Ufficiale. Protezione civile - disposizioni. Riferimento normativo: L.  12 novembre 2026, n. 212."
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "23 nov",
@@ -198,7 +207,7 @@
     "speech": "Gazzetta Ufficiale. Riforma ordinamento commercialisti - delega al governo. Riferimento normativo: L.  19 novembre 2026, n. 213."
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "21 nov",
@@ -207,7 +216,7 @@
     "speech": "Gazzetta Ufficiale. Responsabilita' per danno da prodotti difettosi - attuazione direttiva (ue). Riferimento normativo: D.Lgs. 6 novembre 2026, n. 211."
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "20 nov",
@@ -216,7 +225,7 @@
     "speech": "Gazzetta Ufficiale. Circolazione veicoli diesel «euro 5» - conversione d.l. 167/2026. Riferimento normativo: L.  19 novembre 2026, n. 210."
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "18 nov",
@@ -225,21 +234,12 @@
     "speech": "Gazzetta Ufficiale. Unioni civili - adozione di maggiorenni. Riferimento normativo: Sentenza 07/10 - 12/11/2026, n. 195."
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "fiscale",
     "fonte": "Gazzetta Ufficiale",
     "data": "18 nov",
     "titolo": "Manifestazioni in luogo pubblico o aperto al pubblico - danneggiamento",
     "sintesi": "Sentenza 05/10 - 12/11/2026, n. 196",
     "speech": "Gazzetta Ufficiale. Manifestazioni in luogo pubblico o aperto al pubblico - danneggiamento. Riferimento normativo: Sentenza 05/10 - 12/11/2026, n. 196."
-  },
-  {
-    "id": 27,
-    "tag": "fiscale",
-    "fonte": "Gazzetta Ufficiale",
-    "data": "18 nov",
-    "titolo": "Camere di commercio - versamenti al bilancio dello stato",
-    "sintesi": "Sentenza 06/10 - 13/11/2026, n. 202",
-    "speech": "Gazzetta Ufficiale. Camere di commercio - versamenti al bilancio dello stato. Riferimento normativo: Sentenza 06/10 - 13/11/2026, n. 202."
   }
 ]
